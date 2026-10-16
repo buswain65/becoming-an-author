@@ -1819,4 +1819,844 @@ He should start to wake up thinking he needs to go out to the bathroom, and that
 
 > **Me:**
 > 
+> The god explains that at present, Evan has a few choices:
 > 
+> 1. Be reincarnated into the new fantasy world
+> 2. Be reincarnated into his original world
+> 
+> Evan thinks about all that he's been through and is leaning toward being reincarnated into his original world. Then asks: "Isn't what happened to me...I was reincarnated into this world?"
+> 
+> God: "No. You were summoned. Which is why you have your body from your world and your memories."
+> 
+> Evan: So what happens if I get reincarnated?
+> God: You start over as a baby. You lose your memories and start with a new body.
+> 
+> Evan: Why can't you just send me back as is?
+> God: Think of your old world and this world as 2 rooms in a house. The wall between them is a load bearing wall. Each time a summoning occurs, it is like creating a new opening in the wall between the rooms. Each new summoning doesn't use the previous openings, they create new openings. After a while the wall looks like Swiss cheese.
+> 
+> Evan: And the roof collapses
+> God: Yes. But in the room analogy, it just means the house is ruined. In the case of your world and mine, it would mean total destruction of both worlds.
+> 
+> Evan: Well, that would suck.
+> God: Indeed.
+> 
+> Evan: Is there any guarantee that I won't be reincarnated into a bad family or be killed young?
+> God: Unfortunately, no.
+> 
+> Evan: I really would like some degree of certainty.
+> God: Life doesn't work that way.
+> 
+> Evan: Is there any way that I can keep my body and just be sent back?
+> God: Hmm...there might be a way, but it would require something from you...
+
+---
+
+> **Claude AI:**
+>
+> This is a strong scene, and you've written most of your first turning point. Here's what's working and what to tighten.
+> 
+> **What's working:**
+> 
+> - **The house analogy** is clear, concrete, and memorable. "Load-bearing wall" and "Swiss cheese" explain your whole cosmology in a few lines, which is exactly how worldbuilding should be delivered.
+> - **"Well, that would suck." / "Indeed."** Perfect deadpan from both of them. It shows the god has a dry sense of humor, which sets up their dynamic.
+> - **Evan wanting certainty** is very human, and very much a junior developer who'd like a spec before committing.
+> - **The ending hook** pulls readers straight into the next scene.
+> 
+> **Four ways to strengthen it:**
+> 
+> 1. **Use the god's motto here.** "Life doesn't work that way" is fine, but this is the perfect moment for its first appearance: *"The past is set in stone. The future is like a river."* It answers his demand for certainty, and when it returns at the end, readers will remember where they first heard it.
+> 2. **Make the arc beat visible.** Choosing to keep his body and memories means Evan wants to stay *Evan*. For a man who believes he doesn't matter, that's significant, even if he doesn't realize it. A single line of him being surprised that he cares would make this moment land.
+> 3. **Swiss cheese is an Earth reference.** Why would a god from this world know it? That's a great place for Evan to notice something odd and ask, or notice and say nothing (his flaw). Either way, it's a clue about the god's origin.
+> 4. **Ground the conversation.** It's currently all dialogue, back and forth. Where are they? Is Evan on a riverbank, soaked, shaking, freshly healed? A few physical beats between lines will keep it from feeling like an explanation session.
+> 
+> **One consistency note:** since the wall is one opening from collapse, the god's "there might be a way" has to address that, or readers will ask why the reverse summoning won't destroy everything. That's probably what the "something from you" covers.
+> 
+> **So, the key question: what does the god need from Evan?** That's the actual deal, and Evan's acceptance is your first turning point. Then the rest of the exercise when you're ready: midpoint, low point, climax, and ending.
+
+<br/>
+
+> **Me:**
+>
+> The god explains that at present, Evan has a few choices:
+> 
+> 1. Be reincarnated into the new fantasy world
+> 2. Be reincarnated into his original world
+> 
+> Evan thinks about all that he's been through and is leaning toward being reincarnated into his original world. Then asks: "Isn't what happened to me...I was reincarnated into this world?"
+> 
+> God: "No. You were summoned. Which is why you have your body from your world and your memories."
+> 
+> Evan: So what happens if I get reincarnated?
+> God: You start over as a baby. You lose your memories and start with a new body.
+> 
+> Evan: Why can't you just send me back as is?
+> God: Think of your old world and this world as 2 rooms in a house. The wall between them is a load bearing wall. Each time a summoning occurs, it is like creating a new opening in the wall between the rooms. Each new summoning doesn't use the previous openings, they create new openings. After a while the wall looks like Swiss cheese.
+> 
+> Evan: And the roof collapses
+> God: Yes. But in the room analogy, it just means the house is ruined. In the case of your world and mine, it would mean total destruction of both worlds.
+> 
+> Evan: Well, that would suck.
+> God: Indeed.
+> 
+> Evan: Is there any guarantee that I won't be reincarnated into a bad family or be killed young?
+> God: Unfortunately, no.
+> 
+> Evan: I really would like some degree of certainty.
+> God: The past is set in stone. The future is like a river.
+> 
+> Evan: Is there any way that I can keep my body and just be sent back?
+> God: Hmm...there might be a way, but it would require something from you...
+
+---
+
+> **Claude AI:**
+>
+> The motto fits perfectly there. It answers his demand for certainty, and it's the first time readers hear it, so it'll resonate when it returns at the end.
+> 
+> **One optional follow-up beat:** Evan is a beginner kayaker who's just been thrown in a river. He could answer with deadpan experience, something like:
+> 
+> > **Evan:** "I've been in a river. It flipped me over and tried to drown me."
+> > **God:** "Then you understand it better than most."
+> 
+> It keeps his voice, adds a laugh, and quietly suggests that rivers can be navigated, not just survived, which is where his arc is headed.
+> 
+> The other suggestions (the arc beat of him wanting to stay *Evan*, the Swiss cheese clue, and grounding the scene) can wait until you draft the chapter. They're noted.
+> 
+> **Now the key question:** what does the god need from Evan? That's the deal itself, and Evan accepting it is your first turning point.
+
+<br/>
+
+> **Me:**
+>
+> I love your added dialog
+
+---
+
+> **Claude AI:**
+>
+> Glad it works for you. It's yours now.
+> 
+> So, the cliffhanger: **what does the god need from Evan?** A few directions, based on what we've built:
+> 
+> - **Information:** find the earlier summons' hidden notes, the old god's secrets about the chamber, and the chancellor's archives, which the god can't see.
+> - **Belief:** become the god's first acolyte. Belief gives the god power, and power is what makes a safe reverse summoning possible. That's a big ask for an atheist.
+> - **Stopping the next summoning:** if the chancellor's ritual happens, the wall collapses and there's nothing left to go home to.
+> 
+> You may want all three, but I'd suggest the god asks for one or two up front and the rest emerges later. Which feels right?
+
+<br/>
+
+> **Me:**
+>
+> I want all 3
+
+---
+
+> **Claude AI:**
+>
+> All three works, and together they cover the plot (stop the summoning), the mystery (gather information), and the arc (belief).
+> 
+> The interesting one is **belief**, because Evan can't simply decide to believe on command. And there's a useful distinction here:
+> 
+> - **Believing *that* the god exists** is easy. There's a voice in his head that just saved his life.
+> - **Believing *in* the god,** trusting them and committing to them, is the hard part. That's what an acolyte does, and that's what Evan can't give yet.
+> 
+> So a natural way to write the deal:
+> 
+> > **Evan:** "I don't believe in gods."
+> > **God:** "You're talking to one."
+> > **Evan:** "That's not the same thing."
+> > **God:** "No. It isn't. I'm not asking you to believe in me today."
+> 
+> The god asks for the first two now and leaves belief open. It becomes a slow thread through the book, and it gives you a powerful option for the climax: the moment Evan finally *chooses* to believe in the god, the god gains the power needed at the crucial moment. His arc and the plot resolve in the same beat.
+> 
+> **First turning point, locked in:** Evan accepts the deal to stop the next summoning and gather information, with belief left open, choosing to keep his body and memories instead of reincarnation.
+> 
+> Next: **the midpoint.** What revelation changes the game? Some candidates:
+> 
+> - Discovering the water mage's hidden models, and that there's still a person inside him
+> - The chancellor learning Evan survived
+> - The clock jumping from nine months to six
+> - Finding the earlier summons' hidden notes, revealing something about the chamber or the old god
+
+<br/>
+
+> **Me:**
+>
+> Can we use more than one of them?
+
+---
+
+> **Claude AI:**
+>
+> Yes, but with one rule: **a midpoint works best as a single moment that sets off the others.** If four separate revelations happen in a row, none feels big. If one event causes a chain reaction, it feels like the whole story tipped over.
+> 
+> Here's one way they could link:
+> 
+> 1. **Earlier (first half):** Evan finds the earlier summons' hidden notes. They point him toward something the water mage is hiding.
+> 2. **The midpoint:** Following the clues, Evan finds the water mage's hidden models, and the water mage finds *him*. Evan sees there's still a person inside the monster.
+> 3. **The fallout:** The chancellor learns Evan survived, and the kingdom panics.
+> 4. **The consequence:** The chancellor speeds up the ritual. Nine months becomes six.
+> 
+> That gives you a discovery, a confrontation, and a tightened clock, all from one scene.
+> 
+> **One interesting choice at step 3:** how does the chancellor find out? If the water mage reports Evan, he's still the kingdom's weapon. But if the water mage *keeps the secret*, perhaps because Evan saw the models, that's the first sign he can be reached. Then the chancellor would need to learn some other way, for example through a spy or a mistake Evan makes.
+> 
+> Does this chain work for you? And should the water mage protect Evan's secret, or betray it?
+
+<br/>
+
+> **Me:**
+>
+> 1. Earlier: Evan finds the first of the earlier summons hidden notes
+> 2. Midpoint: After giving the information to the god, the god realizes that the timeline is not 9 months, but closer to 6 months
+> 3. Fallout: Evan has to make a more desperate push to get the other information which leads to the Chancellor finding out that someone is trying to stop the ritual (but not that it is Evan specifically) -- the Chancellor could just refer to this person by "Ruiner"
+> 4. Consequence: The Chancellor dispatches groups to try to stop/kill the "Ruiner"
+
+---
+
+> **Claude AI:**
+>
+> That's a strong chain, and it's better than mine in one important way: **every step is caused by Evan's actions.** He finds the notes, the notes reveal the real timeline, his desperate push exposes him, and the kingdom strikes back. That's cause and effect, not coincidence.
+> 
+> **"Ruiner" is a fantastic touch.** Think about the irony:
+> 
+> - The kingdom threw Evan away as worthless.
+> - Now the most wanted person in the kingdom is that same man, and they don't know it.
+> - And they call him the Ruiner, when their summonings are what's ruining two worlds.
+> 
+> It's also your theme in action. Evan, who believes he doesn't matter, has become the chancellor's biggest threat without anyone knowing his name. The day the chancellor learns the Ruiner is the "worthless" summon he had killed is a scene readers will wait for.
+> 
+> **One thing to strengthen:** a midpoint should shift Evan from *reacting* to *acting*. A revised timeline is important information, but on its own it's a bit quiet. You could make it hit harder by having the notes reveal *why* it's six months, for instance that the sacrifices are already being gathered, and Evan knows some of the people being taken. Then the clock isn't abstract; it has faces.
+> 
+> **A natural fit for step 4:** who leads the hunt for the Ruiner? The water mage is the kingdom's most powerful weapon, and the chancellor wants him used up anyway. Sending him after the Ruiner sets up the confrontation, and the models discovery can happen during that hunt, in the second half.
+> 
+> So:
+> 
+> 1. Does the water mage lead the hunt?
+> 2. **The low point:** what's the worst moment for Evan, when "I don't matter" seems proven true?
+
+<br/>
+
+> **Me:**
+>
+> The chancellor does not want the water mage involved initially since that could cause the water mage to just destroy the kingdom -- back to that "why look for a needle in a haystack, when you can just flood the field"
+
+---
+
+> **Claude AI:**
+>
+> That's sound logic, and it tells us a lot about the chancellor: he's afraid of his own weapon. Using the water mage to find one person risks losing a town, or the capital, in the process.
+> 
+> The word "initially" gives you a natural **escalation ladder**:
+> 
+> 1. **Ordinary hunters** (soldiers, trackers, perhaps near-summon-level locals) go after the Ruiner. Evan evades them, barely, using his noticing, his outdoor skills, and his friends.
+> 2. **Each failure costs the chancellor** time and credibility, with the ritual approaching.
+> 3. **Finally, out of desperation,** the chancellor unleashes the water mage, knowing the collateral damage could be enormous.
+> 
+> That final step is a natural setup for your **low point**. For example, the water mage "floods the field" to flush out the Ruiner, and people Evan cares about are hurt or killed because of him. In that moment, the lie twists into something worse: not just "I don't matter," but "everyone near me gets hurt." It's the moment he's most tempted to give up, or to take the god's reincarnation offer and disappear.
+> 
+> It's very dark, so it should be one of your "never a joke" moments. Evan's jokes might stop entirely here, which, as we noted in Stage 5, would carry real weight.
+> 
+> Is that close to the low point you have in mind, or do you see it differently?
+
+<br/>
+
+> **Me:**
+>
+> I like this
+
+---
+
+> **Claude AI:**
+>
+> **Low point, locked in:** Desperate, the chancellor unleashes the water mage, who floods an area to flush out the Ruiner. People Evan cares about are hurt or killed. The lie twists into "everyone near me gets hurt," and Evan is tempted to give up or take the reincarnation offer. His jokes stop.
+> 
+> Now, **the climax.** It needs to resolve the major threads, ideally in one connected sequence. Here's what's waiting for an answer:
+> 
+> - **The ritual:** the summoning at the mountain chamber must be stopped.
+> - **The water mage:** reached, defeated, or both, likely using the hidden models.
+> - **The chancellor:** what happens to him?
+> - **The other gods:** their preemptive reset is still looming.
+> - **Belief:** the moment Evan chooses to believe in the god, giving the god power when it matters most.
+> - **Speaking up:** his flaw's final test, where Evan insists on being heard.
+> 
+> You don't need every detail. Just sketch it roughly: **where does the climax happen, and what's the key moment where Evan wins?** Remember, he wins with noticing, nerve, and people, not power.
+
+<br/>
+
+> **Me:**
+>
+> Evan realizes that he has no hope of defeating the water mage after the water mage blows a hole in a mountain.
+> 
+> So, Evan tries to understand the water mage.
+> 
+> Evan is able to reach the water mage, but asking about his models. Getting the water mage to explain why he creates the models.
+> 
+> If we make the models of places from his original world then it could help out at this point. 
+> 
+> Evan, knows some of the places that the models are from. He's visited them recently (before his summoning). And tells the water mage about the changes that have happened.
+Evan realizes that the water mage is still making models of places from his home, because all he really wants to do is go home and not be a tool for "this evil" anymore.
+> 
+> Evan gets the water mage to realize that the mage would be upset, even sad, if something happened to his models. This leads the mage to realize that people, like the ones he's killed, are precious to others just like his models are precious to him.
+
+---
+
+> **Claude AI:**
+>
+> This is the heart of your book, and it's exactly right: **Evan wins by understanding, not overpowering.** A man who believes he doesn't matter saves the day by showing someone else that people matter. The climax *is* your theme.
+> 
+> **What's working:**
+> 
+> - **Asking about the models** is a perfect use of Evan's signature strength. He noticed what everyone else missed.
+> - **Models of Sweden** pay off beautifully. A man who builds his old neighborhood for decades isn't a weapon; he's homesick.
+> - **Telling him what's changed** is bittersweet and powerful. Home moved on without him.
+> - **The final realization** mirrors Evan's own arc: the water mage learns that other people are as precious to someone as his models are to him.
+> 
+> **Three things to plan for:**
+> 
+> 1. **Why does Evan know these places?** An American who just moved for his first job having recently visited Swedish neighborhoods needs a setup, or it'll feel convenient. Plant it early: maybe at the Nantahala dinner, he mentions backpacking through Sweden after college, or he has Swedish family. Even better, it can be the **small thing he notices early and says nothing about**: a glimpse of a model, or a place name, that he recognizes and keeps to himself. It pays off here.
+> 2. **Keep the places general.** If Evan happens to know the mage's exact street, readers will roll their eyes. Famous landmarks, a city square, or a well-known shop chain are more believable.
+> 3. **Earn the turn.** Decades of brainwashing shouldn't collapse in one conversation unless it's been cracking all along. Earlier hints help: the hidden models, a moment of hesitation during the hunt, the god's memory of the first time he wept after draining an animal.
+> 
+> **Two big opportunities you've opened:**
+> 
+> - **"He blows a hole in a mountain."** The summoning chamber is *inside a mountain*. Once the water mage is reached, what if he turns that power on the chamber and destroys it? The weapon built by the summoning program ends it.
+> - **The water mage wants to go home too.** But there's only one crossing left before the wall is sealed. That means your ending may hold the book's biggest choice: **who goes home, Evan or the water mage?**
+> 
+> So, two questions:
+> 
+> 1. Does the water mage destroy the chamber?
+> 2. **The ending:** who takes the last crossing home?
+
+<br/>
+
+> **Me:**
+>
+> Evan knows the places because he went on a vacation with Katie before she broke up with him.
+
+---
+
+> **Claude AI:**
+>
+> That's a perfect choice, because it ties your climax directly to Evan's wound.
+> 
+> - **The trip with Katie is a painful memory.** It's the last good thing before she told him he didn't matter. Evan probably avoids thinking about it.
+> - **At the climax, he has to go back there,** sharing the very memories he's been running from, in order to reach the water mage.
+> - **His wound becomes the key.** The part of his life he thought was worthless is exactly what saves everyone.
+> 
+> That's what makes a climax feel designed rather than convenient: the hero's past, flaw, and strength all converge in one moment.
+> 
+> **How to plant it:**
+> 
+> - **Early:** a passing mention that stings. Maybe at the Nantahala dinner, someone asks about travel, and Evan deflects. Readers notice he doesn't want to talk about it.
+> - **Middle:** the "small thing." Evan glimpses one of the models, or hears a place name, and recognizes it from the trip. He says nothing, partly because of his flaw, and partly because it hurts too much.
+> - **Climax:** he finally speaks about it, both to reach the water mage and because he's healed enough to.
+> 
+> Two questions left to finish the plot structure:
+> 
+> 1. **Does the water mage destroy the summoning chamber?**
+> 2. **The ending:** with only one crossing left, who goes home, Evan or the water mage?
+
+<br/>
+
+> **Me:**
+>
+> By himself, the water mage does not know what makes the summoning chamber work. Evan, the water mage, and god are able to piece together why it works and how to break it so that it will not work anymore. 
+> The summoning chamber works due to the composition and positioning of the stones in the chamber floor.  If they can break down the stones, wear them down to sand, then the summoning would no longer work and there would be no way to get the stones back from the sand. Without the summoners knowing how the chamber worked, they would have no way to recreate it.
+
+---
+
+> **Claude AI:**
+>
+> That's an excellent solution, and it uses all three characters, each contributing something the others can't:
+> 
+> - **The god** carries memories of earlier summons and knowledge of the old god.
+> - **Evan** notices the detail that matters.
+> - **The water mage** has the power to destroy it.
+> 
+> **And it's poetic.** The water mage's deadliest power needs fine sand. Now that same abrasive water turns the summoning chamber *into* sand. The weapon the program created grinds the program to dust.
+> 
+> It also proves your god's argument to the other gods: a reset is a patch, but destroying the chamber is a real fix.
+> 
+> **A perfect plant for chapter one:** Evan is strapped to a table *in the summoning chamber*. What if, in his deadpan haze, he notices the stones in the floor, their odd pattern, maybe even thinking they look like a circuit board? He has no one to tell and thinks nothing of it. At the climax, that's the detail that unlocks how the chamber works. A small thing he noticed and never said becomes the key, which is your flaw and strength paying off in the same beat.
+> 
+> **Two sequencing questions to settle:**
+> 
+> 1. **Does the last crossing need the chamber?** If someone is going home through a reverse summoning, does it have to happen *before* the chamber is ground to sand, or can the god do it without the chamber?
+> 2. **The ending:** with one crossing left, who takes it, Evan or the water mage? And what happens to the chancellor?
+
+<br/>
+
+> **Me:**
+>
+> A single god cannot do a reverse summoning, but by getting all the gods to agree, they are able to do the reverse summoning.
+
+---
+
+> **Claude AI:**
+>
+> That's a strong solution, and it creates a satisfying symmetry:
+> 
+> - **The reset** requires all gods working together to *destroy* everything.
+> - **The reverse summoning** requires all gods working together to *save* someone.
+> 
+> The same united power, used for the opposite purpose. That's the kind of mirror that makes an ending feel inevitable.
+> 
+> **It also gives Evan a final test of his flaw.** The other gods wanted a preemptive reset. Someone has to convince them to cooperate instead. Who better than the man who never speaks up, now standing before the gods and insisting on being heard? If he can do that, his arc is complete.
+> 
+> **Two small rules to confirm:**
+> 
+> - Since the gods do it together, the reverse summoning doesn't need the chamber. So the chamber can be destroyed at the climax, and the crossing happens afterward.
+> - To avoid collapsing the wall, the gods should perform the crossing and seal the wall in the same act. One last opening, then closed forever.
+> 
+> Now the final decisions for Stage 6:
+> 
+> 1. **Who takes the last crossing:** Evan, the water mage, or could both go through the same opening?
+> 2. **What happens to the chancellor?**
+
+<br/>
+
+> **Me:**
+>
+> The water mages depression should increase since he thinks he will be stuck without his only friend in this world. Evan helps him realize that he has many friends and can always make more. Then tells the God that he's decided, and to send the water mage back.
+
+---
+
+> **Claude AI:**
+>
+> This is a beautiful ending, and it's exactly what we talked about back in Stage 3: **Evan stays by choice, not fear.** He gives up the thing he wanted most, going home, so that someone else can have it. A man who believed he didn't matter makes a decision that only someone who knows *everyone* matters would make. That's your whole arc in one line of dialogue.
+> 
+> **One thing to clarify:** as written, Evan convinces the water mage that he has many friends and can make more, and then sends him home. That reads a little backward, since the reason to stay would apply to the mage. I think you mean one of these:
+> 
+> - **Evan realizes it about himself.** The mage despairs that he'll be alone once Evan leaves. Comforting him, Evan hears his own words and realizes *he's* the one with friends here, and he can always make more. Then he tells the god he's decided.
+> - **Evan reassures the mage about Earth.** He tells the mage he'll find people back home, that it isn't too late, and then gives him the crossing.
+> 
+> The first is especially strong, because Evan talks himself into the truth while trying to help someone else, just like the friend scene from Stage 5.
+> 
+> **Two things to handle with care:**
+> 
+> - **The massacred city.** Some readers will ask whether the water mage deserves to go home after what he did. He was brainwashed, but he should carry the guilt with him. Going home decades older, to a world that moved on without him, is bittersweet rather than a reward.
+> - **His despair.** Since he's tired of life, write the moment he chooses to go on with real weight.
+> 
+> **A perfect place for the motto to return:** as Evan makes his choice, he's no longer afraid of an uncertain future. "The future is like a river," and this time he's the one steering.
+> 
+> So:
+> 
+> 1. Which version did you mean?
+> 2. **What happens to the chancellor?** That's the last piece for Stage 6.
+
+<br/>
+
+> **Me:**
+>
+> I think the water mage will always carry the guilt and once he gets back (in an epilogue) we can show that he's working hard to make up for his past failings.
+
+---
+
+> **Claude AI:**
+>
+> That's a strong way to handle it. Guilt that becomes action is far more satisfying than guilt that's simply forgiven, and an epilogue gives readers closure without dragging out the ending.
+> 
+> **An idea for the epilogue:** let his atonement involve water. Perhaps he volunteers with flood relief or water rescue, using the skills of a man who once drowned a city to save people instead. Readers will feel the full circle without anyone having to explain it. A quick glimpse of a new model on his workbench, maybe of the town where he now helps, would close his thread beautifully.
+> 
+> Two items left to finish Stage 6:
+> 
+> 1. **Evan's realization:** does he talk himself into staying while comforting the water mage (seeing that *he* has friends here), or did you mean something else?
+> 2. **The chancellor:** what happens to him?
+
+<br/>
+
+> **Me:**
+>
+> While he is convincing the water mage that everyone matters, he realizes that even the water mage matters. Even though the water mage has done horrible things, he still matters and has worth as a person. He starts to realize that what has twisted the water mage to become what he is was his loneliness and desperation to return home (he would do anything to go home, even kill hundreds of people). Evan realizes "there but for the grace of god go I"
+
+--
+
+> **Claude AI:**
+>
+> That's the deepest version of your theme. "Everyone matters" is easy to say about friends and victims. It's much harder to say about a man who killed a city, and that's exactly why it's the true test.
+> 
+> **And the phrase becomes literal in your story.** "There but for the grace of God go I" is usually a figure of speech. In your book, it's simply true:
+> 
+> - Evan was summoned exactly like the water mage was.
+> - He would have received powers, been brainwashed, and been used as a weapon.
+> - The only reason he didn't is that **a god stepped in** and took his powers away.
+> 
+> The thing Evan resented at the start, being made powerless, is what saved him from becoming the water mage. Readers will feel that click.
+> 
+> **This is also your belief moment.** Remember, the god asked for three things, and belief was left open. Right here, Evan realizes the god saved him from this fate, and he finally believes *in* the god. If that gives the god the power needed to bring the other gods together for the crossing, your arc and your plot resolve in the same beat.
+> 
+> Let the phrase be an internal thought, quiet and unadorned. It's one of the rare times a stated line works, because it's literally true in his world.
+> 
+> Last piece for Stage 6: **what happens to the chancellor?**
+
+<br/>
+
+> **Me:**
+>
+> The Chancellor is present at the summoning when the chamber is destroyed. Evan should try to reach the Chancellor (like he did with the water mage) and fail. The Chancellor still orders hundreds of people killed to gather the power needed for the summoning. The water mage is able to get the sacrifices out while Evan is trying to reach the Chancellor. Finally, after failing to reach the Chancellor. Now that the chancellor's source of power is gone, he resorts to telling his highest ranking soldier to order all the others killed for the ritual.
+
+---
+
+> **Claude AI:**
+>
+> This is a mature, honest climax, and the contrast between the two men is what makes it work.
+> 
+> **What's working:**
+> 
+> - **Evan fails to reach the chancellor.** That's important. "Everyone matters" doesn't mean everyone can be saved. The water mage could be reached because part of him still longed for home and still loved something. The chancellor loves nothing but his family's right to rule. Evan's attempt still matters, because it shows he's changed, even when it doesn't work.
+> - **The water mage rescues the sacrifices.** He starts atoning *before* he goes home, which makes his crossing feel earned rather than handed to him.
+> - **The chancellor turning on his own soldiers** is "only I matter" taken to its final extreme. Even his loyal people are just fuel to him.
+> 
+> **One sequencing issue to fix:** you wrote that the chancellor is present when the chamber is destroyed, but he then keeps ordering sacrifices for a summoning. If the chamber is already sand, the ritual is impossible. A likely order:
+> 
+> 1. Evan tries to reach the chancellor, while the water mage gets the sacrifices out.
+> 2. The chancellor, out of sacrifices, orders his soldiers killed for the ritual.
+> 3. The chamber is destroyed before the ritual can complete.
+> 
+> **Your last sentence trails off:** what happens after the chancellor orders his soldiers killed? A strong option is that **the highest-ranking soldier refuses.** In that moment, the soldiers realize they were always disposable to him, and the chancellor's power collapses. Another option: **the king** finally steps forward and orders the chancellor's arrest. A figurehead who's been silent his whole life finding his voice would mirror Evan's own arc.
+> 
+> So:
+> 
+> 1. Does that sequence work?
+> 2. **How does the chancellor's story end:** the soldier refuses, the king acts, both, or something else?
+
+<br/>
+
+> **Me:**
+>
+> 1. yes
+> 2. The king should be present (if unwillingly). The highest ranking officer (general?) finally realizes that the chancellor is irredeemable and kills him on the spot. The king squeaks at the bloodshed, but pulls it together enough to realize that he now is out of danger and back in power -- even if he doesn't really want power.
+
+---
+
+> **Claude AI:**
+>
+> That's a fitting end for the chancellor: **he's destroyed by his own philosophy.** He treated everyone as disposable, and the man he tried to dispose of last is the one who ends him. Evan never has to kill anyone, which keeps him true to the powerless hero he is.
+> 
+> The king's squeak is a well-placed comic beat right after intense violence. It releases tension, and the joke is on a powerful man's cowardice, not on the dead. A reluctant king who never wanted power often makes the best kind of ruler, and it leaves room for Evan, who's staying, to have a role in this world's future.
+> 
+> Here's your full plot structure:
+> 
+> | Beat | Your story |
+> | --- | --- |
+> | Opening | Nantahala dinner; Evan the outsider |
+> | Inciting incident | Summoned, tortured, "killed," floated down the river |
+> | First turning point | The deal: stop the summoning, gather information; belief left open |
+> | Midpoint | The notes reveal the clock is six months, not nine |
+> | Low point | The water mage floods an area hunting the Ruiner; people Evan cares about are hurt |
+> | Climax | Evan reaches the water mage, the chamber is ground to sand, the chancellor falls |
+> | Resolution | Evan believes in the god, the gods unite, and Evan gives the last crossing to the water mage |
+> 
+> I'll add Stage 6 to your plan doc.
+> 
+> Stage 6 is in your [plan doc](https://claude.ai/code/artifact/d3aca381-6083-4ad9-afba-41329e6494ff), with the full turning points, the climax sequence, and the plants you'll need to set up early. I also marked the answered open questions.
+> 
+> You now have a complete story from first page to epilogue. Stage 7 fills in the people around Evan: his friends, the other gods, and the subplots that give the middle of the book its life.
+> 
+> Ready for **Stage 7: subplots and supporting cast**?
+
+<br/>
+
+> **Me:**
+>
+> start stage 7
+
+---
+
+# Stage 7
+
+> **Claude AI:**
+>
+> ## Stage 7: Subplots and Supporting Cast
+> 
+> **The idea in plain language**
+> 
+> Supporting characters aren't decoration; each one needs a **job**. A good test is to give every character three things:
+> 
+> 1. **A plot function:** what they do that the story needs (a skill Evan lacks, local knowledge, a way into somewhere).
+> 2. **A thematic angle:** their own answer to your theme. In your book: how does this person see their own worth?
+> 3. **A want of their own:** something they're chasing that isn't about Evan. That's what makes them feel like people, not helpers.
+> 
+> **Subplots** are the smaller stories that run alongside the main one. The best ones echo or contrast the main theme, so the middle of the book deepens instead of just filling time.
+> 
+> And keep the cast lean. Every named character asks readers to remember them.
+> 
+> **Example: the Night Watch in *Guards! Guards!***
+> 
+> Pratchett's Watch is a crew of misfits: a drunk captain, a cowardly sergeant, a petty thief of a corporal, and a huge, earnest young recruit. Each is someone society has written off, and each, in their own way, turns out to matter. The found family *is* the theme. Compare that with *The Hobbit*'s thirteen dwarves, most of whom readers can't tell apart. A few vivid friends beat a crowd.
+> 
+> **What your story already needs**
+> 
+> - **Friends** who fill Evan's gaps and become his found family. Some get hurt at the low point; one makes the "I'm worthless" joke late in the book.
+> - **The other gods** (two to four), who want the preemptive reset.
+> - **The general** who kills the chancellor. He needs to appear earlier, so his choice feels earned rather than sudden.
+> - **The king,** whose reluctant rise could be a small subplot.
+> 
+> ## Your exercise
+> 
+> 1. **Friends (two or three):** who are they? For each, a few words on what gap they fill, how they see their own worth, and what they want.
+> 2. **Which friend** makes the "I'm worthless" joke?
+> 3. **The other gods:** for each, what they're the god of, and a word or two on personality.
+> 4. **The general:** how does he appear earlier, and what slowly makes him doubt the chancellor?
+> 5. **Subplots:** which one or two threads run through the middle? (For example, Evan's slow belief in the god, the hunt for the Ruiner, the king's quiet survival, or something involving a friend.)
+
+<br/>
+
+> **Me:**
+>
+> After Evan accepts the gods quest, his body is still in the river...naked. When he is able, he feebly swims over to the shore and just lays in the sand. Some adventures out on a job run across this naked person laying in the water at the river's edge. They help patch him up and take him (still unconscious) to the nearest town. Evan wakes up in a church with a cleric attending him. This isn't a cleric from the god that Evan talked to, but one of the others.
+
+---
+
+> **Claude AI:**
+>
+> This is a great way to bring in your supporting cast, because they arrive through the story instead of being introduced on a list.
+> 
+> **What's working:**
+> 
+> - **Naked on a riverbank** keeps the humor alive right after the darkest stretch. The first people Evan meets in this world find him at his least impressive, which is a perfect isekai inversion: no grand arrival, no awed crowd.
+> - **He swims to shore himself.** That matters. There's a storytelling rule that coincidences which get characters *into* trouble are fine, but coincidences that get them *out* feel cheap. Because Evan makes it to shore on his own, the adventurers finding him feels like luck, not rescue by the author.
+> - **A cleric of a different god** introduces the other gods naturally, and an atheist waking up in a church is a built-in comic scene.
+> 
+> **Three things to settle:**
+> 
+> 1. **Who heals him?** The god said he'd heal Evan once he was safe. If the adventurers patch him up too, decide how much each did. One interesting option: the god heals the worst injuries, so the cleric notices wounds that look strangely, impossibly healed, and gets curious.
+> 2. **Why were the adventurers there?** Giving them a reason connected to the plot makes the meeting feel less convenient. For example, they could be hired to investigate bodies turning up downriver from the castle. Evan isn't the first.
+> 3. **What does Evan tell them?** He can't reveal he's a summon without risking the kingdom finding out. Keeping quiet comes naturally to him; that's his flaw. But secrets among friends make good tension later.
+> 
+> **And the big question:** are these adventurers Evan's future friends? If so, tell me about them: how many, and anything you know about each one. Same for the cleric: what god does he or she serve, and could they become a friend, or a problem?
+
+<br/>
+
+> **Me:**
+>
+> I think we should change what the god originally said -- what did I have the god tell Evan about being healed?
+
+---
+
+> **Claude AI:**
+>
+> Here's what you had the god say during the river escape:
+> 
+> > Once Evan's body is out of sight of the summoning group, the god warns that he'll need to push Evan's consciousness back, which will bring back the pain. The god can fix the injuries once Evan's body is out of danger from the summoning group and the river, but working on a moving target requires more energy, and the god has limited energy right now.
+> 
+> So as written, the god promises to heal him once he's out of the river.
+> 
+> If you'd rather the adventurers and cleric do the healing, there's a natural reason the god can't follow through: **he's out of energy.** He just faked a death, lifted Evan's consciousness, nudged a body downstream, and spent the sacrifices' power reincarnating their souls. A revised line could be something like:
+> 
+> > **God:** "I've spent nearly everything I had. I can keep you alive. I can't make you whole."
+> 
+> That keeps the god honest, reinforces his limits, and makes Evan genuinely dependent on strangers, which is exactly how friendships start.
+> 
+> Some in-between options:
+> 
+> - **The god stops the bleeding but can't do more,** so Evan reaches shore alive and badly hurt.
+> - **The god heals only what would kill him,** leaving the rest for the cleric, who notices a few wounds that seem impossibly closed and gets curious.
+> 
+> Which version do you want?
+
+<br/>
+
+> **Me:**
+>
+> I think that should change to: 
+Once Evan’s body is out of sight of the summoning group, the god warns that he’ll need to push Evan’s consciousness back, which will bring back the pain. The god tells Evan they can help him, but not until Evan's body is out of danger. By mutual agreement, the gods must keep their presence hidden (later when Evan wants god to turn him so that his feet are downstream, the god does it in a way to keep his presence hidden).
+
+---
+
+> **Claude AI:**
+>
+> That's a stronger rule than the one it replaces, because it explains several things at once:
+> 
+> - **Why the feet-downstream turn had to look natural.** The god wasn't just being clever; he was obeying the agreement.
+> - **Why the gods don't simply stop the chancellor themselves.** They can't act openly, so they need mortals like Evan.
+> - **Why the chancellor's family never suspected divine interference** in centuries of summoning.
+> - **Why Evan needs the adventurers and the cleric.** Any healing has to look ordinary, so strangers become his cover, and his friends.
+> 
+> It also gives the climax extra weight: when all the gods unite for the reverse summoning, are they breaking their agreement, or finding a way to do it hidden? Either answer is interesting.
+> 
+> One question for later: **why did the gods agree to stay hidden?** Fear of being worshipped as weapons, a disaster in the past, or something tied to the resets? You don't need it now; it's a good note for the story bible.
+> 
+> I'll update the plan doc so the old healing note doesn't conflict.
+> 
+> The plan doc is updated: the river escape now uses your new wording, and the hidden-gods rule is recorded under Stage 4, with "why they agreed" added to the open questions.
+> 
+> Back to Stage 7: **tell me about the adventurers who find Evan.** How many are there, and what do you know about each one? And the cleric: which god does he or she serve, and could they become a friend or a problem?
+
+<br/>
+
+> **Me:**
+>
+> Back to stage 7
+
+---
+
+> **Claude AI:**
+>
+> Let's build the people who find Evan. Since inventing characters from scratch can be hard, here's a starting menu. Pick, change, or replace any of them.
+> 
+> **The adventurers (I'd suggest three)**
+> 
+> Each fills a gap Evan has and gives a different answer to "what am I worth?"
+> 
+> - **The near-summon local.** Someone with a strong ability, "a grade down" from a summon. Everyone treats them as a tool, much like the kingdom treats summons. *Fills:* combat. *Worth:* "I'm only valued for what I can do." *Wants:* to be wanted for themselves.
+> - **The leader with no magic.** Organized, practical, keeps the group alive with planning instead of power, much like the water mage's old grocery-store mindset before it was twisted. *Fills:* local knowledge, how the world works. *Worth:* earned through effort. *Wants:* to keep the group together and paid.
+> - **The self-deprecating one.** Cheerful, funny, constantly putting themselves down. This is the friend who makes the "I'm worthless" joke at the end. *Fills:* comic relief, street smarts. *Worth:* thinks they're the group's dead weight. *Wants:* to prove they belong.
+> 
+> **The cleric (pick one direction)**
+> 
+> - **A future friend:** kind, curious about Evan's impossibly healed wounds, and quietly troubled that their own god favors a preemptive reset.
+> - **A problem:** devout, suspicious, and duty-bound to report anything strange to their temple, which could tip off their god, or the kingdom.
+> - **Both:** starts as a threat, becomes a friend once they learn what their god is planning.
+> 
+> **Two questions:**
+> 
+> 1. Which adventurers feel right, and what would you change?
+> 2. Which direction for the cleric?
+
+<br/>
+
+> **Me:**
+>
+> Adventurers:
+> 
+> 1. Near-summon local: This should be a girl mage. They have really strong magic, but that is all anyone thinks of when they refer to her. Her name should be something short: Nara?
+> 2. Ranger: This is the one who is self-deprecating. They are constantly referred to by other parties as the "tag along". Nara and the leader both value his skills and input, but since he hears other groups and thinks his friends are just being nice. He actually is a really strong ranger, with above normal bow and hunting skills.
+> 3. Leader: The leader is a guy. Shorter than average, and often made fun of because of his height. He doesn't care about what others think of him, he only cares what his friends think of him. His name should be something like: Vagid or something like that. Vagid tries to help his friends with their feelings of worthlessness, but has not found a way to get them to recognize their worth.
+> 
+> Though Vagid is unable to help his friends, that is mainly because he himself has never viewed himself as worthless, and so does not know how to guide them away from that thinking.
+
+---
+
+> **Claude AI:**
+>
+> This is a strong group, because each friend is a different version of Evan's problem, and that gives Evan a real role among them.
+> 
+> **What's working:**
+> 
+> - **Nara** is valued only for her power. She's who Evan might have been if the god hadn't stepped in, and a softer echo of the water mage, a person treated as a weapon. It gives her a natural bond with Evan: he's the first person who's interested in her and not her magic, partly because he has none.
+> - **The ranger** believes strangers over his friends. That's exactly Evan's problem: Katie's voice drowns out everyone else. He's the right one to make the "I'm worthless" joke late in the book, and Evan's "Then don't say it about mine" lands on someone readers have watched struggle.
+> - **Vagid** is the clever twist. He's secure in himself, which you'd think would make him the perfect helper, but it's exactly why he *can't* help. He's never been where they are. Evan has. **Evan's worst experience becomes his gift to the group.** That's your theme working at the level of friendship.
+> 
+> Vagid also embodies half of Evan's need already: "we make our own future regardless of what others think." Evan can learn that from him, while teaching the others what Vagid can't.
+> 
+> **Two things to watch:**
+> 
+> - **Evan and the ranger are both self-deprecating.** Differentiate their voices so they don't blur: for example, the ranger jokes loudly and often, while Evan's humor is dry and quiet.
+> - **Nara needs more than her power,** or the book repeats the mistake everyone makes about her. Give her a personality and a want that have nothing to do with magic.
+> 
+> **Questions:**
+> 
+> 1. **The ranger's name?**
+> 2. **Nara:** what's she like as a person, and what does she want?
+> 3. **The cleric:** friend, problem, or a threat who becomes a friend?
+
+<br/>
+
+> **Me:**
+>
+> The rangers name should be something like Orrin
+
+---
+
+> **Claude AI:**
+>
+> Orrin works well. It's short, easy to say, and sounds at home in a fantasy world. It also fits a useful naming rule: your main cast (Evan, Nara, Orrin, Vagid) all start with different letters and have different shapes, so readers will never mix them up.
+> 
+> **Locked in:**
+> 
+> - **Nara:** mage with near-summon-level power; people only ever talk about her magic.
+> - **Orrin:** ranger with exceptional bow and hunting skills; called the "tag along" by other parties; believes them over his friends. Makes the "I'm worthless" joke late in the book.
+> - **Vagid:** the leader; shorter than average and mocked for it; cares only what his friends think. Wants to help them see their worth but can't, because he's never felt worthless himself.
+> 
+> Two questions left on the group:
+> 
+> 1. **Nara as a person:** what's she like, and what does she want, apart from her magic?
+> 2. **The cleric:** a friend, a problem, or a threat who becomes a friend?
+
+<br/>
+
+> **Me:**
+>
+> Nara wants to use her magic to make beautiful art. Instead of destroying things she wants desperately to create things of beauty.
+
+---
+
+> **Claude AI:**
+>
+> That's a lovely want, and it connects Nara directly to the water mage:
+> 
+> - **The water mage** is a creator (the models) forced to be a destroyer.
+> - **Nara** is a destroyer by reputation who longs to be a creator.
+> 
+> They're two versions of the same tragedy, at different stages. Nara is where the water mage was before he broke. That gives her a powerful role at the climax: she may understand him in a way no one else can, and seeing what he became could be what pushes her to insist on making art, whatever anyone expects of her.
+> 
+> It also gives you a satisfying final image: perhaps the epilogue shows Nara finally making something beautiful, maybe for the reluctant king, or for the town that was flooded.
+> 
+> **One detail that will help:** what kind of magic does she have? Fire, earth, light, something else? It shapes what her art looks like. Glass sculptures from sand and fire, gardens grown from stone, or light shows in the night sky are all very different images.
+> 
+> Then the last piece of the group:
+> 
+> **The cleric:** a friend, a problem, or a threat who becomes a friend?
+
+<br/>
+
+> **Me**:
+>
+> The cleric should be wary of Evan, especially since Evan doesn't seem to know anything about the gods or really how the world works. They ask the adventurers "Was he dropped on his head or something?" because Evan doesn't even know the most basic things about the world.
+
+---
+
+> **Claude AI:**
+>
+> That line is perfect, and it does more than get a laugh:
+> 
+> - **It's an isekai inversion.** Usually the newcomer's ignorance is charming, and someone explains the world to him. Here, it just makes him look brain-damaged.
+> - **It echoes the summoners' verdict.** They decided Evan was "far below normal," and now a stranger reaches the same conclusion for completely different reasons. Everyone in this world keeps underestimating him, which is your theme played for comedy.
+> - **It hands Evan a cover story.** He can't explain where he's from without exposing himself. So he simply agrees: *"Yes, actually. Hit my head on a rock in the river."* It protects him, it fits his habit of not speaking up, and it's a secret he'll eventually have to come clean about with his friends.
+> 
+> A wary cleric also creates good tension. Their god favors the preemptive reset, so a curious, suspicious cleric who notices odd things (an atheist who knows nothing, wounds that don't add up) could accidentally draw that god's attention to Evan.
+> 
+> Three quick questions to round out the cast:
+> 
+> 1. **The cleric:** which god do they serve, and do they eventually become a friend?
+> 2. **Nara's magic:** what kind is it, so we know what her art looks like?
+> 3. **The low point:** which friends are hurt when the water mage floods the area, and does anyone die?
+
+<br/>
+
+> **Me:**
+>
+> Nara's magic is wind based.
+
+---
+
+> **Claude AI:**
+>
+> Wind is a great choice, because it's invisible and only shows itself by what it moves. That's a lot like Nara: people see the damage, never the person.
+> 
+> **What her art could look like:**
+> 
+> - **Sand sculptures** shaped and held by the wind, or patterns carved into dunes
+> - **Clouds** shaped into images across the sky
+> - **Music:** wind through reeds, chimes, or canyons, which is art nobody would expect from a "weapon"
+> 
+> **Two connections worth noticing:**
+> 
+> - **Sand.** At the climax, the chamber's stones are ground into sand. Nara's wind could scatter it so it can never be reassembled. Better still, in the epilogue, she could make something beautiful *from that sand*. The source of so much suffering becomes art. It would be a lovely final image for her.
+> - **Teamwork.** Wind can carry Orrin's arrows farther and truer, and wind plus water is a storm. That gives you natural combat moments, and a dangerous clash if Nara ever faces the water mage.
+> 
+> Two questions left for the cast:
+> 
+> 1. **The cleric:** which god do they serve, and do they eventually become a friend?
+> 2. **The low point:** which friends are hurt when the water mage floods the area, and does anyone die?
+
+<br/>
+
+> **Me:**
+>
+> In most fantasy worlds the gods are associated with different aspects: love, creation, war, etc. Are there alternative ways to segregate the gods?
+
+---
