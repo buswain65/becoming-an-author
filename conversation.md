@@ -3448,3 +3448,298 @@ Once Evan’s body is out of sight of the summoning group, the god warns that he
 > Since Xavier was out of the country when he discovered the information and dies soon afterward, when the assassins from the "Kingdom" tracked him down. He had to hide the information in an old desecrated church which is why the god was unable to get the information. Since Xavier dies in the desecrated church the god doesn't get the memories.
 
 ---
+
+> **Claude AI:**
+>
+> That's an excellent answer, because it uses a rule you already set up: **the god has blind spots.** Now we know what creates one: desecrated ground. It explains why the notes survived, why the god never had Xavier's final memories, and why Evan has to go there himself.
+> 
+> It also creates good tension: when Evan enters the church, **the god can't reach him.** For the first time since the river, he's truly on his own, which is a natural chance for Evan, and his friends, to prove what they can do without divine help.
+> 
+> **A rule worth noting for later:** if desecrated ground hides things from gods, other characters might use it too. The chancellor's family could keep its archives somewhere similar, or the other gods might be unable to see what Evan's god is doing in such places. You don't need to decide now; it's a useful tool for later.
+> 
+> Two pieces left for Xavier:
+> 
+> 1. **The path there:** how does the downriver job lead Evan to the desecrated church? (A rumor, an old map, a symbol on a body, something else?)
+> 2. **The margin note:** what does it say that hints at six months?
+
+<br/>
+
+> **Me:**
+>
+> When the god is proposing the quest to Evan, he explains that he has blind spots and gives a few examples of what they might be -- one of which are sites of desecration. When the adventurers are finishing the downriver job the guild receptionist just happens to mention other quests, one of which is in an old desecrated church. This rings a bell for Evan and he pushes for more details
+
+---
+
+> **Claude AI:**
+>
+> That works well, and it's a clean setup and payoff: the god mentions desecrated sites in chapter 3, readers forget, and the moment the receptionist says "desecrated church," Evan's ears prick up, and so do readers'.
+> 
+> **Two ways to strengthen it:**
+> 
+> - **Reduce the coincidence.** Instead of the receptionist just happening to mention it, have Evan ask. After the god's warning, he might quietly ask about jobs near "old ruins or abandoned churches." Then his pushing for details is *active*, and it's another small step in speaking up. It's his flaw shrinking in real time.
+> - **The receptionist is a classic isekai trope.** In countless isekai stories, the guild receptionist is cheerful, helpful, and explains everything. Yours could be bored, overworked, and completely unimpressed by Evan. That's one of your failed-isekai-expectation moments, built right into a plot beat.
+> 
+> **A subplot opportunity:** Halden is a cleric. How does he feel about the party going into a desecrated church? He might refuse to set foot inside, warn them, or insist on coming along. Any of those develops his thread and his suspicion of Evan's unusual interest.
+> 
+> Two questions:
+> 
+> 1. **What's the job at the church?** Something has to make it a quest: monsters, bandits, a haunting, scavengers?
+> 2. **The margin note:** what does it say that hints at six months?
+
+<br/>
+
+> **Me:**
+>
+> I like both of your ideas to strengthen it!
+
+---
+
+> **Claude AI:**
+>
+> Both are noted for the outline: Evan asks the bored, unimpressed receptionist about jobs near old ruins or churches, and pushes for details when the desecrated church comes up.
+> 
+> Three questions to finish this stretch:
+> 
+> 1. **What's the job at the church?** Monsters, bandits, a haunting, scavengers?
+> 2. **Halden's reaction:** does he refuse to go in, warn them off, or insist on coming along?
+> 3. **The margin note:** what does it say that hints at six months?
+
+<br/>
+
+> **Me:**
+>
+> A haunting would be a good hook. It could be that Xavier became a litch since he was killed and had unfinished business.
+
+---
+
+> **Claude AI:**
+>
+> That's a terrific hook, and it does a lot at once:
+> 
+> - **It explains the haunting.** Something has scared off everyone who's gone in for centuries.
+> - **It lets Evan meet a fellow summon.** Someone who knows exactly what he's been through, and has been waiting a very long time for anyone who could understand him.
+> - **It could be your "click" moment.** If Xavier speaks to Evan in English, about Earth, while his friends watch, they finally believe him. No proof could be stronger.
+> - **It's a moving payoff.** Xavier's unfinished business is getting his findings to someone who can use them. When Evan takes the notes, his work finally matters, and he can rest. That's your theme in one scene.
+> 
+> There's comedy here too: a crime scene technician who's been dead for centuries might be very particular about the chain of custody for his evidence.
+> 
+> **One terminology note:** a lich, in most fantasy, is a sorcerer who *deliberately* makes himself undead, usually by hiding his soul in an object, and is very powerful. A spirit tied to the world by unfinished business is closer to a **ghost** or **revenant**. Either can work. A lich makes him more dangerous; a ghost makes him more tragic. If he became a lich without meaning to, say because he died on desecrated ground, that's a nice twist that fits your rules.
+> 
+> Three questions:
+> 
+> 1. **Ghost or lich,** and does it matter to you?
+> 2. **Is he hostile at first?** For instance, he drives everyone off until he hears English.
+> 3. **The margin note:** what does it say that hints at six months?
+
+<br/>
+
+> **Me:**
+>
+> I'm not really sure what the different between a lich and a ghost are
+
+---
+
+> **Claude AI:**
+>
+> Here's the simple difference:
+> 
+> | | Ghost | Lich |
+> | --- | --- | --- |
+> | **What it is** | A spirit with no body | An undead body, usually a skeleton or withered corpse |
+> | **How it happens** | Usually by accident: a violent death or unfinished business holds the spirit here | By choice: a powerful magic-user deliberately makes himself undead |
+> | **Its soul** | Lingers in a place, often where it died | Hidden in an object (often called a phylactery); destroy it, and the lich dies |
+> | **Power** | Usually limited: frightening, can't leave its haunt | Very powerful: a full spellcaster who never dies |
+> | **How it ends** | Rests once its business is finished | Only ends if its soul object is destroyed |
+> | **Feel** | Tragic | Dangerous, often villainous |
+> 
+> **For Xavier, a ghost is the better fit.** He didn't choose to stay; he's held here by unfinished business, which is passing on his findings. He's bound to the church where he died, which explains why the notes never left, and once Evan takes them, he can finally rest. That ending is only possible with a ghost.
+> 
+> A lich would make him a powerful, scheming figure, which pulls against the tragic, sympathetic person you've described.
+> 
+> So, if a ghost works for you, two questions:
+> 
+> 1. **Is he hostile at first?** For example, he frightens everyone off until he hears English.
+> 2. **The margin note:** what does it say that hints at six months?
+
+<br/>
+
+> **Me:**
+>
+> Go with a ghost then
+
+---
+
+> **Claude AI:**
+>
+> Ghost it is. Xavier is bound to the desecrated church where the Kingdom's assassins killed him, held there by his unfinished business, and he can finally rest once his findings reach someone who can use them.
+> 
+> Two questions to finish his part of Act 2a:
+> 
+> 1. **Is he hostile at first?** For example, he frightens off everyone who enters, until he hears Evan speak English.
+> 2. **The margin note:** what does it say that hints at six months? A few directions to spark ideas:
+>    - **A timing pattern:** Xavier noted how long it took to gather sacrifices before each summoning.
+>    - **A natural cycle:** the ritual only works at a certain season, moon phase, or alignment.
+>    - **A preparation step:** the stones need time to "recharge" after each use, and he estimated how long.
+
+<br/>
+
+> **Me:**
+>
+> Definitely hostile. He believe that this is another group of adventurers who won't understand what he's  saying and try to force him to move on.
+
+---
+
+> **Claude AI:**
+>
+> That makes him tragic rather than simply scary, and it connects him straight to your theme. Xavier has been **talking for centuries, and nobody has understood a word.** Every group that came in tried to banish him without ever listening. That's Evan's flaw taken to its extreme: not being heard. Evan is the first person in centuries to actually *listen* to him.
+> 
+> The scene almost writes itself:
+> 
+> - The party enters; the ghost attacks, shouting.
+> - In the chaos, Evan realizes the shouting is **English**. "Get out! You people never listen!"
+> - Evan answers in English. The ghost freezes.
+> - Then the deadpan beat: *"Do you have any idea how long I've been yelling?"*
+> 
+> **A Halden opportunity:** if Halden comes along, his duty as a cleric might be to banish the spirit, which is exactly what Xavier fears. Evan stopping Halden from exorcising Xavier creates real tension between them, and it's a strong moment for Halden's growing suspicion: why does this stranger understand a ghost?
+> 
+> Last question for Xavier: **the margin note.** What does it say that hints at six months? (For example, a timing pattern in gathering sacrifices, a natural cycle, or the stones needing time to recharge.)
+
+<br/>
+
+> **Me:**
+>
+> The margin note should be where it mentions that it takes 9 months to a year to prepare for the summoning ritual. Xavier didn't actually make the note, he found a document that already had the note. The original note was "6months" in red. The red fades over time and becomes unreadable by the time Evan finds it -- it more resembles "b on hs" which doesn't make any sense to Evan.
+
+---
+
+> **Claude AI:**
+>
+> That's a clever puzzle, and it plays perfectly to Evan's strengths. A faded "6" really can look like a "b," and "months" losing a few letters becomes "on hs." Readers who look closely might even solve it before Evan does, which is a lovely reward for attentive readers.
+> 
+> It also explains the midpoint cleanly: the documents say nine months to a year, so everyone, including the god, assumes they have time. The faded note says otherwise.
+> 
+> **One fascinating implication:** "6months" is written in **English**. If Xavier didn't write it, then someone else from Earth did, probably one of the first two summons. That means an earlier summon also saw these documents, and knew something faster was possible. Who wrote it, and how did they know?
+> 
+> It also helps to know **why the ritual can now be done in six months.** A natural answer comes from Xavier's own finding: power scales with sacrifices. With enough sacrifices gathered quickly, preparation speeds up. That's exactly why the chancellor will need *hundreds*.
+> 
+> **The decoding moment:** Evan first sees "b on hs" and shrugs it off (his flaw). The midpoint lands when something makes him see it properly. For example:
+> 
+> - Someone writes a "6" in a way that looks like a "b"
+> - He sees the page in different light, or Nara's wind lifts dust from it
+> - He describes it to the god, who has the memory that makes it click
+> 
+> Two questions:
+> 
+> 1. **Who wrote the red note,** and how did they know about six months?
+> 2. **What makes Evan finally decode it?**
+
+<br/>
+
+> **Me:**
+>
+> I'm not sure we need to know who wrote the "6months", just that it is written in English. Evan doesn't decode it, the God does. He thinks to hold it up to the light to see if there were any impressions from the writing and sees that it was all written together and shows Evan. They both then figure it out.
+
+---
+
+> **Claude AI:**
+>
+> That works. A small mystery like who wrote the note is fine to leave open, as long as it isn't central. Evan might simply remark that someone else from Earth was here before Xavier, so readers know the gap is intentional. It's also a ready-made hook if you ever write a sequel.
+> 
+> The decoding scene is great, with one adjustment: since the gods must stay hidden, the god can't hold anything up himself. He'd **suggest it, and Evan does it**: "Hold it at an angle to the light." That's actually a real forensic technique, using raking light to reveal pressure marks left by writing, which suits a god partly made of people from Earth. And it keeps it a true partnership: Evan found the notes, the god knows the trick, and they work it out together.
+> 
+> Here's a draft of Act 2a through the midpoint, built from everything you've decided. Edit freely:
+> 
+> | Ch. | What happens | What changes |
+> | --- | --- | --- |
+> | 9 | Jobs continue after his disbelieved confession; small modern-knowledge moments (boiling water, hypothermia); Evan starts consulting the god | His friends start to wonder |
+> | 10 | Evan explains abrasion; Nara tries sculpting marble with wind-driven sand | Nara creates something for the first time |
+> | K1 | Kingdom chapter: the general hears of bodies downriver; the chancellor plans a ritual "in nine months" | Readers see the enemy's clock |
+> | 11 | Evan asks the bored receptionist about ruins; the haunted desecrated church; Halden reacts | A lead, and Evan speaking up |
+> | 12 | Travel to the church near the border; the god can't reach Evan inside | Evan is on his own |
+> | 13 | The ghost attacks; Evan hears English and answers; he stops Halden's exorcism; the friends finally believe him | The "click" |
+> | 14 | Xavier's story; he hands over his notes and finally rests; Evan sees "b on hs" and shrugs it off; Halden: "Yeah, I figured as much" | Evan has the evidence |
+> | 15 | **Midpoint:** outside, the god suggests raking light; "6months" appears | The clock jumps to six months |
+> 
+> **Two quick questions:**
+> 
+> 1. Does this match what you imagine, or would you move or change anything?
+> 2. **One more failed isekai expectation** for this stretch? The receptionist is one; a second would keep the comedy steady (for example, Evan expecting the haunted church to be a "dungeon" with loot and levels).
+
+<br/>
+
+> **Me:**
+>
+> Good idea about the church being a dungeon.
+
+---
+
+> **Claude AI:**
+>
+> It fits beautifully, because the payoff writes itself. Evan walks in expecting a classic dungeon: floors to clear, a boss at the end, a treasure chest, maybe a level-up. Instead:
+> 
+> - The "dungeon" is a damp, collapsing ruin with mold and bad smells.
+> - The "final boss" is a lonely, furious man who just wants someone to listen.
+> - The "legendary loot" is **paperwork**. A stack of meticulously documented case notes.
+> - No level-up, no experience points, no status screen. Just the quiet feeling of having helped someone rest.
+> 
+> And the joke turns into meaning: the paperwork is the most valuable treasure in the book. It's how the summoning ends. Evan's isekai brain keeps expecting the wrong kind of reward, and the story keeps showing him what actually matters.
+> 
+> I'll add it to chapters 12 to 14.
+> 
+> **Does the Act 2a draft match what you imagine?** Once you confirm or adjust it, I'll add Stage 8's progress to your plan doc, and we'll move on to Act 2b: the desperate push, the Ruiner hunt, and the road to the flood.
+
+<br/>
+
+> **Me:**
+>
+> Yes. It's perfect
+
+---
+
+> **Claude AI:**
+> 
+> Act 1 and Act 2a are now in your [plan doc](https://claude.ai/code/artifact/d3aca381-6083-4ad9-afba-41329e6494ff), along with Xavier, the time rule, the Sweden trip, and the poster. I also updated the climax so Evan describes the store's changes and the missing-person poster instead of how home has changed.
+> 
+> You're halfway through the outline. Ready for **Act 2b: chapters 16 to 21**, the desperate push, the Ruiner hunt, and the road to the flood?
+
+<br/>
+
+> **Me:**
+> 
+> Yes
+
+---
+
+> **Claude AI:**
+>
+> ## Act 2b: chapters 16 to 21
+> 
+> **The idea in plain language**
+> 
+> After the midpoint, the story tightens. In the first half, Evan was reacting and discovering. Now he **acts**, and every action costs more. A useful shorthand for this stretch is "the bad guys close in," from both directions:
+> 
+> - **Outside:** the kingdom notices the Ruiner, and the hunt escalates.
+> - **Inside:** the pressure strains Evan and his friends. Successes come at a price, and his old lie starts whispering again.
+> 
+> This section should end by setting up the flood: the chancellor, out of patience, unleashes the water mage.
+> 
+> **What Act 2b needs to accomplish:**
+> 
+> - Evan's **desperate push** for the remaining information
+> - The chancellor learning someone is interfering, and naming them **the Ruiner**
+> - The **hunt**, led by the general, with his doubts growing
+> - The **middle plant**: Evan glimpses a model, or a place name, from the Sweden trip and says nothing
+> - Progress on the **subplots**: belief, Halden's trust, Orrin, Nara
+> - One or two **kingdom-side chapters**
+> 
+> ## Your questions
+> 
+> 1. **The desperate push:** after Xavier's notes, what information does Evan still need, and where is it? (For example, the chancellor family's archives, traces of the first two summons, or whatever would make a reverse summoning safe.)
+> 2. **Exposure:** what does Evan do that tips off the chancellor? (Raiding a sacrifice-gathering operation, breaking into the archives, rescuing captives?)
+> 3. **The middle plant:** where does Evan first glimpse the water mage or one of his models?
+
+<br/>
+
+> **Me:**
+>
+> 
