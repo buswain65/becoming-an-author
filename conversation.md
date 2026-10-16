@@ -1724,3 +1724,99 @@ He should start to wake up thinking he needs to go out to the bathroom, and that
 > I like your "cut it short" option
 
 --
+
+> **Claude AI:**
+>
+> Locked in. The scene now ends:
+> 
+> > **Friend:** "Never, you're my close friend!"
+> > **Evan:** "Then don't say it about mine."
+> 
+> Short, in character, and readers will feel the rest.
+> 
+> Last question for Stage 5:
+> 
+> **Comedy sources:** which do you want to lean on most? Evan's failed isekai expectations, the kingdom's bureaucratic logic, the god's Earth fragments, his future friends, or something else?
+
+<br/>
+
+> **Me:**
+>
+> I think we should lean on the failed isekai expectations and the kingom's bureaucratic logic. Once Evan has some friends in the story, we can lean on those also.
+
+---
+
+> **Claude AI:**
+>
+> Good choices, and they line up with your two satire targets: isekai power fantasies and a system that treats people as resources. Each also has a natural shape across the book:
+> 
+> - **Failed isekai expectations** are strongest early. As Evan stops waiting for the tropes to save him, these jokes fade, which tracks his growth.
+> - **The kingdom's bureaucratic logic** stays constant: budgets, ROI, blame-shifting to the king. Aimed at the powerful, never the victims.
+> - **Friends** arrive later and bring the warmest humor, which is why the book lightens as he finds them.
+> - **The god's Earth fragments** work as occasional seasoning, especially since contact is rare.
+> 
+> I'll add Stage 5 to your plan doc.
+> 
+> Stage 5 is in your [plan doc](https://claude.ai/code/artifact/d3aca381-6083-4ad9-afba-41329e6494ff), including your opening chapter beats, the escape sequence, and the comedy sources table.
+> 
+> You've now got everything a plot needs: a hero with an arc, villains with motives, world rules, stakes, a clock, and a tone. That's why plot structure comes next instead of first.
+> 
+> Ready for **Stage 6: plot structure**, where we map the major turning points from summoning to ending?
+
+<br/>
+
+> **Me:**
+>
+> Lets begin stage 6
+
+# Stage 6
+
+> **Claude AI:**
+>
+> ## Stage 6: Plot Structure
+> 
+> **The idea in plain language**
+> 
+> Most novels, whatever the genre, turn on a handful of key moments. You don't need every beat planned; you need these **turning points**, because everything else is just getting from one to the next:
+> 
+> 1. **Opening:** the ordinary world and the hero's lie.
+> 2. **Inciting incident:** the event that blows up his life.
+> 3. **First turning point (about 25%):** the hero *chooses* to commit to the journey. There's no going back.
+> 4. **Midpoint (50%):** a major revelation or shift. The hero stops reacting and starts acting, and the stakes rise.
+> 5. **Low point (about 75%):** everything falls apart. The lie seems true. This is where the hero must face it.
+> 6. **Climax:** the hero acts on the truth instead of the lie, and the main conflict is decided.
+> 7. **Resolution:** the new normal, and what the hero chooses now that he's changed.
+> 
+> The key insight: **each turning point should press on the lie.** Plot structure and character arc are the same road.
+> 
+> **Example: *The Hobbit***
+> 
+> Opening: Bilbo at home, loving comfort. Inciting incident: dwarves invade his house. First turning point: he runs out the door without his handkerchief. Midpoint: in Mirkwood, he rescues the dwarves from spiders and becomes the one they rely on. Low point: Thorin's greed turns the quest ugly, and Bilbo betrays him (giving up the Arkenstone) to prevent a war. Climax: the Battle of Five Armies. Resolution: home again, but changed, and not the respectable hobbit he was.
+> 
+> ## Your book so far
+> 
+> You already have a lot of this:
+> 
+> | Beat | Your story |
+> | --- | --- |
+> | Opening | Dinner on the Nantahala trip; Evan the outsider |
+> | Inciting incident | Summoned, tortured, "killed" |
+> | First turning point | The deal with the god (exact moment and cost to decide) |
+> | Midpoint | ? |
+> | Low point | ? |
+> | Climax | ? (likely at the mountain chamber, involving the water mage) |
+> | Resolution | ? (his choice: reincarnate, go home, or stay) |
+> 
+> ## Your exercise
+> 
+> 1. **First turning point:** When exactly does Evan agree to the deal, and what makes it a choice? (Remember the reincarnation offer he could take instead.)
+> 2. **Midpoint:** What revelation changes the game? Options include discovering the water mage's hidden models, learning the next summoning will collapse the wall, the chancellor learning Evan is alive, or the clock jumping from nine months to six.
+> 3. **Low point:** What's the worst thing that could happen to Evan, the moment the lie ("I don't matter") seems proven true?
+> 4. **Climax:** Roughly, where is it and what happens?
+> 5. **Ending:** Which does Evan choose: reincarnation, going home, or staying? Why?
+
+<br/>
+
+> **Me:**
+> 
+> 
