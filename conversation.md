@@ -1699,3 +1699,28 @@ He should start to wake up thinking he needs to go out to the bathroom, and that
 > When the friend jokes about be being worthless, Evan should ask if he would say that about Evan? The friend, should stammer and say "Never, you are my close friend!". At which, Evan should say "What we say about our selves hurts us more than we know. We should never say something about ourselves that we would not say about our loved ones or friends"
 
 ---
+
+> **Claude AI:**
+>
+> The setup is excellent. Evan answering with a question instead of a lecture is exactly right: the friend's own instant, horrified "Never!" makes the point for him. And Evan is really saying it to his past self, which readers will feel.
+> 
+> **The honest critique:** the final line is the theme stated outright, which is the speech trap I mentioned in Stage 2. The question has already done the work; the explanation tells readers what they've just understood on their own. It's also a little formal for a deadpan guy who processes everything through jokes.
+> 
+> Two ways to fix it:
+> 
+> - **Cut it short.** End on the friend's "Never, you're my close friend!" and let Evan simply say, "Then don't say it about mine." Readers fill in the rest.
+> - **Keep the idea, in his voice.** Something like: *"Yeah. Funny how we'd never say it about someone we care about. Took me getting murdered to figure that out."* The insight stays, but it sounds like Evan, keeps the humor, and reminds readers what it cost him.
+> 
+> Either way, the moment lands harder because it's brief.
+> 
+> Last question for Stage 5:
+> 
+> **Comedy sources:** which do you want to lean on most? Evan's failed isekai expectations, the kingdom's bureaucratic logic, the god's Earth fragments, his future friends, or something else?
+
+<br/>
+
+> **Me:**
+>
+> I like your "cut it short" option
+
+--
