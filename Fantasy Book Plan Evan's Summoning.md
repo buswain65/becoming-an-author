@@ -4,13 +4,13 @@ Oct 15, 2026 · @Paul
 
 ## Roadmap
 
-Stages 1 to 4 are complete; Stage 5 is next.
+Stages 1 to 5 are complete; Stage 6 is next.
 
 - [x] 1\. Core premise and theme
 - [x] 2\. Protagonist: Evan
 - [x] 3\. The god and the summoners: motives, opposition, stakes
 - [x] 4\. World and magic rules: summoning costs, the reset danger, how gods gain power
-- [ ] 5\. Tone plan: mapping the dark-to-funny curve
+- [x] 5\. Tone plan: mapping the dark-to-funny curve
 - [ ] 6\. Plot structure: major turning points
 - [ ] 7\. Subplots and supporting cast
 - [ ] 8\. Chapter outline
@@ -128,6 +128,42 @@ The wall between worlds is one summon from collapse, so the chancellor's next ri
 
 **Setting placeholders:** the Kingdom, the Castle, the River, the Mountain (summoning chamber), Neighbor Nations 1 to 3.
 
+## Stage 5: Tone Plan
+
+The book opens dark with a thread of deadpan humor, lightens as Evan finds friends, darkens again at the midpoint and climax, and ends warm.
+
+**Opening chapter**
+
+1. Dinner after an easy whitewater run on the Nantahala in North Carolina. The group are college students; Evan is the only one who didn't attend the college. They talk about the last rapid; instructors tell stories of past trips. Keep it brisk, a few pages.
+2. Plant: an instructor repeats the river rule, "if you swim, float on your back, feet downstream."
+3. Show his flaw: Evan almost speaks up about something and gets talked over.
+4. Evan crashes early. He half-wakes needing the bathroom; his sleeping bag feels hard. He's naked, strapped to a table in a dim stone room. "For a dream, it could be worse..." It immediately gets worse.
+5. Possible beat: his isekai brain hopes for a status screen, then the summoners realize he has nothing.
+6. Once the torture starts, after a beat of real pain: at least he doesn't need the bathroom anymore.
+
+**The first relief**
+
+- The god speaks in Evan's mind, explains he's faking Evan's death, and lifts his consciousness out of his body, so the pain stops.
+- Thrown in the river, Evan tells the god to point his feet downstream and why. Something bumps the body so it slowly turns, looking natural. His first real choice: he speaks up, and a god listens.
+- Out of sight, the god warns the pain will return when he pushes Evan back in. Healing waits until Evan is safe, since healing a moving target costs energy the god lacks.
+
+**Never a joke**
+
+- The massacred city, the sacrifices, the water mage's grief, and Evan's darkest moments.
+- Only the chancellor jokes about people being worthless, and readers should wince. Evan jokes about his own worthlessness early, then stops.
+- Late beat: a friend jokes that he's worthless. Evan asks if he'd say that about Evan. "Never, you're my close friend!" Evan: "Then don't say it about mine."
+
+**Comedy sources**
+
+| Source | When it leads |
+| --- | --- |
+| Failed isekai expectations | Strongest early; fades as Evan stops waiting to be made special |
+| Kingdom's bureaucratic logic | Constant; aimed at the powerful, never the victims |
+| Friends | Grows once allies appear; the warmest humor |
+| The god's Earth fragments | Occasional seasoning |
+
+**Voice note:** Evan's humor is how he copes. A moment where he stops joking will carry great weight.
+
 ## Opening Events and Open Questions
 
 The opening is sketched; the questions below feed Stages 3 and 4.
@@ -145,7 +181,7 @@ The opening is sketched; the questions below feed Stages 3 and 4.
 - [x] Why do the summoners want summoned people? (Stage 3: weapons for conquest)
 - [x] How does stopping the summonings get Evan home? (Stage 3: the information needed for a safe reverse summoning)
 - [ ] What small thing does Evan notice early and not mention, which pays off later? (Possibly the water mage's hidden models.)
-- [ ] How can the opening hint at the humor so the dark-to-funny shift feels earned?
+- [ ] How can the opening hint at the humor so the dark-to-funny shift feels earned? (Answered in Stage 5.)
 - [ ] Evan's first real choice (the deal) must come soon and cost him something.
 - [ ] Could the water mage sense something odd about Evan's "corpse" in the river?
 - [ ] Are the water mage's models of his Swedish neighborhood or of this world's town?
