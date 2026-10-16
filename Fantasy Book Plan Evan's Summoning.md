@@ -4,7 +4,7 @@ Oct 15, 2026 · @Paul
 
 ## Roadmap
 
-Stages 1 to 7 are complete; Stage 8 is in progress.
+Stages 1 to 8 are complete; Stage 9 is next.
 
 - [x] 1\. Core premise and theme
 - [x] 2\. Protagonist: Evan
@@ -13,7 +13,7 @@ Stages 1 to 7 are complete; Stage 8 is in progress.
 - [x] 5\. Tone plan: mapping the dark-to-funny curve
 - [x] 6\. Plot structure: major turning points
 - [x] 7\. Subplots and supporting cast
-- [ ] 8\. Chapter outline
+- [x] 8\. Chapter outline
 - [ ] 9\. Story bible
 
 ## Stage 1: Premise and Theme
@@ -287,9 +287,9 @@ Lighter threads: Nara's art, Orrin learning to believe his friends.
 
 **Point of view:** Evan's, with occasional kingdom-side chapters. Suggested viewpoints: the general (his turn) and, sparingly, the chancellor (the Ruiner panic and ROI meetings).
 
-## Stage 8: Chapter Outline (in progress)
+## Stage 8: Chapter Outline
 
-About 30 chapters from Evan's point of view, plus four or five kingdom-side chapters (K), for 30 to 35 in all. Act 1 and Act 2a are drafted; Act 2b onward is next.
+About 30 chapters from Evan's point of view, plus four or five kingdom-side chapters (K), for 30 to 35 in all. All acts are drafted.
 
 | Chapters | Section | Anchor |
 | --- | --- | --- |
@@ -331,6 +331,49 @@ Kingdom chapters can follow chapter 2 or 3 (the general disposing of the body) a
 | 14 | Xavier's story; the "loot" is paperwork; he hands over his notes and finally rests; Evan sees "b on hs" and shrugs it off; Halden: "Yeah, I figured as much" | Evan has the evidence |
 | 15 | **Midpoint:** outside, the god suggests holding the page to raking light; Evan does, and the impressions show "6months" | The clock jumps to six months |
 
+### Act 2b
+
+| Ch. | What happens | What changes |
+| --- | --- | --- |
+| 16 | The blighted farmhouse (a mass sacrifice site, so the god can't see); the fourth summon's mundane notes; Evan jumps in front of a trap to save Nara. "Are you trying to get killed!?" | They have a strange clue; his friends value him even when he doesn't |
+| 17 | Halden heals them; Evan and the god work out the time difference; home is only hours away | Going home becomes tempting |
+| 18 | First archive trip (desecrated by the chancellor's sacrifices): the ledgers, Evan's own entry ("defective, disposed of"), two confiscated models that look oddly familiar; a narrow escape | Evan sees himself as the kingdom did |
+| K2 | The chancellor discovers the break-in, names "the Ruiner," and orders the general to hunt him | The hunt begins |
+| 19 | A regular job for cover and coin: Evan and Vagid fight kobolds while Nara and Orrin handle an ogre; more kobolds arrive; Evan and Vagid are cut up. Evan's isekai brain: "finally, a proper fantasy fight" | A breather; the lie whispers again |
+| 20 | Second archive trip: a deeper vault, tighter security, the sixth summon's stone notes; an assassin hunting the Ruiner poisons Orrin; a race to Halden, who saves him; the general glimpses Evan's face | They have the key; a friend was hurt because of Evan |
+| K3 | The general recognizes the "dead" summon and says nothing; the chancellor, out of patience, unleashes the water mage | The weapon is loose |
+| 21 | Evan and the god decode the stone notes and understand the chamber; the water begins to rise | Everything is about to break |
+
+**Notes for Act 2b**
+
+- **The fourth summon** was a plague mage who blighted the farmhouse. His mundane notes about himself, including the Earth year he was summoned, reveal the time difference.
+- **The sixth summon's notes** explain why the stones work. An earlier chancellor confiscated them, thinking the information too important to let any summon have it. The family has guarded the key to its own downfall for generations.
+- **The confiscated models** were taken by the chancellor years ago (as evidence of instability, or leverage), which is why the water mage now hides the rest so carefully. Evan knows they're from Earth but can't place them until the climax.
+- **Reducing coincidence:** after so many injuries, the party picks jobs near the church on purpose, or Nara's wind carries them back in time.
+- **Halden's visits** move his subplot: suspicion, then hard questions, then quiet help. Each healing draws on the god of plenty, who may start paying attention.
+
+### Act 3
+
+| Ch. | What happens | What changes |
+| --- | --- | --- |
+| 22 | **Low point:** the families visit a town to the east for a harvest festival; the water mage floods it to catch the Ruiner; the families are washed out of town, fates unknown; Evan blames himself and pulls away while the friends search the ruins; his jokes stop | "Everyone near me gets hurt" |
+| 23 | Wandering outside town, tempted to give up, Evan notices festival ribbons on a branch, then pillows, part of a tent, a child's shoe; he finds Orrin's little sister passed out against a tree, fears she's dead, then sees her shivering; he warms her (hypothermia knowledge, fire from soaked materials) | He saves a life with his "useless" knowledge |
+| 24 | **The rally:** Evan returns; Orrin runs to them crying. Evan: "I'm sorry. This is my fault. All of it." Orrin: "What? You didn't flood the town. *They* did. You found her." Then: "Where did you find her? Take us there!" Evan leads the search; the families are found alive, injured. The general, in plain clothes, helps survivors; only Evan recognizes him. Evan doesn't expose him. The general: look in the dilapidated castle near the northern border town, "it has amazing architecture." Evan tells his friends the clue came from the god | He chooses to fight; the group follows him |
+| K4 | The general's last doubts; the chancellor gathers hundreds of sacrifices | The ritual is imminent |
+| 25 | Evan apologizes to the god for using his name; the god doesn't mind ("You're the first one who's ever apologized"). They head north to the castle and find the water mage; he blows a hole in a mountain; Evan realizes he can't win and tries to understand him; the models, Sweden, the store, the poster | The mage begins to turn |
+| 26 | Evan, the mage and the god work out how to destroy the chamber from Xavier's and the sixth summon's notes; the other gods ready a preemptive reset | The final plan, and a new deadline |
+| 27 | **Climax** at the chamber: Evan fails to reach the chancellor; the mage frees the sacrifices; the chancellor orders his soldiers killed; the general kills him (the friends recognize the man from the flood, and Evan admits the truth); the king squeaks; the chamber is ground to sand, and Nara's wind scatters it | The summoning ends |
+| 28 | "There but for the grace of God go I"; Evan believes in the god; he persuades the gods (the plenty god, shaken by the drowned festival); the crossing and the seal | The world is saved |
+| 29 | Evan sends the water mage home and stays; the motto returns | Evan's new normal |
+| 30 | **Epilogue:** the water mage on Earth, atoning; Nara's art from the chamber's sand; Orrin's "worthless" joke and Evan's reply | The future, steered |
+
+**Notes for Act 3**
+
+- The harvest festival honors the god of plenty, which gives the swing-vote god a personal reason to side with Evan.
+- Plant Orrin's little sister at the family meal in chapter 6.
+- Evan and the general each hold the other's secret; Evan's mercy answers the general's earlier silence.
+- "Amazing architecture" is plausible deniability, and a sly nod to the models.
+
 ### Xavier
 
 - The third summon; a crime scene technician. The brainwashing worked at first, but his training helped him recover.
@@ -346,7 +389,7 @@ Kingdom chapters can follow chapter 2 or 3 (the general disposing of the body) a
 - **Time:** one year in the fantasy world is one day on Earth. Centuries of summoning cover about ten months of Earth time, so all summons come from roughly the last year, and the water mage was taken about a month before Evan.
 - **The water mage and Evan's trip:** Evan and Katie took a four- to five-day trip to Sweden and toured the water mage's neighborhood. Since the mage vanished right after his promotion, someone was promoted too quickly, and the store made abrupt, poorly chosen decor changes. Evan noticed.
 - **Missing-person poster:** in Evan's early memory of the trip, a faded poster by the store door, "a guy about my age." At the climax he realizes whose face it was.
-- **Desecrated ground** is a blind spot for gods; spirits who die there don't reach them.
+- **Desecrated ground** is a blind spot for gods; spirits who die there don't reach them. Sites of mass sacrifice become desecrated, including the blighted farmhouse, the chancellor's ancestral home, and almost certainly the summoning chamber. The chancellor's family may use this deliberately.
 
 ## Opening Events and Open Questions
 
