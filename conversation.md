@@ -701,7 +701,7 @@
 
 <br/>
 
-**Me:**
+> **Me:**
 >
 > My idea for the summoners is that it is a kingdom that is trying to summon someone powerful who they can brainwash into attacking all the other countries. Is that too much of a trope?
 
@@ -751,7 +751,7 @@
 >
 > I like your idea that the god was born from the earlier summonings.
 
---
+---
 
 > **Claude AI:**
 >
@@ -777,7 +777,7 @@
 >
 > The god has access to the people's memories as well as past events. A phrase comes to mind about that -- The past is set in stone, the future is like a river.
 
---
+---
 
 > **Claude AI:**
 >
@@ -803,7 +803,7 @@
 >
 > I like all of those options...
 
---
+---
 
 > **Claude AI:**
 >
@@ -834,7 +834,7 @@
 >
 > Since it is extremely expensive, resource wise, to perform a summons, there could be between 12 and 15 over a few centuries, but more would be difficult to manage. And since it is over a few centuries, only the summons from the summon before Evan's would still be alive. That doesn't mean that the others could not have left documents or clues about what was going on.
 
---
+---
 
 > **Claude AI:**
 >
@@ -866,7 +866,7 @@
 >
 > The previous summon has become unstable and unpredictable. The outcome of tasks given to them becomes more expensive than getting another summon and using them to get rid of the previous summon.
 
---
+---
 
 > **Claude AI:**
 >
