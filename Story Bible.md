@@ -48,7 +48,7 @@ Each god was born from a collective experience that touched the whole world.
 | Korrath | A great war | Pragmatic, accepts losses | For |
 | Sallow | A plague or famine | Fearful, cautious | For |
 | Amaranth | A time of plenty | Nostalgic | Torn; wants the time of plenty back |
-| The old god | The previous cycle | Built the chamber; regretted the reset | Passed on after writing a confession |
+| The old god | The previous cycle | Built the chamber; regretted the reset | Passed on after writing a confession, signed Ysmeric, a name no one remembers. Evan reads it aloud at the climax, the first time in centuries anyone has said it |
 
 ## Places
 
@@ -122,7 +122,7 @@ Each god was born from a collective experience that touched the whole world.
 
 ## Timeline
 
-1. **The last cycle:** the old god builds the chamber; people overuse it; the gods reset the world; the old god writes his confession and passes on.
+1. **The last cycle:** the old god builds the chamber; people overuse it; the gods reset the world; the old god writes his confession, signs it Ysmeric, and passes on.
 2. **The current gods arise** from war, plague or famine, and plenty.
 3. **The Malgrave family rediscovers the chamber.** Twelve to fifteen summons follow over a few centuries (about ten months of Earth time).
 4. **Summons of note:** the first two (different abilities); the third, Xavier, killed in the desecrated church; the fourth, the plague mage; the sixth, whose notes were confiscated; core trials that produced chimeras.
@@ -156,7 +156,7 @@ Each god was born from a collective experience that touched the whole world.
 | Confiscated models | 18 | 25 |
 | Evan says the clue came from the god | 24 | 25, 27 |
 | Harvest festival of plenty | 22 | 28 |
-| Old god's confession | Background | 28 |
+| Old god's confession, signed Ysmeric | Background | 28 |
 | Evan's self-deprecating jokes | Early | 30 |
 
 ## Tone Rules
