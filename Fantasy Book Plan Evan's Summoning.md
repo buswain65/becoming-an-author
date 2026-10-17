@@ -4,7 +4,9 @@ Oct 15, 2026 · @Paul
 
 ## Roadmap
 
-Stages 1 to 8 are complete; Stage 9 is next.
+Stages 1 to 9 are complete. The plan is finished.
+
+Quick reference for drafting: Story Bible
 
 - [x] 1\. Core premise and theme
 - [x] 2\. Protagonist: Evan
@@ -14,7 +16,7 @@ Stages 1 to 8 are complete; Stage 9 is next.
 - [x] 6\. Plot structure: major turning points
 - [x] 7\. Subplots and supporting cast
 - [x] 8\. Chapter outline
-- [ ] 9\. Story bible
+- [x] 9\. Story bible
 
 ## Stage 1: Premise and Theme
 
