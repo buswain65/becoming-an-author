@@ -117,3 +117,5 @@ Vagid looks slyly at the tall one and said, "Naked."
 Tall Guy looks like he wants to disappear, and the lady beside him snickers into her hand.
 
 "These are my friends that I mentioned yesterday. The lady is Nara and the abnormally tall one is Orrin."
+
+"I'm only tall in comparison to you two!" said Orrin.
