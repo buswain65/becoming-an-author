@@ -62,7 +62,7 @@ Each god was born from a collective experience that touched the whole world.
 - **The blighted farmhouse:** the plague mage's notes in a deep root cellar.
 - **The desecrated church:** near or over the border; Xavier's ghost and notes.
 - **Neighboring nations:** Dravia, Kethmoor, and the Altan Reach.
-- **On Earth:** the Nantahala River in North Carolina; a neighborhood and grocery store in Sweden.
+- **On Earth:** the Nantahala River in North Carolina; a neighborhood and grocery store in Sweden, one stop on Evan and Katie's quickie European trip (six countries in nine days), which is why he can't place the models at first.
 
 ## Other Names
 
@@ -128,7 +128,7 @@ Each god was born from a collective experience that touched the whole world.
 4. **Summons of note:** the first two (different abilities); the third, Xavier, killed in the desecrated church; the fourth, the plague mage; the sixth, whose notes were confiscated; core trials that produced chimeras.
 5. **Evan's god is born** from the suffering of the summoned.
 6. **Johan Nilsson is summoned;** decades of service; the massacred city.
-7. **On Earth:** Johan vanishes a month before Evan; Evan and Katie tour his Swedish neighborhood; the breakup.
+7. **On Earth:** Johan vanishes a month before Evan; Evan and Katie pass through his neighborhood on a quickie European trip; the breakup.
 8. **Evan is summoned** as Johan's replacement, and the book begins.
 
 ## Plants and Payoffs

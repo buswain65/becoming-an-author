@@ -205,7 +205,7 @@ Evan wins by understanding, not power, and ends the book by giving away the thin
 **Climax**
 
 1. The water mage blows a hole in a mountain; Evan realizes he can't defeat him and tries to understand him instead.
-2. Evan asks about the models, which are of places in Sweden. Evan visited them on a vacation with Katie before the breakup. He tells the mage what he saw: the store's abrupt, poorly chosen changes after he vanished, and a missing-person poster by the door. Home barely changed; for the people there, he's been gone about a month.
+2. Evan asks about the models, which are of places in Sweden. Evan passed through them on the quickie European trip with Katie (six countries in nine days) before the breakup, so it takes him time to place them. He tells the mage what he saw: the store's abrupt, poorly chosen changes after he vanished, and a missing-person poster by the door. Home barely changed; for the people there, he's been gone about a month.
 3. Evan sees the mage builds them because he wants to go home and stop being a tool of this evil. He gets the mage to see that people are precious to others, as his models are to him.
 4. Evan, the mage and the god work out how the chamber works: the composition and positioning of the floor stones. Grinding them to sand ends summoning forever; no one knows how to rebuild it.
 5. At the chamber, Evan tries to reach the chancellor and fails. The chancellor orders hundreds killed for the ritual; the water mage gets the sacrifices out.
@@ -395,7 +395,7 @@ Kingdom chapters can follow chapter 2 or 3 (the general disposing of the body) a
 ### New rules and story changes
 
 - **Time:** one year in the fantasy world is one day on Earth. Centuries of summoning cover about ten months of Earth time, so all summons come from roughly the last year, and the water mage was taken about a month before Evan.
-- **The water mage and Evan's trip:** Evan and Katie took a four- to five-day trip to Sweden and toured the water mage's neighborhood. Since the mage vanished right after his promotion, someone was promoted too quickly, and the store made abrupt, poorly chosen decor changes. Evan noticed.
+- **The water mage and Evan's trip:** Evan and Katie took a quickie European trip, six countries in nine days, and one stop was the water mage's neighborhood. Everything blurred together, so Evan struggles to remember which country he saw it in. Since the mage vanished right after his promotion, someone was promoted too quickly, and the store made abrupt, poorly chosen decor changes. Evan noticed.
 - **Missing-person poster:** in Evan's early memory of the trip, a faded poster by the store door, "a guy about my age." At the climax he realizes whose face it was.
 - **Desecrated ground** is a blind spot for gods; spirits who die there don't reach them. Sites of mass sacrifice become desecrated, including the blighted farmhouse, the chancellor's ancestral home, and almost certainly the summoning chamber. The chancellor's family may use this deliberately.
 
