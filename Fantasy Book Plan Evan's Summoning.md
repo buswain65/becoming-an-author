@@ -120,7 +120,7 @@ The wall between worlds is one summon from collapse, so the chancellor's next ri
 
 - Three other gods (war, plague/famine, plenty; see Stage 7). They are weighing a preemptive reset before the chancellor's ritual.
 - Evan's god asks for time to get the information needed for a real fix.
-  - By mutual agreement, gods keep their presence hidden. Any help must look natural, so they need mortals. (Why they agreed is still open.)
+  - By mutual agreement, gods keep their presence hidden. Any help must look natural, so they need mortals. The rule was left over from the last set of gods: if gods directly make things happen in the world, it causes a world-ending calamity. So miracles are forbidden, good or bad; hidden coincidences and acts through mortals are fine. Acts on the wall between worlds (the reset, the crossing, the seal) are unseen, so they're allowed. The rule is a misunderstanding: the last calamity was caused by the chamber, not by intervention itself. The gods' passivity let the summoning run unchecked for centuries. Possible reveal: at the climax, Evan reads the old god's confession closely and sees it blames the chamber.
 
 **Local magic**
 
@@ -221,7 +221,7 @@ Evan wins by understanding, not power, and ends the book by giving away the thin
 
 **Plants for the climax**
 
-- Chapter 1: strapped to the table in the chamber, Evan notices the floor stones' odd pattern and thinks nothing of it.
+- Chapter 2: just before the torture, Evan notices drawings on the floor in weird arching patterns. He thinks they might be inlaid metal, but they aren't shiny, so he decides he's imagining things. In chapter 20, while Orrin recovers, Evan sees Halden emptying an offering box. Some coins are very dark; Halden says they're silver, just old. Evan realizes the floor lines are inlaid silver, tarnished from centuries of neglect. The payoff: he was right, and should have trusted himself.
 - Early: a mention of travel stings; Evan deflects from the trip with Katie.
 - Middle: Evan recognizes a model or a place name from the trip and says nothing.
 - Earlier hints the mage can be reached: the hidden models, a hesitation during the hunt, the god's memory of him weeping after first draining an animal.
@@ -322,7 +322,7 @@ Kingdom chapters can follow chapter 2 or 3 (the general disposing of the body) a
 
 | Ch. | What happens | What changes |
 | --- | --- | --- |
-| 9 | Jobs continue; small modern-knowledge moments (boiling water, hypothermia); Evan starts consulting the god | His friends start to wonder |
+| 9 | Jobs continue; small modern-knowledge moments (boiling water, hypothermia); Evan starts consulting the god. The god's "Oh, no" about a chimera job. In the fight, Evan glimpses a misspelled English tattoo ("No Regrats"); after the kill, he realizes what it means and throws up; turning back, he and his friends see the ghost of the person inside, weeping with joy. "Is it just chimeras?" | His friends start to wonder |
 | 10 | Evan explains abrasion; Nara tries sculpting marble with wind-driven sand | Nara creates something for the first time |
 | K1 | The general hears of bodies downriver; the chancellor plans a ritual "in nine months" | Readers see the enemy's clock |
 | 11 | Evan asks the bored, unimpressed guild receptionist about ruins; the haunted desecrated church; Halden reacts | A lead, and Evan speaking up |
@@ -335,12 +335,12 @@ Kingdom chapters can follow chapter 2 or 3 (the general disposing of the body) a
 
 | Ch. | What happens | What changes |
 | --- | --- | --- |
-| 16 | The blighted farmhouse (a mass sacrifice site, so the god can't see); the fourth summon's mundane notes; Evan jumps in front of a trap to save Nara. "Are you trying to get killed!?" | They have a strange clue; his friends value him even when he doesn't |
+| 16 | The blighted farmhouse (a mass sacrifice site, so the god can't see); the fourth summon's mundane notes; Evan tells his friends what the chimera really was, and they're sickened too; Evan jumps in front of a trap to save Nara. "Are you trying to get killed!?" | They have a strange clue; his friends value him even when he doesn't |
 | 17 | Halden heals them; Evan and the god work out the time difference; home is only hours away | Going home becomes tempting |
-| 18 | First archive trip (desecrated by the chancellor's sacrifices): the ledgers, Evan's own entry ("defective, disposed of"), two confiscated models that look oddly familiar; a narrow escape | Evan sees himself as the kingdom did |
+| 18 | First archive trip (desecrated by the chancellor's sacrifices): the ledgers, Evan's own entry ("defective, disposed of"), "core trial: unsuccessful" (only chimeras are failed core summonings), two confiscated models that look oddly familiar; a narrow escape | Evan sees himself as the kingdom did |
 | K2 | The chancellor discovers the break-in, names "the Ruiner," and orders the general to hunt him | The hunt begins |
 | 19 | A regular job for cover and coin: Evan and Vagid fight kobolds while Nara and Orrin handle an ogre; more kobolds arrive; Evan and Vagid are cut up. Evan's isekai brain: "finally, a proper fantasy fight" | A breather; the lie whispers again |
-| 20 | Second archive trip: a deeper vault, tighter security, the sixth summon's stone notes; an assassin hunting the Ruiner poisons Orrin; a race to Halden, who saves him; the general glimpses Evan's face | They have the key; a friend was hurt because of Evan |
+| 20 | Second archive trip: a deeper vault, tighter security, the sixth summon's stone notes; an assassin hunting the Ruiner poisons Orrin; a race to Halden, who saves him; while Orrin recovers, dark old silver coins in Halden's offering box make Evan realize the chamber's floor lines are inlaid silver; the general glimpses Evan's face | They have the key; a friend was hurt because of Evan |
 | K3 | The general recognizes the "dead" summon and says nothing; the chancellor, out of patience, unleashes the water mage | The weapon is loose |
 | 21 | Evan and the god decode the stone notes and understand the chamber; the water begins to rise | Everything is about to break |
 
@@ -391,6 +391,13 @@ Kingdom chapters can follow chapter 2 or 3 (the general disposing of the body) a
 - **Missing-person poster:** in Evan's early memory of the trip, a faded poster by the store door, "a guy about my age." At the climax he realizes whose face it was.
 - **Desecrated ground** is a blind spot for gods; spirits who die there don't reach them. Sites of mass sacrifice become desecrated, including the blighted farmhouse, the chancellor's ancestral home, and almost certainly the summoning chamber. The chancellor's family may use this deliberately.
 
+* **The reset:** only living animals and people die. Plants, buildings, books and objects survive, so after a reset the world is overgrown and empty. Monsters survive too, because their cores pass them over, so each reset leaves the world more dangerous. Not even the gods know where new people come from.
+* **The last cycle:** the old god built the chamber to summon believers; people learned to use it and summoned "heroes" so often that the gods "had no choice" but to reset the world. The old god agreed, then regretted it. The other gods passed on one by one until only he remained. He wrote a confession, hoping others wouldn't repeat the mistake, then passed on. The chamber survived; the chancellor's ancestors found it again.
+* **A recurring motif:** everyone who suffered under summoning left notes for whoever came next: Xavier, the plague mage, the sixth summon, and the old god.
+* **Monster cores:** a jewel near the heart makes a monster a monster (one isekai trope that actually holds). Cores were tried in place of human sacrifice; they corrupted the people summoned into amalgamations of the monsters the cores came from. Only chimeras are these failed summonings.
+* **The chancellor's daughter:** he dotes on her and doesn't want her hands dirtied by killing, so he wants to pass the family duty to her future husband. He won't trust a summon after the water mage. He can't see that forcing a husband to kill would poison his soul and harm her too. A tender kingdom-side scene, then cold evaluation of suitors. After his death, the king adopts her; she won't inherit the throne but lives a rich life. His wish comes true only through his death and the scapegoat king's mercy.
+* **The water mage** was not present at Evan's summoning. When they meet (chapter 25), he realizes Evan was meant to be his replacement and has conflicting feelings: resentment, relief, pity and kinship ("They summoned you to replace me?"). In the end Evan does replace him, by taking his place in this world so he can go home.
+
 ## Opening Events and Open Questions
 
 The opening is sketched; the questions below feed Stages 3 and 4.
@@ -406,18 +413,19 @@ The opening is sketched; the questions below feed Stages 3 and 4.
 **Open questions:**
 
 - [x] Why do the summoners want summoned people? (Stage 3: weapons for conquest)
-- [x] How does stopping the summonings get Evan home? (Stage 3: the information needed for a safe reverse summoning)
-- [ ] What small thing does Evan notice early and not mention, which pays off later? (Answered in Stage 6: the floor stones and the Sweden models.)
-- [ ] How can the opening hint at the humor so the dark-to-funny shift feels earned? (Answered in Stage 5.)
-- [ ] Evan's first real choice (the deal) must come soon and cost him something.
-- [ ] Could the water mage sense something odd about Evan's "corpse" in the river?
-- [ ] Are the water mage's models of his Swedish neighborhood or of this world's town? (Answered: Sweden.)
-- [ ] A human detail that complicates the chancellor.
-- [ ] How to add urgency to the six-to-nine-month clock (milestones, a second clock, a midpoint jump).
-
-* [ ] Who are the other gods (two to four), and where does each stand on a preemptive reset? (Stage 7)
-* [ ] Does the reverse summoning happen alongside strengthening the wall, so it doesn't trigger collapse?
-* [ ] Are there ruins or records from before an earlier reset?
-* [ ] A scene where the god honestly offers Evan reincarnation, and he refuses.
-
-- [ ] Why did the gods agree to keep their presence hidden? Do they break the agreement for the reverse summoning?
+- [x] How does stopping the summonings get Evan home? (Stage 3)
+- [x] What small thing does Evan notice early and not mention? (The silver floor inlay and the Sweden models)
+- [x] How can the opening hint at the humor? (Stage 5)
+- [x] Evan's first real choice must come soon and cost him something. (Chapter 3, the deal; chapter 8, the truth)
+- [x] Could the water mage sense Evan's "corpse" in the river? (No: he wasn't at Evan's summoning)
+- [x] Are the water mage's models of Sweden or this world? (Sweden)
+- [x] A human detail that complicates the chancellor. (His daughter)
+- [x] How to add urgency to the clock. (The midpoint jump and the Ruiner hunt)
+- [x] Who are the other gods? (Stage 7)
+- [x] Does the reverse summoning happen with the sealing? (Yes, in one act)
+- [x] Are there ruins or records from before an earlier reset? (Yes; see the reset rules in Stage 8)
+- [x] A scene where the god offers reincarnation. (Chapter 3)
+- [x] Why did the gods agree to keep their presence hidden? (A rule from the last gods: direct intervention causes calamity; see Stage 4)
+- [ ] Is the no-miracles rule true, or a misunderstanding inherited from the last gods? (A misunderstanding; see Stage 4)
+- [ ] What happens to the chancellor's daughter after his death? (The king adopts her; she won't inherit the throne but lives a rich life, and never has to kill)
+- [ ] Does the water mage learn that a replacement was summoned? (Yes, in chapter 25, with conflicting feelings. Evan does replace him, by staying so he can go home)
