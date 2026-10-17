@@ -376,6 +376,12 @@ Kingdom chapters can follow chapter 2 or 3 (the general disposing of the body) a
 - Evan and the general each hold the other's secret; Evan's mercy answers the general's earlier silence.
 - "Amazing architecture" is plausible deniability, and a sly nod to the models.
 
+* **Silas learns the Ruiner is Thirteen** at the chamber during the climax; he can't accept that the defective one mattered.
+* **Meeting the gods:** Eddy lifts Evan's consciousness out of his body, as on the river in chapter 3, and brings him to where the gods gather on the wall between worlds, unseen. This time he isn't escaping pain; he's walking in to argue with gods.
+* **Amaranth's shift:** his harvest festival was drowned by the summoning program, and Halden prays on Evan's behalf.
+* **The call home:** during the crossing, before the seal, Eddy lets Evan reach his friends on Earth, something like a phone call. Only about half a day has passed there, so they're likely still at the Nantahala campsite searching for him: "Hey. I'm fine. I just... can't finish the trip."
+* **Evan's new life:** after naming Eddy, Evan gains healing magic as Eddy's first cleric and heals anyone who needs it, for free. He keeps adventuring with Plan B. He's willing to talk with King Bertram but won't call it "advice"; he sees his worth now, but not as an advisor to a king. Optional final wink: a hint of interest in one of the guild receptionists.
+
 ### Xavier
 
 - The third summon; a crime scene technician. The brainwashing worked at first, but his training helped him recover.

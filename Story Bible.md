@@ -8,7 +8,7 @@ A quick reference for drafting. The full reasoning behind each decision is in th
 - **Premise:** When a power-mad nation begins summoning people from other worlds, an average guy (Evan) who doesn't believe in gods, love, or even himself makes a deal with a god to find a way to stop the practice of summoning, or risk losing any chance at returning to his world and life.
 - **Theme:** What do you believe in when the world tells you you're nothing?
 - **Lie to truth:** "I don't matter, and I don't have a future" becomes "Everyone matters, and we make our own future regardless of what others think."
-- **Want vs. need:** He wants to go home; he needs something worth believing in. He stays by choice.
+- **Want vs. need:** He wants to go home; he needs something worth believing in. He stays by choice, as Eddy's first cleric, healing anyone for free and adventuring with Plan B.
 - **Satire target:** Isekai power fantasies. When stuck, ask what a typical isekai would do, then find the honest or absurd opposite.
 - **Point of view:** Evan, with occasional kingdom-side chapters from Garrick and, sparingly, Silas Malgrave.
 - **Length:** 30 to 35 chapters, about 90,000 words.
@@ -73,11 +73,11 @@ Each god was born from a collective experience that touched the whole world.
 - **Plan B:** the party's name (Nara, Orrin, Vagid, and later Evan).
 - **Amaranth's Chapel, Millbrook:** Halden's church.
 - **Rafe and Lida:** Orrin's (and Katia's) parents.
-- **Faren and Ruta:** Vagid's parents.
+- **Faren and Ruta:** Vagid's parents. Vagid's older brother, Dorran, is a castle guard, proud and loyal to the crown (to King Bertram, not the chancellor, a difference he discovers at the climax): possibly among the Ruiner hunters, and among the soldiers Silas orders killed at the climax, so Garrick's defiance saves him.
 - **Currency:** suns (gold), rays (silver), and sparks (copper). The dark coins in Halden's offering box are old rays.
 
 * **Guild receptionists:** Della and Prue (bored, overworked, unimpressed) and Mara (new and perky, the receptionist Evan's isekai brain expects).
-* **Blades of Glory:** the rival party that calls Orrin "the tag along."
+* **Scythe of Destiny:** the rival party that calls Orrin "the tag along."
 * **Larkmere:** the city Johan destroyed after being ordered to "find the insurgents and remove them."
 * **Rachel Lin:** the fourth summon, the plague mage (suggested former job: nurse).
 * **Grace Whitfield:** the sixth summon, author of the stone notes (suggested former job: geologist).
@@ -143,7 +143,7 @@ Each god was born from a collective experience that touched the whole world.
 | The motto | 3 | 29 |
 | "Swiss cheese": the god knows Earth | 3 | The god's origin |
 | Blind spots, including desecrated sites | 3 | 11 to 12 |
-| Reincarnation offer | 3 | 23 |
+| Reincarnation offer (and the out-of-body float, which returns when Eddy brings Evan to meet the gods in ch. 28) | 3 | 23 |
 | "I'm not asking you to believe in me today"; the god mentions he has no name | 3 | 28 |
 | Halden: "dropped on his head" | 5 | 14 |
 | Orrin's little sister, Katia, at the family meal; Evan flinches at her name | 6 | 23 |
