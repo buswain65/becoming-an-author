@@ -102,9 +102,7 @@ It took me a second to catch up with the rest of what he'd said. "Wait. Back up.
 
 "You're talking to one."
 
-"That's not the same thing."
-
-"Okay. Why did you do all this? Why me?"
+"That's not the same thing. Okay. Why did you do all this? Why me?"
 
 "The summoning ritual has been going on for a long time," Tired Guy said.
 
