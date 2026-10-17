@@ -238,7 +238,7 @@ Evan's friends each struggle with their own worth, and Evan's experience of wort
 - Adventurers on a job find him, patch him up, and carry him, unconscious, to the nearest town. Possible reason for their job: investigating bodies turning up downriver.
 - He wakes in a church, tended by Halden, a cleric of the god of plenty.
 - Halden is wary; Evan knows nothing about the gods or the world. "Was he dropped on his head or something?" Evan can adopt it as cover: he hit his head on a rock in the river.
-- When Evan is well enough to leave, they stop at Vagid's house for clothes (everything is too short, and Vagid shrugs it off), then Orrin's (they fit), and at another home for a quick meal. Evan's first taste of belonging.
+- When Evan is well enough to leave, they stop at Vagid's house for clothes (everything is too short, and Vagid shrugs it off), then Orrin's (they fit), and at Nara's family home for a quick meal, where her family assumes Evan is her boyfriend. Evan's first taste of belonging.
 
 **The adventurers**
 
@@ -314,7 +314,7 @@ About 30 chapters from Evan's point of view, plus four or five kingdom-side chap
 | 3 | The river escape, feet downstream, the god's offer and the deal; the god names his blind spots, including desecrated sites | He has a mission |
 | 4 | He swims to shore; the adventurers find him | He's among strangers |
 | 5 | The church, Halden's suspicion, the cover story | He has a secret |
-| 6 | Clothes at Vagid's (too short) and Orrin's, a family meal, a first small job | First belonging |
+| 6 | Clothes at Vagid's (too short) and Orrin's (they fit; meet Katia); a meal at Nara's family home, where everyone assumes Evan is her boyfriend; a first small job | First belonging |
 | 7 | Jobs and close calls; the friends risk themselves for him; the downriver job turns up a lead | Evidence that he matters |
 | 8 | Evan asks the god whether to trust them ("I can't see the future, remember? That one's yours."); he tells them the whole truth, and isn't believed | He's committed |
 
