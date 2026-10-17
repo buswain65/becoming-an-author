@@ -18,7 +18,7 @@ Another hooded figure stepped forward holding some kind of crystal ball, and his
 
 His voice put an end to that. "Appraise!"
 
-*A**p**p**r**a**i**s**e**?** **L**i**k**e** **i**n **i**s**e**k**a**i**?** **T**hat'**s** **w**e**i**r**d**.** **A**n**d** **c**learly a dude. Okay, Ball Guy.*
+*Appraise? Like in isekai? That's weird. And clearly a dude. Okay, Ball Guy.*
 
 The crystal ball glowed briefly. Then Ball Guy said, "There is a problem."
 
