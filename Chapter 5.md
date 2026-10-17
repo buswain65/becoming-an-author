@@ -118,4 +118,31 @@ Tall Guy looks like he wants to disappear, and the lady beside him snickers into
 
 "These are my friends that I mentioned yesterday. The lady is Nara and the abnormally tall one is Orrin."
 
-"I'm only tall in comparison to you two!" said Orrin.
+"I'm only tall in comparison to you too!" Orrin said. "Halden's taller than me. And even Naked Guy is the same height as me!"
+
+*I'm not sure I can live that down.* "Evan," I said hoping to get away from that horrible nickname.\
+"Evan. Great to finally meet you!" Orrin said a bit too enthusiastically I thought.
+
+"I, uh, just wanted to thank you all for paying for my healing. I don't have, um, well anything right now, not even clothes. But I can get some kind of work. It just might take a while before I can pay you back." I stammered.
+
+"That reminds me," Vagid said. "The Guild wanted to talk to you about what happened to you, once you are feeling better."
+
+"Guild? Like an Adventurer's Guild?" I asked, hoping against hope.
+
+"Yes. They coordinate any job outside the town, and even some inside," chimed Nara. "We were on a job for them when we found you."
+
+"Naked," opted Orrin.
+
+"Yeah, got it," I quickly added. *Man, I really need to work to get rid of that nickname!*
+
+"As much as I would like to know why you were out there," Vagid stated looking at Orrin. "Naked. I think we should wait until you meet with the Guild. That way you only need to relay the story once."
+
+*Thank god!** **I** **r**e**a**l**l**y** **d**o**n't wan**t** **t**o** **r**e**m**ember t**hat**,** **b**u**t** may**be **they can** help m**e.*
+
+"Yeah, that would be best"&#32;
+
+Vagid continued, "The Guild will send someone in the next day or two to make the arrangements, so just rest until then. We'll be leaving. It is really good to see you doing better Evan." Plan B left and quietly closed the door.
+
+*I really need to talk to Tired Guy*
+
+"Halden, does the chapel have someplace quiet for prayer? And does it matter if I pray to a god other than your god?" I asked.
