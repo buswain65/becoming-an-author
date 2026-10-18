@@ -80,7 +80,11 @@ Each god was born from a collective experience that touched the whole world.
 - **Faren and Ruta:** Vagid's parents. Vagid's older brother, Dorran, is a castle guard, proud and loyal to the crown (to King Bertram, not the chancellor, a difference he discovers at the climax): possibly among the Ruiner hunters, and among the soldiers Silas orders killed at the climax, so Garrick's defiance saves him.
 - **Currency:** suns (gold), rays (silver), and sparks (copper). The dark coins in Halden's offering box are old rays.
 
-* **Guild receptionists:** Della and Prue (bored, overworked, unimpressed) and Mara (new and perky, the receptionist Evan's isekai brain expects).
+* **Guild receptionists:** Della and Prue (older, bored, efficient, unimpressed) and Mara (young, pretty, very perky, slower; the receptionist Evan's isekai brain expects). Vagid has a thing for Mara, so he always gets in her line, which is always the longest (ch. 7; Orrin: "Vagid has a thing for Mara"; Vagid: "If by 'thing' you mean respect"). Mara is just as warm to everyone ("Hi, Vagid! It's so good to see you again!" is how she greets every adventurer). She's clueless about Vagid's feelings, and he's clueless that she greets everyone the same way. If Evan shows interest in a receptionist in the epilogue, it should be Della or Prue, not Mara.
+
+  **Prue (seed for the epilogue):** early twenties, waist-length auburn hair worn in a braid; unimpressed ("Why would I have heard about a meeting?"). Mara is younger, probably late teens. In ch. 7 Evan describes Prue in detail but gives Mara only "young, pretty, and very perky": a quiet first sign that Prue is the receptionist Evan may be interested in by the epilogue. Keep it subtle: he notices her, never says so. In ch. 9, handed a squishing sack of forty-seven goblin ears, her only words are "I hate my job" before she counts them anyway (efficient but miserable). Possible payoff: she leaves, or gets promoted out of counting ears, by the epilogue.
+
+  **Cuthbert Mossley ("Boss"):** Guild master of the Millbrook Branch; a mouse-like beastkin, the first non-human Evan meets. Everyone calls him "Boss" (always capitalized), except Prue, who calls him "Cutty" to his face and barges into his office without knocking. Very by-the-book, not overly bright, and not pushy: he cares that the report is complete and in the proper format, not whether it's true, and stops asking once the paperwork is done. Play him straight and dignified, never cutesy; the comedy comes from the world fitting around his size. In ch. 7 he takes Evan's "hit my head on the rocks" story at face value; the tension in the meeting comes from Plan B hearing Evan's story for the first time and noticing the gaps.
 * **Scythe of Destiny:** the rival party that calls Orrin "the tag along."
 * **Larkmere:** the city Johan destroyed after being ordered to "find the insurgents and remove them."
 * **Rachel Lin:** the fourth summon, the plague mage (suggested former job: nurse).
@@ -190,6 +194,27 @@ Each god was born from a collective experience that touched the whole world.
 - Tired Guy's advice: don't lie to friends, but tell them after the Guild meeting; for the Guild, stay close to the truth, "just not the whole truth." Evan calls Plan B "friends" for the first time ("Friends, is it?" / "…Shut up.").
 - Ch. 7 opens with Evan and Plan B going to the Guild to request the meeting themselves.
 
+## Chapter 7 Continuity
+
+- **Timeline:** the morning after ch. 6. Plan B took the bodies-in-the-river job "just over two weeks ago."
+- **Millbrook:** timber and whitewash; Evan's first real look at the town center. The Wendway runs through town (Nara names it for Evan: "It runs all the way down from the mountains"). A bridge crosses it in town.
+- **The Guild hall:** a two-story building in the town center that looks like an Old West saloon outside ("Howdy, pardner!") and a bank or "the DMV" inside: a long counter, three receptionists' windows with dividers, queue lines painted on the floor. Mara's line is usually the longest (she's slower). The Guild master's office is upstairs behind double doors; his high-backed chair faces the window and turns slowly (Evan: Dr. Evil, minus Mr. Bigglesworth).
+- **Mara:** greets everyone with the identical "Hi, \[name\]! It's so good to see you again!", even Evan, whom she's never met (Evan: "stuck in a loop"; *Again?*). Vagid doesn't notice.
+- **Cuthbert:** first line "Do they have an appointment?" Evan's private nickname: GM Mouse ("It couldn't be something cool, like Reepicheep"). Finds the job instantly in a ledger nearly as big as he is.
+- **The "rocks" record:** Cuthbert reads Halden's injury list aloud (broken fingers, skin taken from the arm, burns from red-hot pokers, knife wounds, club marks). Evan answers rocks every time ("Um. Hot? Rocks?", "sharp rocks", "that would be rocks too"), and Cuthbert dutifully writes *rocks* in the ledger and closes the job as completed. He also adds Evan to Plan B ("And Plan B… four members"). **Plant:** the Guild's official record says Evan's wounds came from rocks; it can mirror the kingdom's ch. 18 ledger ("Thirteen: defective, disposed of").
+- Evan knows he blew Tired Guy's advice ("*So much for 'close to the truth.'*").
+
+## Chapter 8 Continuity
+
+- Plan B collects the reward: three pouches, none for Evan (Nara collects it; Vagid skips a chance to see Mara). Evan diagnoses Mara as needing a "stop condition."
+- **The landing:** a narrow walkway from the town bridge leads down to a small landing at the river's edge. Evan asks to talk by the river.
+- **Rule:** Tired Guy can answer Evan anywhere along the river, not only at the bench. He still can't see the future ("I can't see the future, remember? That one's yours. But I'm here.").
+- **The Otherborn:** locals know the word and the reputation for overwhelming power; Plan B had "heard about them" but never met one. Orrin: "You don't have any magic, so how could you be an Otherborn?"
+- **Evidence:** Evan speaks English; Orrin recognizes "peet-sha" from the rescue, and Vagid remembers asking about the language.
+- **The confession:** Evan tells them the Nantahala, waking on the stone table, some of the torture, then Tired Guy, the deal, what he must do and what happens if he fails. Orrin: "Gods don't talk to people! They never have!" Evan echoes Tired Guy: "I'm not asking you to believe me today."
+- **Plan B's stance after ch. 8:** they believe the torture ("well, that part is clearly true") but not the summoning or the talking god ("We don't believe most of your story. But we believe in you."). They stay.
+- **Plan B now has four members:** Vagid: "Cuthbert's ledger already says Plan B has four members. It'd be a shame to make him fix it." Evan: "Yeah. That would be a real shame."
+
 ## Hard Rules
 
 **Summoning**
@@ -225,6 +250,8 @@ Each god was born from a collective experience that touched the whole world.
 **Time:** one year in the fantasy world is one day on Earth.
 
 **Magic:** some locals have small abilities; a few are near summon-level. No levels or status screens. Monster cores are real, and valuable.
+
+**Races:** Sunhallow is mostly human; other races are rare there but more common in the neighboring nations (Dravia, Kethmoor, the Altan Reach). The first non-human Evan meets is the Millbrook Guild master, a mouse-like beastkin everyone calls "Boss" (ch. 7).
 
 ## Timeline
 
