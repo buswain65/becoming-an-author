@@ -52,11 +52,11 @@ I started to get out of bed, but for some reason the lights began to dim. I saw 
 
 *Oh, yeah. I've been isekai'd.*
 
-"Hmm. Usually the fainting comes once they see the bill," said Halden. "You should get some more rest. We can talk about these things, and more, tomorrow."
+"Hmm. Usually people don't faint until they see the bill," said Halden. "You should get some more rest. We can talk about these things, and more, tomorrow."
 
 "And my friends would like to be there too, if that's all right with you," said Vagid.
 
-"Yeah. That works for me," I said. I seemed to be slurring my words. The room was growing dim again.
+"Yeah. Works for me," I slurred, as the room went dim again.
 
 \* \* \*
 
@@ -112,37 +112,80 @@ Halden turned to the group. "Did you drop him on his head or something?"
 
 Vagid and the other two looked at each other. "Not while he was on *my* back," said the tall one.
 
-Vagid looks slyly at the tall one and said, "Naked."
+Vagid looked slyly at the tall one and said, "Naked."
 
-Tall Guy looks like he wants to disappear, and the lady beside him snickers into her hand.
+Tall Guy looked like he wanted to disappear, and the lady beside him snickered into her hand.
 
-"These are my friends that I mentioned yesterday. The lady is Nara and the abnormally tall one is Orrin."
+"It must have happened while I was in the river. I don't know how long or how far I came, but I remember a lot of rocks," I quickly added. *I don't know if I need to keep it a secret that I'm from a different world or not.*
 
-"I'm only tall in comparison to you too!" Orrin said. "Halden's taller than me. And even Naked Guy is the same height as me!"
+"These are the friends I mentioned yesterday. This is Nara, and the abnormally tall one is Orrin."
 
-*I'm not sure I can live that down.* "Evan," I said hoping to get away from that horrible nickname.\
-"Evan. Great to finally meet you!" Orrin said a bit too enthusiastically I thought.
+"I'm only tall compared to you!" Orrin said. "Halden's taller than me. And even Naked Guy is the same height as me!"
 
-"I, uh, just wanted to thank you all for paying for my healing. I don't have, um, well anything right now, not even clothes. But I can get some kind of work. It just might take a while before I can pay you back." I stammered.
+*I'm not sure I can live that down.*
 
-"That reminds me," Vagid said. "The Guild wanted to talk to you about what happened to you, once you are feeling better."
+"Evan," I said, hoping to get away from that horrible nickname.
 
-"Guild? Like an Adventurer's Guild?" I asked, hoping against hope.
+"Evan. Great to finally meet you!" Orrin said, a bit too enthusiastically, I thought.
 
-"Yes. They coordinate any job outside the town, and even some inside," chimed Nara. "We were on a job for them when we found you."
+"I, uh, just wanted to thank you all for paying for my healing. I don't have, um, well, anything right now. Not even clothes. But I can get some kind of work. It just might take a while before I can pay you back," I stammered.
 
-"Naked," opted Orrin.
+"You don't owe us anything," Nara said. "We'd want someone to do the same for us."
 
-"Yeah, got it," I quickly added. *Man, I really need to work to get rid of that nickname!*
+I opened my mouth, then closed it again. I had no idea what to do with that.
 
-"As much as I would like to know why you were out there," Vagid stated looking at Orrin. "Naked. I think we should wait until you meet with the Guild. That way you only need to relay the story once."
+"That reminds me," Vagid said. "The Guild wants to talk to you about what happened, once you're feeling better."
 
-*Thank god!** **I** **r**e**a**l**l**y** **d**o**n't wan**t** **t**o** **r**e**m**ember t**hat**,** **b**u**t** may**be **they can** help m**e.*
+"Guild? Like an Adventurers' Guild?" I asked, hoping against hope.
 
-"Yeah, that would be best"&#32;
+"Yes. They coordinate any job outside the town, and even some inside," Nara chimed in. "We were on a job for them when we found you."
 
-Vagid continued, "The Guild will send someone in the next day or two to make the arrangements, so just rest until then. We'll be leaving. It is really good to see you doing better Evan." Plan B left and quietly closed the door.
+*Do they hand out rank cards? Is there a crystal that measures my mana?* Probably not. Knowing my luck, it was more like a temp agency with swords.
 
-*I really need to talk to Tired Guy*
+"Naked," added Orrin.
+
+"Yeah, got it," I said quickly. *Man, I really need to work on getting rid of that nickname!*
+
+"As much as I'd like to know why you were out there," Vagid said, "I think we should wait until you meet with the Guild. That way, you only have to tell the story once."
+
+*Thank god! I really don't want to relive that. But maybe they can help me.*
+
+"Yeah, that would be best," I said.
+
+Vagid continued, "The Guild will send someone in the next day or two to make the arrangements, so just rest until then. We'll be leaving now. It's really good to see you doing better, Evan."
+
+Plan B left, quietly closing the door behind them.
+
+*I really need to talk to Tired Guy.*
 
 "Halden, does the chapel have someplace quiet for prayer? And does it matter if I pray to a god other than your god?" I asked.
+
+After pausing a moment, Halden said, "Amaranth is a very kind and patient god. But if you want to pray to a different god, they might find it better if you found someplace meaningful to them, and prayed there."
+
+*Someplace meaningful to Tired Guy? I'm stumped.*
+
+I asked Halden if I could sit somewhere quiet outside the chapel, and he agreed to help me out to a stone bench just beyond the front door.
+
+"Thanks, Halden. I literally couldn't have done it without you!"
+
+"I'll just add it to the tab."
+
+*It's really hard to tell if he's joking.*
+
+The bench was cold, and the sun was warm, and for a while I just sat there, being alive.
+
+Then I tried it Halden's way. I closed my eyes and thought, as hard as I could, *Hello? Tired Guy? It's me. Evan. The naked one.*
+
+Nothing. Not even hold music.
+
+*Someplace meaningful.* What would mean anything to a god who quoted famous people and knew about Swiss cheese? I didn't even know what he was the god *of*.
+
+Somewhere past the rooftops, I could hear water. Not loud. Just the low, steady rush of a river going about its business.
+
+I opened my eyes.
+
+The last time I'd talked to Tired Guy, I'd been floating down a river. He'd turned my feet downstream because I asked him to. *The past is set in stone. The future is like a river.*
+
+*Huh.*
+
+I knew where I needed to go. I just had to be able to walk there first.

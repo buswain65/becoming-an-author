@@ -10,14 +10,14 @@ A quick reference for drafting. The full reasoning behind each decision is in th
 - **Lie to truth:** "I don't matter, and I don't have a future" becomes "Everyone matters, and we make our own future regardless of what others think."
 - **Want vs. need:** He wants to go home; he needs something worth believing in. He stays by choice, as Eddy's first cleric, healing anyone for free and adventuring with Plan B.
 - **Satire target:** Isekai power fantasies. When stuck, ask what a typical isekai would do, then find the honest or absurd opposite.
-- **Point of view:** Evan, with occasional kingdom-side chapters from Garrick and, sparingly, Silas Malgrave.
+- **Point of view:** Evan in first person; occasional kingdom-side chapters from Garrick and, sparingly, Silas Malgrave, in third person.
 - **Length:** 30 to 35 chapters, about 90,000 words.
 
 ## Characters
 
 | Name | Role | Wants | How they see their worth | Notes |
 | --- | --- | --- | --- | --- |
-| Evan | Evan McIntyre: mid-twenties junior software developer; Thirteen, the summon with no powers | To go home | "I don't matter" | Deadpan isekai reader; notices small things but doesn't speak up; beginner outdoor skills; modern knowledge with limits |
+| Evan | Evan McIntyre: mid-twenties junior software developer; Thirteen, the summon with no powers | To go home | "I don't matter" | Deadpan isekai reader; notices small things but doesn't speak up; beginner outdoor skills; modern knowledge with limits. In larger groups he goes quiet and watchful, and joins the conversation only when asked a question (at Nara's family dinner, ch. 6, his reserve reads as a nervous suitor on his best behavior). |
 | Nara | Wind mage, near summon-level | To create beauty, not destruction | Valued only for her power | Learns marble sculpting by wind-driven abrasion |
 | Orrin | Ranger, exceptional with a bow | To believe he belongs | Believes strangers who call him the "tag along" | Loud, frequent self-deprecation; makes the "worthless" joke late. Little sister: Katia, whose name echoes Katie's (Evan flinches at the meal in ch. 6; saving her in ch. 23, it no longer hurts) |
 | Vagid | Party leader; short and mocked for it | To help his friends see their worth | Secure; cares only what friends think | Can't help them because he's never felt worthless |
@@ -28,11 +28,13 @@ A quick reference for drafting. The full reasoning behind each decision is in th
 | King Bertram | Figurehead king | To stay alive | Treated as disposable | Squeaks at bloodshed; reluctantly back in power |
 | Garrick | The general | To serve honorably | Loyal, slowly doubting | In the chamber in ch. 2; hunts the Ruiner; kills Silas |
 | Xavier | Third summon; crime scene technician; now a ghost | To pass on his findings | Unheard for centuries | Bound to a desecrated church; rests once Evan takes his notes |
-| Katie | Evan's ex | (Off-page) |  | "I don't know... maybe both..." |
+| Katie | Evan's ex | (Off-page) | — | "I don't know... maybe both..." From a small town in Pennsylvania; once gave Evan a tour of her hometown. A narrow two-story house (Orrin's family's, ch. 6) reminds him of a Pennsylvania row home, and of her. |
 
-**The Nantahala trip (chapter 1)**
+**The Nantahala trip (chapter 1, dinner at the River's End restaurant; Evan's table: Tres, Curt, Jocelyn, Jon and Scott)**
 
-- **Walt** (instructor): tells the story with the river rule, "float on your back, feet downstream."
+- **Walt** (instructor): quiet; people lean in when he talks. Tells the story of a kid whose shoelaces caught on the rocks at the Falls: "feet downstream, and feet up."
+  - **Josh and Silvia** (instructors): "You can't fight a river"; eddies are "rest stops on the river."
+  - **Other chapter 1 details:** Jocelyn's boyfriend reads isekai ("issy-something"), and so does Evan. Evan joined the program on a coworker's recommendation. Tent mates: Curt and Scott. Evan's "warm gear" answer plants his hypothermia knowledge.
 - **Tres** (instructor): tells a funny story from a past trip.
 - **Curt** (student): the loud one who talks over Evan.
 - **Jocelyn** (student): asks Evan about travel, prompting his Sweden deflection.
@@ -73,6 +75,8 @@ Each god was born from a collective experience that touched the whole world.
 - **Plan B:** the party's name (Nara, Orrin, Vagid, and later Evan).
 - **Amaranth's Chapel, Millbrook:** Halden's church.
 - **Rafe and Lida:** Orrin's (and Katia's) parents.
+
+  Rafe is broad, dark-haired and bearded, looks too young to have a grown son, and looks nothing like Orrin (Evan's first guess: "Uncle? Neighbor? Very confident burglar?"). Orrin takes after Lida: same face, older ("like an age-progression photo on TV"). Their narrow two-story house near the town center reminds Evan of a Pennsylvania row home.
 - **Faren and Ruta:** Vagid's parents. Vagid's older brother, Dorran, is a castle guard, proud and loyal to the crown (to King Bertram, not the chancellor, a difference he discovers at the climax): possibly among the Ruiner hunters, and among the soldiers Silas orders killed at the climax, so Garrick's defiance saves him.
 - **Currency:** suns (gold), rays (silver), and sparks (copper). The dark coins in Halden's offering box are old rays.
 
@@ -85,6 +89,106 @@ Each god was born from a collective experience that touched the whole world.
 * **Otherborn:** what locals call summoned people.
 
 - **Nara's family** (the chapter 6 meal): father **Rowan** (protective, warms up the moment he learns Evan has no magic); mother **Isla** (warm; first to assume Evan is Nara's boyfriend); maternal grandparents **Grandma Fenna** (nosy, asks when the wedding is) and **Grandpa Teodor** (hard of hearing, loudly repeats every misunderstanding); older sister **Lyra** (teases Nara); younger brothers **Pip** (begs Evan to show his magic) and **Arlo** (declares him "boring"). The family has fended off suitors who wanted Nara's power, so a man with no magic delights them. Keep it a misunderstanding: both deny it, mortified; at most one callback later.
+
+  As written in ch. 6: the dinner is tonight, outdoors behind their New England-style cottage. Rowan warms up at "no magic," then turns cold again when Nara blurts that they found Evan naked. He asks "A mess how?" and Isla shuts it down ("*dear*"). Evan shows Pip only his left hand (bent fingers, knuckle scar; "Rocks could do that. Probably."). **Open thread:** Rowan still suspects Evan's story, and the scars on Evan's arm (knife wounds, flayed skin) stay hidden. If they're ever seen, rocks won't explain them.
+
+  **Where Evan lives:** after recovering, he still sleeps at Amaranth's Chapel as Halden's guest ("get out of Halden's hair" meant leaving the sickbed). Halden's "tab" is only a joke: Plan B paid for the healing, and Halden charges nothing. Evan doesn't know that, so the Guild jobs (ch. 7 on) still give him a reason to earn money and find his own place. A later move (e.g., to Orrin's old room at Rafe and Lida's, near Katia) is still open.
+
+## Chapter 2 Continuity
+
+**Evan's private names** (he names people in his head to cope):
+
+- **Mister Pliers:** the torturer.
+- **Ball Guy:** the summoner with the crystal ball who casts "Appraise!"
+- **Bored Dude:** Loric Pryce, the lead summoner; cool and bored, then furious about what the summoning cost. Leaves for Lumenhold and orders Mister Pliers to find out why the ritual failed.
+- **Fancy Guard:** Garrick. Better armor, a cloak, the posture of a man who gives orders. Stays behind, then turns away and walks out when the knife comes out. Evan can recognize him as Fancy Guard at the flood (ch. 24) before learning his real name.
+
+**Evan's injuries** (Halden must heal all of this in ch. 5; check paddling, climbing and fighting later):
+
+- Four broken fingers on his left hand (pinky, ring, middle, index); his left hand was also punched.
+- Skin taken from his right arm.
+- Burns on his thighs from red-hot pokers.
+- Knife wounds in his leg and arm muscles, including his calf.
+- A beating with clubs.
+- He blacked out several times and was woken by buckets of ice-cold water.
+
+**Other chapter 2 details:**
+
+- The ritual "has been successful for hundreds of years."
+- The chamber is a huge dome, with armed guards (swords and pikes).
+- The floor has black arcs in the stone; Evan thinks they look almost like inlaid metal, "except metal would shine."
+- Evan realizes he's been summoned after the first broken finger, and says "Nobody. I'm nobody." in round 4.
+- The god's first words: "You're not dead." "You are close to death, but I am keeping you alive." "You are someone very important." The god sounds tired.
+
+## Chapter 3 and 4 Continuity
+
+- **Baz:** Millbrook's town constable; friendly, knows the friends by name.
+- **Millbrook** has earthen walls.
+- **Tired Guy:** Evan's name for the god until he names him Eddy. In person he looks ordinary: kind face, light brown hair, average height and build, and exhausted. He uses Earth phrases ("Swiss cheese," "face-to-face, as your boss at work would say") and paraphrased a famous quote.
+- **The chamber floor** is one enormous design, seen from above as Evan floats.
+- **Thornspire:** the chamber is inside the mountain, surrounded by forest; the Wendway runs as a Class III rapid below a short drop-off near the cave mouth.
+- **The deal:** stop the next summoning, find the earlier summons' records (some in desecrated places), and belief. Evan agrees; the god says "I'm not asking you to believe in me today." The reverse summoning "may" bring him home.
+- **Evan comes to rest** in an eddy with a sandy beach, then passes out.
+- **The rescue (third person, Orrin's view):** Orrin spots him; Vagid sends Orrin up a tree for cover; Nara's "Search" spell (senses movement within a league, and tires her) spots Orrin sneaking down, and she doesn't tell Vagid; Vagid jumps. "Dead men don't bleed." They bind wounds with Vagid's spare shirt and tie Evan to Orrin's back. Nobody lends a cloak.
+
+* **The Guild job:** farmers downstream keep pulling bodies out of their nets; the Guild pays "by the answer, not by the walk." The friends spent three days walking the river and found Evan, the one body still breathing. The bodies are almost certainly the kingdom's disposals from the chamber.
+* **Evan's mumble:** half-conscious, he says in English, "That's what I get for eating pizza." None of the friends recognize the language. Orrin: "What's a peet-sha anyway?" (Mister Pliers also asked what pizza was.)
+* **Halden** is "a bear of a man." Healing at the chapel costs money; the friends offer their monster cores. Evan needs several days of healing.
+* **Monster cores** are used as currency at the Guild.
+
+## Chapter 5 Continuity
+
+**Nicknames:**
+
+- **Naked Guy:** what Orrin calls Evan; Evan hates it and says his name to escape it. A running joke, reversing Evan's own habit of naming people.
+- **Bear Guy:** Evan's first name for Halden ("a bear in a robe"), replaced right away when Halden introduces himself. Pattern: the people who hurt Evan stay nameless labels; the people who help him give their names.
+- **Tall Guy:** Evan's first name for Orrin, before Vagid introduces him as "the abnormally tall one." Orrin: "I'm only tall compared to you!" Halden is taller than Orrin; Evan is about Orrin's height.
+
+**Characters:**
+
+- **Vagid:** late teens or early twenties, blond, short enough that his feet don't touch the floor in a chair. Sat with Evan through the night.
+- **Halden:** gruff, deep, "rumbling" voice; dry humor that's hard to read. Running joke about the bill ("Usually people don't faint until they see the bill"; "I'll just add it to the tab"). Noticed Evan healed "much better than most would have." Casts "Light heal." Doesn't pry about which god Evan wants to pray to.
+- **Nara:** snickers at Orrin's expense; tells Evan, "You don't owe us anything. We'd want someone to do the same for us."
+
+**Story details:**
+
+- Evan wakes several days later in a bed in Amaranth's Chapel, in a borrowed robe "roughly the size of a tent." His injuries will leave scars but no lasting damage.
+- Opens with the Katie dream (her words in full); the word "bucket" panics him.
+- Plan B paid for his healing; Evan offered to work to repay them.
+- **Cover story:** Halden asks the friends, "Did you drop him on his head or something?" Evan: he must have hit his head on the rocks in the river. Evan isn't sure he needs to hide where he's from; he hides it out of habit.
+- The Guild wants to talk to Evan about what happened; Plan B will wait for that meeting to hear his story. The Guild will send someone in a day or two.
+
+  Follow-up (ch. 6–7): the Guild never sends anyone. At the river, Evan notes it's been over a week. Tired Guy advises him to tell his friends the truth, but only after the Guild meeting, and to give the Guild a version close to the truth but not the whole truth. Ch. 7 opens with Evan and Plan B going to the Guild themselves to request the meeting.
+- Evan's isekai hopes for the Guild: rank cards, a mana crystal. More likely "a temp agency with swords."
+- **Prayer:** in this world it's "a one-way dialogue": close your eyes, think about the god, and say what you want. Praying to a god at a place meaningful to them works better.
+- Evan's first prayer to Tired Guy gets no answer ("Not even hold music"). Hearing the Wendway from a bench outside the chapel, he realizes the river is Tired Guy's meaningful place. His goal: get strong enough to walk there.
+
+## Chapter 6 Continuity
+
+**Timeline:** about a week of recovery at the chapel, then one long day: Vagid's parents, Orrin's parents, dinner at Nara's family's that night, then the river at sunset. Evan has been in town "barely two weeks." The Guild promised to send someone "in a day or two" over a week ago, and never did.
+
+**Characters:**
+
+- **Faren and Ruta (Vagid's parents):** Faren looks like an older Vagid and plays peacemaker ("in a very diplomatic tone"). Ruta guilt-trips ("since you abandoned your poor mother") and spins everything positive ("Spacious!", "such a strapping lad"). Their house is one story, about the size of a two-car garage (Evan's "garage-house"), with a tiny crawlspace attic. Vagid lives four houses over and still eats there. Ruta clearly wants Plan B and Evan over for dinner; Vagid heads her off ("Let's not overwhelm him"), so that dinner is still owed.
+- **Dorran (Vagid's brother):** a young castle guard; Evan sees him leave his parents' house and tenses at the uniform. He was getting ready for "an inspection"; Faren: "The Chancellor's people check the guards' loyalty every season now" (a plant for Silas's grip on the kingdom). Not yet met properly.
+- **Katia:** tackles Orrin ("OOORRRRINNNN!!!"); Orrin calls her "little goblin." She calls Evan "River Guy" and says he's "a lot more skinny now" out of the robe. Evan freezes at her name; Nara notices. Evan later says her name twice, the second time smiling. **Plant:** "*Someday that name won't hurt.*" pays off in ch. 23.
+- **Lida:** "Just don't leave it a mess like last time"; "Better care than Orrin did, I hope." Orrin's old room is "an oversized closet of a room." His old clothes fit Evan (questionable colors).
+- **Nara:** hesitates to lead, even to her own parents' house; Vagid steps ahead without a word, like he's done it a hundred times. Dry wit from the back ("festival dresses"). Quiet everywhere except with her family, where she yells. Her squeak: "Eep!"
+- **Nara's family dinner:** Isla announces Evan as "Nara's boyfriend"; Fenna asks when the wedding is; Teodor yells BOYFRIEND?, WHO IS THIS?, WEDDING?, and NAKED? WHY WAS HE NAKED?; Pip wants magic and scars; Arlo calls Evan "lame and boring" and a "pervert"; Lyra explains Rowan's delight: Dad has chased off many "powerful mages" who wanted Nara for her magic, and Evan has none. Nara's denial blurts out that they found him naked. Rowan ends suspicious ("Uh-huh") but softens slightly when Evan offers to help with dishes.
+
+**Nicknames:** River Fellow (Ruta); River Guy (Katia); Orrin starts "Naked G—" and Nara elbows him. Evan still thinks of Orrin as Tall Guy.
+
+**Rules and places:**
+
+- Tired Guy won't answer near Amaranth's chapel ("You were on Amaranth's doorstep. It's… awkward."), so Evan must go to the river to talk to him.
+- The river spot: about half a league from the chapel; a Class II rapid with a small eddy and a beach at the bottom, and an old stone bench of unknown origin ("Someone must have wanted to sit here a long time ago"). Evan doesn't yet know the river is called the Wendway; someone must tell him before he uses the name.
+- "The party" is what locals call a Guild crew (Evan: "Please tell me I'm not the bard").
+
+**Story details:**
+
+- Cover story holds: Evan says he doesn't remember the river part; everything before is "fuzzy." He shows Pip only his left hand (bent fingers, knuckle scar). The arm scars stay hidden.
+- Tired Guy's advice: don't lie to friends, but tell them after the Guild meeting; for the Guild, stay close to the truth, "just not the whole truth." Evan calls Plan B "friends" for the first time ("Friends, is it?" / "…Shut up.").
+- Ch. 7 opens with Evan and Plan B going to the Guild to request the meeting themselves.
 
 ## Hard Rules
 
@@ -116,6 +220,8 @@ Each god was born from a collective experience that touched the whole world.
 - Sites of mass sacrifice or desecration are blind spots; spirits who die there don't reach the gods.
 - Evan's god: rare contact without believers; memories too vast to search without the right question.
 
+**Language:** the summoning gives summoned people the ability to speak, read and write the Sunhallow Kingdom's language. They can still use their own languages, which no one in this world understands. Evan mumbled English in chapter 4 only because he was delirious from his injuries. Earlier summons (Xavier, Rachel Lin, Grace Whitfield) chose to write their notes in English so the kingdom couldn't read them, which is why only Evan can.
+
 **Time:** one year in the fantasy world is one day on Earth.
 
 **Magic:** some locals have small abilities; a few are near summon-level. No levels or status screens. Monster cores are real, and valuable.
@@ -135,7 +241,7 @@ Each god was born from a collective experience that touched the whole world.
 
 | Plant | Ch. | Payoff |
 | --- | --- | --- |
-| River rule: float on your back, feet downstream. Walt also says: catch an eddy, rest, then go back in (pays off in ch. 28, when Evan names the god Eddy) | 1 | 3 |
+| "Feet downstream": Curt's joke at Evan's expense, then Walt's story of a kid whose shoelaces caught on the rocks ("feet downstream, and feet up"). Silvia: eddies are "rest stops on the river" (pays off in ch. 28, when Evan names the god Eddy) | 1 | 3 |
 | Evan talked over at dinner | 1 | 8, 28 |
 | Bathroom urge on waking | 1 | 2 |
 | Garrick in the chamber, uneasy | 2 | 20, 24, 27 |
