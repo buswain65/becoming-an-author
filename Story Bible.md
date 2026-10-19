@@ -78,7 +78,7 @@ Each god was born from a collective experience that touched the whole world.
 
   Rafe is broad, dark-haired and bearded, looks too young to have a grown son, and looks nothing like Orrin (Evan's first guess: "Uncle? Neighbor? Very confident burglar?"). Orrin takes after Lida: same face, older ("like an age-progression photo on TV"). Their narrow two-story house near the town center reminds Evan of a Pennsylvania row home.
 - **Faren and Ruta:** Vagid's parents. Vagid's older brother, Dorran, is a castle guard, proud and loyal to the crown (to King Bertram, not the chancellor, a difference he discovers at the climax): possibly among the Ruiner hunters, and among the soldiers Silas orders killed at the climax, so Garrick's defiance saves him.
-- **Currency:** suns (gold), rays (silver), and sparks (copper). The dark coins in Halden's offering box are old rays.
+- **Currency:** suns (gold), rays (silver), and sparks (copper). Twelve sparks to a ray (ch. 10; Evan first assumed ten, like cents). The dark coins in Halden's offering box are old rays.
 
 * **Guild receptionists:** Della and Prue (older, bored, efficient, unimpressed) and Mara (young, pretty, very perky, slower; the receptionist Evan's isekai brain expects). Vagid has a thing for Mara, so he always gets in her line, which is always the longest (ch. 7; Orrin: "Vagid has a thing for Mara"; Vagid: "If by 'thing' you mean respect"). Mara is just as warm to everyone ("Hi, Vagid! It's so good to see you again!" is how she greets every adventurer). She's clueless about Vagid's feelings, and he's clueless that she greets everyone the same way. If Evan shows interest in a receptionist in the epilogue, it should be Della or Prue, not Mara.
 
@@ -215,6 +215,34 @@ Each god was born from a collective experience that touched the whole world.
 - **Plan B's stance after ch. 8:** they believe the torture ("well, that part is clearly true") but not the summoning or the talking god ("We don't believe most of your story. But we believe in you."). They stay.
 - **Plan B now has four members:** Vagid: "Cuthbert's ledger already says Plan B has four members. It'd be a shame to make him fix it." Evan: "Yeah. That would be a real shame."
 
+## Chapter 9 Continuity
+
+- **Timeline:** the morning after ch. 8. The goblin job takes one day (the farm before noon, home by dinnertime); the Guild visit is the next morning; the pay comes "tomorrow" (the day after), so ch. 10 should open by collecting it.
+- **The café:** Plan B's regular spot, with outdoor seating, on the way from the chapel to the town center. Evan has no money, so the others feed him (Nara pushes him toast; "We can cover it!"). *Man, being poor sucks.*
+- **"Call-edge":** Earth words with no local equivalent stay as Evan says them (like "peet-sha"). Evan: college is "a place where they teach you a lot of useless information, which you then use to get a job you hate."
+- **The job board:** slips of paper, from "lost cat" to "banshee busting." No ranks or cards; adventurers are expected to know their own limits. Vagid registers jobs at Mara's line.
+- **Weapons:** Orrin carries spare Roman-style short swords ("Girls love guys with swords!") and lends Evan one: "The pointy end goes toward the monsters"; stab, don't slash. Evan slashes anyway (the flour sacks), and Orrin saw.
+- **The farm:** several miles north (upstream) along the river; wheat, harvested (empty, golden fields). The farmer told the Guild "forty"; the job slip said four. Afterward: a hole in his house, a barn with a slight lean, and three sacks of market flour gone ("My house. My barn.").
+- **The fight:** Vagid gives orders under pressure ("Orrin, roof, cover. Nara, wind shield. Evan, keep them from getting to Nara. Farmer, hide."). Evan's plan: Nara's **Little Cyclone** (she leans on her staff; holding it drains her badly) plus flour plus Orrin's fire arrow = a fireball, not a true explosion. The shock wave throws Evan through the farmer's wall ("the new window I'd installed"). His flour-glued eye is freed at the well (*Mister Cyclops*, avoided).
+- **Goblins:** about three feet tall, green, in hordes; they kill and eat farmers (a horde this size has killed dozens). Proof of a kill is the **left ear**. Final count: forty-seven.
+- **Evan's first kill:** a stunned goblin that woke and tried to bite him ("just self-defense"); his hands shake afterward. Vagid: "If it helps, they kill and eat the farmers around here." It did, a little. (Throwing up is saved for the chimera.)
+- **At the Guild:** Mara calls Cuthbert "Boss." Cuthbert: "We have rigorous checks and balances." The original request form is crumpled, with a piece torn out right where the number was, so it could have said forty. Cuthbert orders update forms ("straightened out immediately"); Prue counts the ears ("I hate my job"). The pay is delayed.
+- **Nicknames:** Orrin calls Evan "Boom Guy" (Evan: better than the others).
+- **Halden's tab:** "Have fun. Don't die. Don't forget your tab"; later, seeing Evan covered in flour and bruises: "I'll add it to the tab."
+- **The verdict:** Evan lists his mistakes (the shock wave, not checking with Vagid, leaving Nara unguarded, the barn, the wall, slashing), expecting to be yelled at as at every Earth job. Plan B laughs. Vagid: he saw the problem, made a plan, saw it through, and did it so his friends wouldn't get hurt. "Welcome to the party!"
+
+## Chapter 10 Continuity (in progress)
+
+- **The pay:** Vagid has the Guild split the goblin reward four ways, and has Mara note that all of Plan B's rewards are split four ways from now on (in ch. 8 there were three pouches, none for Evan). A horde that size normally takes ten to fifteen adventurers, so each share is large. *I'm really a member of the party now.*
+- **Evan's gear:** secondhand light leather armor ("The shopkeeper swore the previous owner hadn't died in it"); Orrin lets him keep the borrowed short sword ("Girls love guys with swords, remember?"). After that, Evan has about a week of meal money.
+- **The mine:** at the foot of a mountain called Thornspire. Evan doesn't know that's where he was held (dramatic irony; the reveal is still to come). **Open:** the distance from Millbrook (written as half a day, which would put the kingdom's chamber very close to town). Rory died in Shaft Five reaching into a crack for a coin from his first wages; the cause is carbon dioxide pooling low (Evan learned about it from a Discovery Channel show). Evan's first torch test fails in front of the miners; the second, lower, works. A caged mouse keels over near the floor and revives when lifted. Rules Evan gives: carry a mouse, never lie down or put your head near the floor, keep air moving with fans or bellows. The miners believe this keeps the ghosts away ("Yes. That keeps the ghosts away."). The mouse now has a name, a bigger cage, and its own shelf in Shaft Five. Evan: "There is no ghost, and I can prove it" (irony for the chimera ghost and Xavier).
+- **The merchant (a friend of Rafe's):** losing money for over a year. Evan compares last year's ledger to the price list (first bug: twelve sparks to a ray, not ten; "my first bug was my own"; *I'm debugging again. In a fantasy world. With a quill.*). An assistant charged full price on bulk sales, recorded less, and kept the difference, to pay for healing for his wife, **Marth** ("She's all I have left"). *Plan B had paid for mine. Nobody had paid for hers.* Lida's advice: "Ask him why before you tell anyone else." Evan proposes promoting him to catch theft instead of firing him ("Back home, companies hire the people who break into their systems"; Nara: "Your world is very strange"). The merchant agrees. Millbrook law: the **constable** (Baz).
+- **The river rescue (not a Guild job):** a small boy falls in near the town bridge. Evan stops Orrin from diving in, runs to the next bridge downstream (two streets over; stairs down to a landing), takes a rope from a cart ("Sorry! It's an emergency!"), ties it around his chest under his arms, and pendulum-swings in with the boy. He twists to take the shoreline rocks on his back. The boy is exhausted, not drowned or hypothermic (hypothermia stays saved for ch. 23). Evan's first slip toward prayer: *Thank you, Tired Guy! Or whoever is listening.*
+- **Mister Blacksmith:** huge, muscular; yanks Evan out one-handed and lends his shop to change in. He is the first person outside Plan B to see Evan's old scars and the bruise ("By Amaranth." / "Were you a soldier or something?" / "Or something… No. Just lucky."). Still unnamed; by Evan's naming pattern, a helper should eventually give his name.
+- **Oath:** "By Amaranth."
+- **Halden:** Orrin fetches one of Halden's robes (Evan's "tent"). Halden: "What happened?" / "Rocks." / *For once, it really was rocks.* / "I'll add it to the tab."
+- **Still to come in ch. 10 (or ch. 11 if split):** the investigation lead (bodies still in the nets), the abrasion scene with Nara, Tired Guy's "Oh, no," and the chimera.
+
 ## Hard Rules
 
 **Summoning**
@@ -281,8 +309,8 @@ Each god was born from a collective experience that touched the whole world.
 | Halden: "dropped on his head" | 5 | 14 |
 | Orrin's little sister, Katia, at the family meal; Evan flinches at her name | 6 | 23 |
 | Sweden trip deflected; missing-person poster | Early | 25 |
-| Hypothermia and modern knowledge | 9 | 23 |
-| Chimera, "No Regrats" tattoo, ghost | 9 | 16, 18 |
+| Hypothermia and modern knowledge | 10 | 23 |
+| Chimera, "No Regrats" tattoo, ghost | 10 | 16, 18 |
 | Abrasion; Nara's marble | 10 | 27, epilogue |
 | "b on hs" | 14 | 15 |
 | Ledger: "Thirteen: defective, disposed of" | 18 | Title, ending |
