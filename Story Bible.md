@@ -26,7 +26,7 @@ A quick reference for drafting. The full reasoning behind each decision is in th
 | Silas Malgrave | The chancellor | Rule for his family | "Only my family matters" | True believer; ROI-driven; dotes on his daughter |
 | Wren | Silas's young daughter | (A child) | Innocent | Adopted by King Bertram after Silas dies |
 | King Bertram | Figurehead king | To stay alive | Treated as disposable | Squeaks at bloodshed; reluctantly back in power |
-| Garrick | The general | To serve honorably | Loyal, slowly doubting | In the chamber in ch. 2; hunts the Ruiner; kills Silas |
+| Garrick Ashford | The general | To serve honorably | Loyal, slowly doubting | In the chamber in ch. 2; hunts the Ruiner; kills Silas |
 | Xavier | Third summon; crime scene technician; now a ghost | To pass on his findings | Unheard for centuries | Bound to a desecrated church; rests once Evan takes his notes |
 | Katie | Evan's ex | (Off-page) | — | "I don't know... maybe both..." From a small town in Pennsylvania; once gave Evan a tour of her hometown. A narrow two-story house (Orrin's family's, ch. 6) reminds him of a Pennsylvania row home, and of her. |
 
@@ -78,7 +78,7 @@ Each god was born from a collective experience that touched the whole world.
 
   Rafe is broad, dark-haired and bearded, looks too young to have a grown son, and looks nothing like Orrin (Evan's first guess: "Uncle? Neighbor? Very confident burglar?"). Orrin takes after Lida: same face, older ("like an age-progression photo on TV"). Their narrow two-story house near the town center reminds Evan of a Pennsylvania row home.
 - **Faren and Ruta:** Vagid's parents. Vagid's older brother, Dorran, is a castle guard, proud and loyal to the crown (to King Bertram, not the chancellor, a difference he discovers at the climax): possibly among the Ruiner hunters, and among the soldiers Silas orders killed at the climax, so Garrick's defiance saves him.
-- **Currency:** suns (gold), rays (silver), and sparks (copper). Twelve sparks to a ray (ch. 10; Evan first assumed ten, like cents). The dark coins in Halden's offering box are old rays.
+- **Currency:** suns (gold), rays (silver), and sparks (copper). Twelve sparks to a ray (ch. 10; Evan first assumed ten, like cents), and twelve rays to a sun (144 sparks to a sun). The dark coins in Halden's offering box are old rays.
 
 * **Guild receptionists:** Della and Prue (older, bored, efficient, unimpressed) and Mara (young, pretty, very perky, slower; the receptionist Evan's isekai brain expects). Vagid has a thing for Mara, so he always gets in her line, which is always the longest (ch. 7; Orrin: "Vagid has a thing for Mara"; Vagid: "If by 'thing' you mean respect"). Mara is just as warm to everyone ("Hi, Vagid! It's so good to see you again!" is how she greets every adventurer). She's clueless about Vagid's feelings, and he's clueless that she greets everyone the same way. If Evan shows interest in a receptionist in the epilogue, it should be Della or Prue, not Mara.
 
@@ -105,7 +105,7 @@ Each god was born from a collective experience that touched the whole world.
 - **Mister Pliers:** the torturer.
 - **Ball Guy:** the summoner with the crystal ball who casts "Appraise!"
 - **Bored Dude:** Loric Pryce, the lead summoner; cool and bored, then furious about what the summoning cost. Leaves for Lumenhold and orders Mister Pliers to find out why the ritual failed.
-- **Fancy Guard:** Garrick. Better armor, a cloak, the posture of a man who gives orders. Stays behind, then turns away and walks out when the knife comes out. Evan can recognize him as Fancy Guard at the flood (ch. 24) before learning his real name.
+- **Fancy Guard:** Garrick Ashford, the general (the highest military rank in Sunhallow, and the only one that can't be bought). Better armor, a cloak, the posture of a man who gives orders. Stays behind, then turns away and walks out when the knife comes out. Evan can recognize him as Fancy Guard at the flood (ch. 24) before learning his real name.
 
 **Evan's injuries** (Halden must heal all of this in ch. 5; check paddling, climbing and fighting later):
 
@@ -243,12 +243,47 @@ Each god was born from a collective experience that touched the whole world.
 - **Halden:** Orrin fetches one of Halden's robes (Evan's "tent"). Halden: "What happened?" / "Rocks." / *For once, it really was rocks.* / "I'll add it to the tab."
 - **Moved to ch. 11:** the investigation lead (bodies still in the nets), the abrasion scene with Nara, Tired Guy's "Oh, no," and the chimera. Ch. 10 ends at Halden's "I'll add it to the tab." Because of this split, every planned chapter after ch. 11 is now one number later than written in this bible and the plan (e.g., Katia's rescue is really ch. 24, not 23). Renumber once the draft's chapter breaks are final.
 
+## Chapter 11 Continuity
+
+- **The decision:** Evan wants to investigate the bodies off the books and expects the others to refuse. Nara: "Did you think we stopped caring about them when the Guild stopped paying?" / *They'd spent their monster cores to heal a stranger they pulled out of a river. Of course they'd say yes.* Vagid plans for a week out (resupply and go again if needed); Orrin forages, fishes, and hunts. Evan's wilderness experience: "one kayaking course and a lot of survival videos."
+- **Mara's loop:** "Hi, Vagid! It's so good to see you again!" / "Okay. Have fun!" / *Still stuck in a loop. Someone really needs to add a stop condition.*
+- **Investigation:** three villages were checked before; only one finds bodies in its nets, and those farmers were hostile. Evan's idea: talk to the wives and children ("Wives and kids are the ones who notice everything"). The farmers "barely talked" because they were scared, not unhelpful.
+- **Camp (same spot as last time):** Orrin is "spooky good" at moving silently and sneaks up behind Evan with a butchered rabbit (Nara: "Really, Orrin."). Nara owns a fire **starter** (tweezer-shaped, sparks from a box at the hinge; flint or a hard white stone and a knife also work). Evan doesn't own one. Vagid is the best cook ("They've both tried cooking"); rabbit stew with Orrin's wild vegetables. Three-hour watch shifts; order after Nara: Orrin, then Vagid.
+- **Nara's art and the sandblasting plant:** at 3 a.m. Nara shapes sand sculptures with wind to pass the time ("No one would want them"; they collapse when she lets go). Evan explains sandblasting. She stays up all night and carves **Evan's face** into a boulder at the rapids near the camp, on the side facing the river ("You gave me the idea, so it only seemed right"). *Great. Now there's a permanent record of my face looking confused.* / *Huh.* She tells Orrin it was "something I found" / *Something she found.*
+- **"Five more minutes, Dad."** / Vagid: "Dad? I'm younger than you."
+- **The farm family:** **Miles** (hostile out of fear; Vagid comes up to his chest and walks right past him), his wife **Sadie**, several children, and their **oldest daughter**, who saw the creature and won't talk about it (unnamed). Bodies arrive two or three at a time, every few weeks, torn up; claw marks almost three fingers apart; some partly eaten. The creature looked "put together from pieces of different animals." The daughter has avoided **the old berry patch** (up the creek, past the bend) since spring. Evan: "She's braver than she knows." Vagid draws a rough map.
+- **Tired Guy (at the little wooden bridge, before crossing):** on hearing the description, a long pause, then *Oh, no.* / *Be careful, Evan. And... be kind to it, if you can.* Then he's gone. Evan: *Kind? What does Tired Guy mean by that?*
+- **The berry patch:** now a mud pit ringed with broken bushes; trees snapped (not cut or uprooted) just above six feet, *Just at my head height*; bones in the mud (a femur, a spine). Hand signals only: Orrin scouts, Nara shields, Vagid and Evan are the bait.
+- **The chimera:** arms in odd places; horns from its stomach; one arm ending in a single huge claw, the other with too many fingers; something round and bluish on one side of its head and three small blobs on the other (eyes, maybe); markings on its skin. Very fast; Orrin's arrows to the head don't slow it. It snaps Evan's hiding tree at his head height (*I really wish I was the same height as Vagid right now.*). Its scream sounds like hundreds of animals at once.
+- **Nara's combat magic:** a **wind shield** (looks like heat haze, but it isn't hot) blocks the claw. **Wind Scythe**, a spinning disk of sand, severs the claw arm; a second, louder one decapitates it. She sits down exhausted afterward. *Mental note, seriously: never upset Nara. Ever.* (The sandblasting idea paying off, unspoken.)
+- **Vagid's kill:** he circles wide, ducks under its leg, stabs up through the groin, and twists. *Femoral artery.* (Nature-documentary narrator joke.)
+- **The tattoo and the language reveal:** "No Regrats" on the severed arm. Vagid sees only "squiggles and lines"; *Vagid can't read it. But I can.* Evan throws up.
+- **The ghost:** the body glows, and the light drips upward and forms a man: T-shirt, jeans, boots, baseball cap, and the same tattoo. *I wish I knew more about baseball. Maybe I could tell where he was from.* (Genuine, not a joke.) **All of Plan B sees him.** Nara cries and whispers "Yes"; Orrin freezes; Vagid nods. The man looks at the body, then at his hands, crying and smiling "like it was the best day of his life," raises a hand toward them, and fades. He never speaks (protects the Xavier English moment).
+- **Ending:** Evan remembers *Be kind to it, if you can.* / *Was this what he meant?* "Have you seen anything like this before?" (I hoped they'd say yes. I knew they wouldn't.) / "Never," Nara whispered. / *I really need to talk to Tired Guy.*
+- **Open threads:** Evan's next talk with Tired Guy (what chimeras are, and whether killing it was the kindness); Plan B now has questions of their own; the farm family hasn't been told it's dead; where the bodies come from upstream (the kingdom's disposals) is still unexplained.
+
+## K1 Continuity
+
+- **Viewpoint and voice:** third person, Garrick. No italic thoughts; his doubt shows in his body (a still posture, hands on his knees, a tightening jaw) and in what he does (reading a report twice, squaring it to the edge of the desk).
+- **Garrick Ashford:** the general. General is the highest military rank in Sunhallow and the only one that can't be bought. He rose from recruit to soldier, sergeant, lieutenant, captain, commander, and general, and bought none of them ("It had been a good career. Not stellar, perhaps, but noteworthy."). He has a meager office, away from Lumenhold, with a window facing the Wendway and Thornspire. Silas calls him "Garrick"; he calls Silas "my lord." Soldiers call him "General Ashford."
+- **His memory of Thirteen:** "a young man on the chamber floor, shouting the name of a kingdom that didn't exist" (North Carolina). He walked out when the knife came out. A detail he can connect when he recognizes Evan (K3).
+- **The river report:** written by a constable who didn't care; bodies turning up in farmers' nets on the Wendway, downstream of Millbrook. Last line: "Matter investigated by the Millbrook Guild and closed. Cause: rocks." / "Rocks, indeed." / "The Wendway ran down from Thornspire. He knew that better than the constable did." Nothing in the report points to a living man.
+- **Silas Malgrave:** thin to the point of looking skeletal. Addressed as "my lord" (he is not a duke). Enters his office by a side door from his private rooms. Office at Lumenhold: two stories tall, books floor to ceiling, a walkway halfway up reached by a spiral staircase, and fifteen-foot portraits of a muscular, heroic Silas (on horseback; seated on what looks like a throne), "tastefully done, but on a scale that bordered on tacky." He keeps Garrick waiting and opens with no greeting: "Thirteen was disappointing."
+- **Thirteen's ritual:** four hundred sacrifices and nine months of preparation, "and we have nothing to show for it."
+- **Loric Pryce:** has led the summonings for as long as Garrick has served. His students' failed practice is "not notably" improving. Silas: "Apparently practice floats." (Silas knows about the river bodies and doesn't care.)
+- **The next ritual:** "as soon as possible"; Garrick has nine months to gather at least five hundred sacrifices. Garrick raises slave traders as a difficulty; Silas hears a budget request ("So you want more money?"). Garrick asks whether to limit it to adult males; Silas: "Why would we? I want whoever they can get us in time." Garrick (after a pause) negotiates a bulk price of no more than two suns per slave: a thousand suns on a treasury writ signed by the king, "who had probably never even read it."
+- **Slave trade:** exists and is available to the kingdom. Still open: whether it's legal in Sunhallow or comes from the neighboring nations.
+- **Ending:** the same knock-and-"Enter" as the opening; the writ arrives; Garrick stares at Thornspire. "Nine months. Again." (He has been through at least one preparation cycle before.)
+- **Kept out on purpose:** the Ruiner (K2), Johan's name, chimeras, and anything telling Garrick that Thirteen is alive.
+
 ## Hard Rules
 
 **Summoning**
 
 - Only possible in the chamber inside Thornspire, built by the old god.
 - Mortals power summoned abilities through human sacrifice; more sacrifices mean stronger abilities.
+- The sacrifice magic consumes the bodies: nothing is left of the sacrificed. (Thirteen's ritual cost four hundred sacrifices and nine months of preparation, per Silas in K1.)
+- **Where the river bodies come from:** Silas has the lead summoner (Loric Pryce) experimenting to perfect the sacrifice magic. A successful sacrifice consumes the body; when an experiment fails, the person still dies, but the body stays. Pryce is also teaching the sacrifice magic to other mages so they can assist him, and their practice attempts fail far more often. Those failures, not the ritual's sacrifices, are the bodies that go into the Wendway at Thornspire and turn up in the nets downstream (two or three every few weeks).
 - Monster cores were tried instead; they turned the summoned person into an amalgamation of the monsters (chimeras). Only chimeras are failed summonings.
 - The chamber works through the composition and positioning of its floor stones and tarnished silver inlay. Grinding them to sand ends summoning forever.
 - Preparation officially takes nine months to a year; with enough sacrifices, about six.
