@@ -62,7 +62,7 @@ Each god was born from a collective experience that touched the whole world.
 - **Millbrook:** Halden's town and church, on the Wendway downstream from the castle; the friends' home base, where their families live.
 - **Garnerby:** the town to the east where the harvest festival is held; flooded by Johan in chapter 22.
 - **The blighted farmhouse:** the plague mage's notes in a deep root cellar.
-- **The desecrated church:** near or over the border; Xavier's ghost and notes.
+- **The desecrated church:** "the old chapel near Hollin's Cross," just over the western border, in Dravia ("That's not even in Sunhallow anymore"). Three or four days' walk from Millbrook. Listed at the Guild as "Haunted, desecrated church near the border. No takers." Xavier's ghost and notes. Its layout is identical to Amaranth's Chapel in Millbrook (it is also a chapel of Amaranth). Xavier scratched an octagon, a stop-sign shape any Earth person would recognize, into the stone to mark where his notes are hidden; to locals it is just scratches. Evan finds it familiar but can't place it at first (ch. 13).
 - **Neighboring nations:** Dravia, Kethmoor, and the Altan Reach.
 - **On Earth:** the Nantahala River in North Carolina; a neighborhood and grocery store in Sweden, one stop on Evan and Katie's quickie European trip (six countries in nine days), which is why he can't place the models at first.
 
@@ -276,6 +276,48 @@ Each god was born from a collective experience that touched the whole world.
 - **Ending:** the same knock-and-"Enter" as the opening; the writ arrives; Garrick stares at Thornspire. "Nine months. Again." (He has been through at least one preparation cycle before.)
 - **Kept out on purpose:** the Ruiner (K2), Johan's name, chimeras, and anything telling Garrick that Thirteen is alive.
 
+## Chapter 12 Continuity
+
+- **Aftermath:** Plan B agrees to tell the farm family the creature is dead but not what it was. Silent walk; they camp at the little bridge. Night watch shows the trauma: Nara says "No. Please, no." in her sleep; Vagid tosses; Orrin sits bolt upright. Orrin doesn't speak again until the next evening.
+- **Tired Guy (by the river at the bridge):** he knew only that the chimera was a tortured soul; once the man died (the berry patch is not desecrated), his soul came to Tired Guy, who learned his story and saw him reincarnated. Chimeras: the person in charge of the ritual thought paying for slaves to sacrifice cost too much and used monster cores, which corrupted the summoned person into a combination of the monsters. Evan reacts: *Slaves?* "Be kind" meant killing it freed him ("You would not be you if you did" feel good about killing). Evan asks *Is it just chimeras?* Long silence. *Good night, Evan.*
+- **The farm:** "It's dead," Vagid tells Sadie and Miles. "It won't hurt anyone else… We still don't know where the bodies are coming from." The daughter watches from the window, crying. Sadie thanks them twice; Miles holds Vagid's hand a long moment.
+- **Camp (same site):** Evan starts the fire alone. *I guess rabbits are plentiful no matter what world you're in.* Orrin: "You told the miners there was no such thing as ghosts." Evan can't give an answer they'd believe: "I think that there are others like him out in this world, and I want to find them." Places that are "haunted… desecrated… anywhere a lot of people have died." Vagid: "Why desecrated?" / "Just a hunch." (Vagid looks a moment too long.) The Guild keeps records of hauntings. Evan has NOT told Plan B what chimeras are (still planned for the blighted farmhouse).
+- **The Guild:** Vagid hands the asking to Evan ("You know more about this than I do"). Prue's line is always the shortest; "What do you want?" / "Weird, but whatever." Her note: "Haunted, desecrated church near the border. No takers." Orrin: "No takers. That's a good sign." / Vagid: "Or not." Three- or four-day walk. Nara: coach? Evan: "I can't."
+- **Halden:** "Fine. I'll add it to the—" / "Which church?" / "That's not even in Sunhallow anymore." Desecrated: the gods can't see it, and anyone who dies there doesn't reach them; priests who went "came back wrong, or didn't come back." Evan: "I know." / "How?" / "...Lucky guess?" / "Hmm." "Don't die there." On his way out: "I'll add it to the tab." Evan told him ten to fourteen days.
+- **The trip:** day one in high spirits; fish (Vagid: you don't stew fish); Orrin's "Nice fire" only makes Evan jump a little. Evan's back locks up ("Back troubles, old man?" / "I'm not that old"); Orrin says to stretch before bed; Nara: soak sore feet in a cool stream (she sneaks up on him there). Dinner of wild boar. By day three, Evan's back and feet are better.
+- **The border (into Dravia):** a man in a chair with a clipboard by a small wooden fence; three questions. Plan B lets Evan go first; the log reads "Evan" (the guard went "Pft." at McIntyre), from Millbrook, purpose "Job." Possible plant for the Ruiner hunt. Vagid: "Welcome to Dravia."
+- **Hollin's Cross:** small, earthen walls, ordinary people. The church is about half an hour past it.
+- **The Long Rest:** inn with a bed on its sign, run by **Mave** ("Evening, my lovelies"; "Thank ya kindly"). Room and dinner for four: three rays and two sparks. Room up the stairs, fourth on the left.
+- **Ending:** a deep, rumbling voice behind them: "What kept you?" / I knew that voice.
+
+## Chapter 13 Continuity
+
+- **Halden at the inn:** tea and a stack of empty dishes. "I need to watch out for my investment. If you die, who will pay your tab?" He took a coach: a day and a half, two rays (three for a cushion). Nara: "Then. You. Ask." (poking Evan); Orrin: "We *walked* for three days!"
+- **Why Halden came:** the Hollin's Cross chapel is a chapel of Amaranth. His communication with Amaranth isn't strictly one way: sometimes he gets "a feeling" that he needs to do something, and he got one when Evan named the chapel.
+- **Amaranth is a goddess** ("She," said Halden). Her symbol: a sheaf of wheat, a flower, and the sun; Halden wears it as a pendant, which glows when he prays. *I've been sleeping in her house for a month.*
+- **Mave's warning:** adventurers come "every year or two, all happy and full of themselves," and never return. Halden: other guilds may post the same job. Breakfast at dawn; "I'll have dinner ready when you get back" (with a quaver).
+- **New Tired Guy rule:** Evan can talk to him anywhere except near other gods' houses. Evan already knew Tired Guy won't answer near Amaranth's chapel (ch. 6, "Amaranth's doorstep"); what's new is that he doesn't need the river. *I won't be able to see you there… There will be nothing I can do if something bad happens.* At the chapel door: *Tired Guy?* / Nothing. Not even hold music.
+- **Halden's kit:** holy oil (for liches and zombies) and holy water (for undead that have a body). Ghosts need prayer, i.e., an exorcism.
+- **The chapel:** dead ground (dead, twisted trees; brown grass; no birds, insects, or wind); a dark doorway that morning light can't enter; layout identical to the Millbrook chapel. Dark stains; an overturned altar and a broken statue of Amaranth (Halden rights the altar and arranges the pieces on it). Rusted armor, scraps of clothing, and bones too broken to identify. The **octagon** scratched into a wall (Evan: familiar, can't place it). A cellar, stairs in the middle of one wall; two torches.
+- **Evan's commentary:** "first dungeon"; *Less like Dungeons & Dragons. More like Nightmare on Elm Street.*; *A lich. An actual lich. Please don't let there be a lich.*; "Here, ghosty, ghosty."; *Fourth in line…*
+- **Marching order:** Vagid, Halden, Nara, Evan, Orrin (rear, torch and nocked arrow).
+- **Xavier ("Mister Soul Glow"):** a glowing man in battered old armor and an open-faced helmet dented on the side, with twenty or thirty stab wounds; his shoes seem "different." Attacks: flung debris and a frost touch (frosted Halden's chest, dropping him to his knees). "How many times do I have to say it!" / "Can't you just leave me alone? I'm trapped here, and no one understands me!" Plan B hears only noise.
+- **Evan's injury:** he steps forward with his arms up; Xavier flings rocks; head wound, coppery taste, concussion (*Huh. Who's bleeding?* / *Guess it's me.*). Orrin drops his torch to help; Vagid helps patch him. The "rocks" callback is available for ch. 14.
+- **Ending:** *He's speaking English. If he can understand me, maybe he'll stop.* "WAIT!" in English. Everyone freezes; "Halden just stared at me."
+- **Plan shift:** Evan stopping Halden's exorcism moved from ch. 14 into ch. 13. Ch. 14 opens on the freeze and Xavier's "Do you have any idea how long I've been yelling?"
+
+## Chapter 14 Continuity
+
+- **Xavier Monroe:** "Do you have any idea how long I've been yelling?" Summoned about 212 years ago; left Earth the same year Evan did ("I told him." / "That's impossible. That's the year I left."; the time rule is still unknown to them). Knows Earth slang ("the elevator version" / "Huh. It's been centuries since I heard that term"). Whispers "You're from Earth too." Came to the chapel to hide something; killed there by the kingdom's assassins; "Now I'm stuck here." **Language:** he used to speak the kingdom's language, but "when I died, it went with the rest of me," so he can only speak English.
+- **Evan's cover attempts:** "He comes from my wo—home" (catches "world" in front of Halden); Xavier "arrived in Sunhallow"; "We—came from the same village?" (Halden's eyes stay narrowed).
+- **The kingdom reveal:** Evan tells everyone Xavier was murdered by assassins sent by the Sunhallow Kingdom. Vagid goes pale (his brother Dorran wears the kingdom's colors). Halden: "Why murder him here?"
+- **The notes:** "Everything I learned about the summoning. How it works. What it costs. The experimenting the kingdom has done." Xavier's unfinished business: someone must take them. "Not yet \[found\]. But I can show you where they are." Evan will give them to Tired Guy.
+- **The click:** Evan decides to tell the truth (*I have to tell them the truth.*). He tells Halden everything he told Plan B in ch. 8 (including Tired Guy), but NOT the chimera's truth (still saved for the blighted farmhouse). Halden's refrain: "His expression didn't change" (twice). Halden: "How do we know that you can actually talk to that thing?" The test: Evan, without pointing, asks Xavier in English to go to the stairs, wait, and come back; he does. "For the first time, Halden's expression changed. No longer wary, but relieved." Orrin stares; Vagid sighs and rubs his face; Nara looks from Evan to Xavier and back.
+- **Plan B believes Evan now:** Vagid: "It was true… It was all true." / "Yeah. Unfortunately." Orrin: "And you really are an Otherborn? Without any magic?" / "Yeah. Also unfortunately." Nara: "All those wounds you had. The kingdom did that to you? Why?" / "Yeah. I'd like to say it's because they're jerks, but that doesn't seem strong enough… they blamed me when it failed."
+- **Halden and Tired Guy:** "You call your god 'Tired Guy'?" / "He doesn't have a name yet, and it was the first thing that came to mind." Halden heals Evan's head: on desecrated ground the light flickers, weak; the bleeding stops but the wound isn't fully healed. ("Rocks." payoff still unused.)
+- **Ending:** Evan tells Xavier everything and that he'll use the notes to try to fix things. "Then it wasn't for nothing."
+- **For ch. 15:** Xavier shows them where the notes are (the octagon / stop sign); Xavier's full story; "b on hs"; Halden's "Yeah, I figured as much"; Xavier rests.
+
 ## Hard Rules
 
 **Summoning**
@@ -310,7 +352,7 @@ Each god was born from a collective experience that touched the whole world.
 
 **Language:** the summoning gives summoned people the ability to speak, read and write the Sunhallow Kingdom's language. They can still use their own languages, which no one in this world understands. Evan mumbled English in chapter 4 only because he was delirious from his injuries. Earlier summons (Xavier, Rachel Lin, Grace Whitfield) chose to write their notes in English so the kingdom couldn't read them, which is why only Evan can.
 
-**Time:** one year in the fantasy world is one day on Earth.
+**Time:** one year in the fantasy world is one day on Earth. Open thread (ch. 14): Evan does not know this rule. When Xavier (here about 212 years) learns Evan left Earth the same year he did, both are baffled ("That's impossible. That's the year I left." / "Two hundred years for him. The same year for me."). The explanation should come later (Tired Guy, Xavier's notes, or the archives). The Earth year is never stated; Evan's answer is reported as "I told him."
 
 **Magic:** some locals have small abilities; a few are near summon-level. No levels or status screens. Monster cores are real, and valuable.
 
@@ -321,7 +363,7 @@ Each god was born from a collective experience that touched the whole world.
 1. **The last cycle:** the old god builds the chamber; people overuse it; the gods reset the world; the old god writes his confession, signs it Ysmeric, and passes on.
 2. **The current gods arise** from war, plague or famine, and plenty.
 3. **The Malgrave family rediscovers the chamber.** Twelve to fifteen summons follow over a few centuries (about ten months of Earth time).
-4. **Summons of note:** the first two (different abilities); the third, Xavier, killed in the desecrated church; the fourth, the plague mage; the sixth, whose notes were confiscated; core trials that produced chimeras.
+4. **Summons of note:** the first two (different abilities); the third, Xavier Monroe, summoned about 212 years ago (about seven months before Evan in Earth time, so he is a modern man), killed in the desecrated church; the fourth, the plague mage; the sixth, whose notes were confiscated; core trials that produced chimeras.
 5. **Evan's god is born** from the suffering of the summoned.
 6. **Johan Nilsson is summoned;** decades of service; the massacred city.
 7. **On Earth:** Johan vanishes a month before Evan; Evan and Katie pass through his neighborhood on a quickie European trip; the breakup.

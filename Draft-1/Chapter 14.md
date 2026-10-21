@@ -26,7 +26,7 @@ When I said "two hundred years," Halden's eyes narrowed, and he looked at me. Na
 
 I turned back to Xavier. "So, Xavier, can you give me the elevator version of what happened to you?"
 
-"Wow. It's been centuries since I heard that term. But, yeah," he said. "I came here to hide something. While I was here, the kingdom's assassins killed me. Now I'm stuck here."
+"Huh. It's been centuries since I heard that term. But, yeah," he said. "I came here to hide something. While I was here, the kingdom's assassins killed me. Now I'm stuck here. I used to speak their language too. When I died, it went with the rest of me."
 
 "You're from Earth too," Xavier whispered.
 
@@ -42,7 +42,9 @@ Xavier went very still. "That's impossible. That's the year I left."
 
 "Um. Evan, what did he say?" asked Vagid.
 
-"So, Xavier was murdered here over two hundred years ago." I paused, trying to think of a good way to say it. "By assassins sent by the Sunhallow Kingdom."
+"So, Xavier was murdered here." I paused, trying to think of a good way to say it. "By assassins sent by the Sunhallow Kingdom."
+
+Vagid's face went pale. His brother wore the kingdom's colors.
 
 "Why?" asked Halden. "Why murder him here?"
 
@@ -90,6 +92,8 @@ Halden nodded.
 
 For the first time, Halden's expression changed. No longer wary, but relieved.
 
+"So this is why she sent me," Halden said quietly.
+
 I looked at my friends in Plan B. Orrin was staring at me like I'd grown an extra head again. Vagid was sighing and rubbing his face. Nara looked at me, then at Xavier, then back at me.
 
 "It was true," said Vagid. "All the things you told us before. It was all true."
@@ -120,6 +124,20 @@ I turned back to Plan B and Halden and said, "He needs us to take his notes. Tha
 
 "I'll give them to Tired Guy. Maybe they have some of the information he needs to fix the problem," I said.
 
-I turned back to Xavier and told him everything I'd told Plan B. I needed him to understand that I was going to use the notes to try to fix things. I hoped that would help him pass on when the time came.
+"You call your god 'Tired Guy'?" asked Halden.
+
+"Well, he doesn't have a name yet, and it was the first thing that came to mind," I said.
+
+"What happened to your head?" asked Halden.
+
+"Rocks," I said.
+
+Halden closed his eyes. "Of course it was."
+
+Halden walked over to me and looked at the blood on my face. Then he held out his hand and said, "Light heal." The light flickered, weak, and the wound didn't fully heal. But at least it stopped bleeding.
+
+"Thank you," I said.
+
+I turned back to Xavier and told him my story too: the summoning, Tired Guy, and what I was supposed to do. I needed him to understand that I was going to use the notes to try to fix things. I hoped that would help him pass on when the time came.
 
 Xavier was quiet for a long moment. "Then it wasn't for nothing," he said.
