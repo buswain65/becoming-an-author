@@ -318,6 +318,39 @@ Each god was born from a collective experience that touched the whole world.
 - **Ending:** Evan tells Xavier everything and that he'll use the notes to try to fix things. "Then it wasn't for nothing."
 - **For ch. 15:** Xavier shows them where the notes are (the octagon / stop sign); Xavier's full story; "b on hs"; Halden's "Yeah, I figured as much"; Xavier rests.
 
+## Chapter 15 Continuity
+
+- **Translation:** Evan translates Xavier's English for the group ("You might need to wait for me to catch up"). Nara asks what power Xavier got.
+- **Oracle Touch:** touching something (or someone, even with a bare foot) shows its past. Halden has heard of only one Otherborn with it; Tired Guy confirms it was just Xavier.
+- **Xavier's story:** the drugged feast at Lumenhold; a cell, chains, sleep deprivation, beatings with clubs, gruel. Escalating killing tests (mouse, rat, kitten, goblin, kobold, goat, sheep), always with a tool and never touching. Then a sick, tortured child ("it") he was told to kill with a club; he touched the boy with his bare foot and saw his past (countryside family and a little sister, all killed by an "ugly man"; the boy held in a cell with dozens of other children, fighting over bread). "I thought it would be a kindness." The boy "saved" him: Xavier hid the crack in their brainwashing, kept obeying, and touched every person he was ordered to kill (often the old, or those at their limits) to make amends. After passing the tests, he was taken to Lumenhold again; the Chancellor: "We have so much work to do, and so many who need our attention."
+- **Evan's moments:** voice catches on "clubs"; openly crying at the boy; takes a break and holds Nara ("Maybe she needed it. I knew I did.").
+- **Xavier passes on:** "It's all in there. How I got out. What I found after." The notes are in a hidden cubby above the stop sign he scratched near the floor (the octagon Nara found in ch. 13). As he fades, his armor becomes a button-down shirt, jeans, and black Chuck Taylors (pays off the odd shoes in ch. 13). Last words: "Goodbye, Evan, and good luck, my friend." Evan worries he'll end up like him.
+- **Retrieving the notes:** Orrin: "Let's make sure Xavier's work doesn't go to waste." Halden lifts Vagid to the cubby ("Oh! Yuck!"); a leather-wrapped package covered in bugs and mouse droppings, wrapped in many layers ("Xavier was a careful guy").
+- **The summoning table** (columns: Units, Success, Notes): 100 No, dead on arrival; 140 No, dead on arrival; 175 No, lived two days; 230 No, woman, 20s, no power?; 310 Yes, man, 40s, fire, weak; 390 Yes, woman, 24, water, strong; 410 Yes, man, 31, oracle touch, strong (Xavier); 450 ?, MC, unknown, unknown, strong; 475 ?, MC, unknown, unknown, strong; 515 ?, MC, unknown, unknown, too strong, killed everyone. The MC (monster core) trials came after Xavier; Xavier learned of them while serving.
+- **The chapel:** on the way out, Halden blesses it, says a few words for Xavier, and washes the altar stains with holy water. The dead trees remain, but the ominous feeling is gone.
+- **Back at the Long Rest:** just before dinnertime. Mave drops a tray of drinks ("By Amaranth! I hoped and prayed you'd come back, my lovelies."), hugs everyone (Orrin bends down; Nara and Mave cry and laugh; Halden looks like a kid embarrassed by his mother; Vagid surprised, then smiling). Evan whispers, "We did it. The chapel is clean again."
+- **The reveal in the common room:** Evan: "I have it on good authority…" / "Just a hunch" (after asking Tired Guy, whose first words are "Evan! Thank goodness you're safe"; Evan: *Thank you. And I missed you too.*). Units: "People. Sacrifices." Orrin: "Oh, gods." Halden: "No god approved this." Vagid (who had been working something out since the chapel): "MC... monster cores. They put monster cores in the summoning." Nara: "The chimeras..."
+- **Plan B learns the chimera truth (moved up from the blighted farmhouse):** Halden: "You don't seem surprised about the monster cores. Why not?" Evan explains Tired Guy reincarnated the berry-patch chimera, who told him what happened. Vagid: "Then you've known about this the whole time?" then "But we didn't believe your story to begin with." Forgiveness: arm punches from Vagid ("Yeah, I get it") and Orrin, Nara holds his hand, Halden: "Hmf."
+- **"b on hs":** written in light pink in the margin of a page under the table, with a pink line to the circled phrase "nine months to one year" (ritual duration). No one knows what it means; Orrin is off getting mead.
+- **Ending:** Orrin: "What'd I miss?" Vagid: "So what do we do now?" Evan: *Somewhere, there was a number for me too.* / "We read every page." / *Nine months to a year. And they'd probably already started over.*
+- **Unused:** Halden's "Yeah, I figured as much" (still in Key Lines) and the "Rocks" callback were not used here.
+
+## Chapter 16 Continuity
+
+- **Leaving Hollin's Cross:** Mave serves breakfast again (*I could get used to this.*) and thanks them; the chapel was "a problem for as long as I can remember." Orrin (mouth full): "We were happy to help, Mave." Nara: "What he said." Vagid: "Indeed." Halden: "Hmf." Mave hugs everyone goodbye.
+- **The coach home:** Evan pays for cushions for all of Plan B with the last of his goblin share ("just enough"); "Halden could take care of his own." Evan is now nearly broke. The ride is quick and pleasant (a day and a half).
+- **Halden's role:** a dependable ally in a pinch, but not a party member; he has his own work at the chapel. He heads back to the chapel on arrival. His "Hmf" is a running tic.
+- **The Guild:** by unspoken agreement, Evan, Nara, and Orrin wait by the door while Vagid joins Mara's line ("Hi, Vagid! It's so nice to see you again!"; Vagid stays all business). Mara asks Prue, who sighs dramatically ("Yes?"): a job must be verified by sending someone out. Prue: "a couple of days"; Vagid: "three to five days"; Prue: "Whatever." Mara: "Thank you, Prue! Bye!" (fighting Prue's gloom with perkiness). **Pay pending** until verification.
+- **Plan B splits up** to rest; they agree to meet at the cafe the next morning.
+- **The river:** Evan walks down to the little eddy below the chapel and sits on the old stone bench, listening to the river first. Tired Guy: "It looks like you survived your trip." Evan starts reading the notes aloud; Tired Guy: "We're not talking out loud right now, are we?" (*I closed my mouth.*) Tired Guy reads along as Evan reads in his head.
+- **Evan's conclusions:** deadline nine months; Vagid and Evan think MC means monster cores; the table only records summonings where someone actually arrived.
+- **Xavier went home:** Tired Guy knows raking light because Xavier's soul came to him after passing on ("I saw everything he knew"); he sent Xavier home to Earth through reincarnation, with no memories. Evan: "That's probably a good thing." Tired Guy: "I'd forget most of what I've seen, if I could."
+- **Raking light:** a light from a very low angle shows the indentations a pen made. Evan borrows a candle from Halden's cupboard ("Just trying to find something out." / "Hmf."; *If I find something, I'll let him know.*). His first try, he looks through the paper at the candle and blinds himself. With the candle to the side, the pink writing reads "bmonths."
+- **The midpoint:** Halden can't read English ("that funny language"), so Evan writes it out in this world's language, and his hand (the summoning's language gift) writes this world's numeral six where his eyes saw a "b." Halden looks at it for a few minutes: "Six months." and walks off. In English, a sloppy six looks like a lowercase "b." Evan: dizzy, grabs the door frame; "Crap. Six months."
+- **Six months, not nine to a year.** The chapel is Amaranth's house (Tired Guy can't hear him there), so Evan runs the mile and a half (half a league) back to the eddy at night. *I figured out the pink writing!* A long silence; Tired Guy: "That changes things. What will you do?" Evan: tell Plan B, speed things up, find more places like the chapel in Hollin's Cross. "Good luck." Ending: *The river didn't care about deadlines. I envied it.*
+- **Moved to ch. 17 or later:** the cafe meeting (telling Plan B about the six months), hiding the notes (a group project; possibly sealed in the river eddy, with copies at the chapel), and the blighted farmhouse with the plague mage's notes.
+- **Open:** who wrote "6months" in red, in English, in Xavier's notes (another Otherborn; not Xavier).
+
 ## Hard Rules
 
 **Summoning**
@@ -389,7 +422,7 @@ Each god was born from a collective experience that touched the whole world.
 | Hypothermia and modern knowledge | 10 | 23 |
 | Chimera, "No Regrats" tattoo, ghost | 11 | 16, 18 |
 | Abrasion; Nara's marble | 11 | 27, epilogue |
-| "b on hs" | 14 | 15 |
+| "b on hs" (light pink margin note, linked to "nine months to one year") | 15 | 16 |
 | Ledger: "Thirteen: defective, disposed of" | 18 | Title, ending |
 | Confiscated models | 18 | 25 |
 | Evan says the clue came from the god | 24 | 25, 27 |
