@@ -386,7 +386,7 @@ Each god was born from a collective experience that touched the whole world.
 - **Marek's dinner prayer:** "Korrath, we eat so we may stand. We stand so others need not fall. Count the fallen among your own." Marek eats quickly and goes back out to the armor.
 - **Nara at the bandage change:** "You were very foolish. That one choice could have left you maimed or dead." / "I'm sorry. I was trying to protect my friends." She doesn't answer; she ties the next bandage too tightly. "Ow. Point taken."
 - **The confrontation (chapter ending):** Vagid: "We need to talk about this job and what happened." Evan offers his share of the pay to cover the bandages, the delay and his missed watches. "He really doesn't get it, does he?" / "No. Not at all." / "Nope." Evan: "Just... please don't kick me out of the party." Vagid's weariness vanishes: "How dare you!" (fist on the table). What would Evan have done if Nara had volunteered for the cellar? "Why would you have stopped her?" / "She could have been hurt, or kil—" Ending: "Nobody said anything. They didn't need to." Builds toward the epilogue's "Then don't say it about mine."
-- **Still open:** the plague mage's gender and name (Rachel Lin in the bible, "he" in the plan); confirm "the boy who fell into the river" (ch. 10 river rescue) and Halden's plan to exorcise Xavier are on the page earlier. Nara's pack with the notes sits by the chapel door overnight.
+- **Still open:** the plague mage's gender and name (Rachel Lin in the bible, "he" in the plan). Orrin's references to the boy in the river and Halden's plan to exorcise Xavier are confirmed as established earlier. Nara's pack with the notes sits by the chapel door overnight.
 
 ## Hard Rules
 
