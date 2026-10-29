@@ -8,7 +8,7 @@ This time, Mara's line was the shortest.
 
 When Nara reached the front, Mara beamed. "Hi, Nara! It's so good to see you again!"
 
-*Yeah, she definitely needs a **s**t**o**p* *condition.*
+*Yeah, she definitely needs a stop condition.*
 
 Vagid, Orrin, and I stood in silence. I just looked at the floor.
 

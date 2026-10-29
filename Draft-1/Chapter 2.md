@@ -18,7 +18,7 @@ Another hooded figure stepped forward holding some kind of crystal ball, and his
 
 His voice put an end to that. "Appraise!"
 
-*A**p**p**r**a**i**s**e**?** **L**i**k**e** **i**n **i**s**e**k**a**i**?** **T**hat'**s** **w**e**i**r**d**.** **A**n**d** **c**learly a dude. Okay, Ball Guy.*
+*Appraise? Like in isekai? That's weird. And clearly a dude. Okay, Ball Guy.*
 
 The crystal ball glowed briefly. Then Ball Guy said, "There is a problem."
 
@@ -28,13 +28,13 @@ The crystal ball glowed briefly. Then Ball Guy said, "There is a problem."
 
 "What kind of problem?" asked Bored Dude.
 
-*The kind of problem where this dream is a **r**ea**l **sausage fest*, I thought sadly.
+*The kind of problem where this dream is a real sausage fest,* I thought sadly.
 
 Ball Guy turned to Bored Dude. "He doesn't have any abilities. He's just..."
 
 "A failure?" said Bored Dude.
 
-*R**u**d**e**. **T**h**i**s i**s my d**r**e**a**m**.*
+*Rude. This is my dream.*
 
 Ball Guy showed the crystal ball to Bored Dude.
 
@@ -48,7 +48,7 @@ Ball Guy showed the crystal ball to Bored Dude.
 
 Then most of the robed figures turned and left. As I watched them go, I realized the room was more like a huge domed chamber, and there were a lot more people in it than I'd thought. Some wore armor and carried swords and pikes.
 
-On their way out, they crossed a floor with some strange patterns on it. Or rather *in* it, since they looked like black arcs in the stone. *I wonder what caused those**?** **Almost like inlaid metal, except metal would shine.** *
+On their way out, they crossed a floor with some strange patterns on it. Or rather *in* it, since they looked like black arcs in the stone. *I wonder what caused those? Almost like inlaid metal, except metal would shine.*
 
 One of the guards stood out from the rest: better armor, a cloak, and the kind of posture that comes from giving orders. *Fancy Guard. He must be important.* When the robed figures left, he stayed behind with the guards.
 
@@ -96,7 +96,7 @@ There went my middle finger. No more flipping off bad drivers with that hand.
 
 There went my ability to point at things.
 
-*I'd started the day with ten working fingers. I was down to six**.** **M**y** **t**y**p**i**ng **s**p**e**e**d** **w**a**s** **r**ea**lly go**ing to s**uffer**.*
+*I'd started the day with ten working fingers. I was down to six. My typing speed was really going to suffer.*
 
 I don't remember passing out, but I remember the ice-cold water waking me up.
 

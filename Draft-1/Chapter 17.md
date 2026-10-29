@@ -248,7 +248,7 @@ The steps creaked loudly when I put my weight on the first one. Then I heard som
 
 When I put my weight on the second step, the whole staircase collapsed. I had a moment of weightlessness, then hit the sloped wall of the root cellar and slid the rest of the way down. I splashed into something at the bottom.
 
-*Is it flooded? Thank God**.** **E**r**,** **t**hank T**ired Gu**y** I left Xavier's notes in my pack.*
+*Is it flooded? Thank God. Er, thank Tired Guy I left Xavier's notes in my pack.*
 
 I stood up and looked around. It took my eyes a moment to adjust to the darkness. Then I saw what looked like a minivan-sized blob of Jell-O jiggling in the center of the root cellar.
 
@@ -314,7 +314,7 @@ After that, we all settled in for the night. I wouldn't be able to take my watch
 
 I lay there thinking about what had happened. Volunteering without letting the party respond. Falling into the trap.
 
-*T**i**r**e**d** **G**u**y**?*
+*Tired Guy?*
 
 Nothing. Not even hold music.
 

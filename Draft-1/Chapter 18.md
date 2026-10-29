@@ -56,7 +56,7 @@ His bow thwanged, and a wet, wheezing scream rose from the cellar. It was loud a
 
 "Probably because it wasn't a rock," said Nara with a chuckle.
 
-*I** **w**a**s** **n**e**v**e**r** **l**i**v**i**ng that d**own.*
+*I was never living that down.*
 
 Vagid actually laughed at that, then said, "Come on back out, Orrin. Is there anything we can do to get into the cellar faster?"
 
@@ -66,7 +66,7 @@ Vagid actually laughed at that, then said, "Come on back out, Orrin. Is there an
 
 "Well, what if we tossed in buckets of dirt from up here?" I asked. "Would that soak up enough of the acid for us to get down there?"
 
-"Interesting idea," said Vagid. "But that would take all day. Most slimes dissolve when they die. Give it a couple of hours, and the slime and its acid will be gone on their own."
+"Interesting idea," said Vagid. "But that would take all day. Most slimes dissolve when they die. Though I've never seen one with acid like this. Cellar slimes don't even sting. Give it a couple of hours, and the slime and its acid will be gone on their own."
 
 While we waited for the slime to dissolve, Orrin went out past the blight and caught a rabbit. Vagid made a stew, and Nara kept a light breeze blowing the stench of the cellar away from camp so we could eat lunch without gagging.
 

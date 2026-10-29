@@ -160,7 +160,7 @@ We explained our idea to Rafe and Lida, and I went over all the pros and cons. I
 
 The next day, Rafe and Lida went with us to the merchant's office. We laid out the same proposal, talked it through, and smoothed over any concerns. The merchant was willing to try it.
 
-*A**nother Guild job completed.** **A**n**d** **n**o**b**o**d**y** **p**u**n**c**hed a **hole **in anyt**hing** **w**i**t**h** **t**h**e**i**r** **f**a**c**e**.*
+*Another Guild job completed. And nobody punched a hole in anything with their face.*
 
 \* \* \*
 
@@ -200,7 +200,7 @@ He yanked me completely out of the water with one arm.
 
 "Evan, he's not moving," Vagid said.
 
-I rushed over and checked the boy. He'd been crying not long ago, so he probably hadn't drowned. *Is his heart beating?* I pressed my ear to his chest and heard: *bump-bump**,** **b**u**m**p**-**b**u**m**p**.*
+I rushed over and checked the boy. He'd been crying not long ago, so he probably hadn't drowned. *Is his heart beating?* I pressed my ear to his chest and heard: *bump-bump, bump-bump.*
 
 *Oh! Thank you, Tired Guy! Or whoever is listening.*
 
@@ -212,7 +212,7 @@ I started stripping off the kid's wet clothes. He needed to get out of them and 
 
 "Thank you! Thank you!" she cried. "I thought for sure he was going to end up like those bodies they keep finding in the nets."
 
-*Keep finding**?* *T**he** **G**u**i**l**d** **c**l**o**sed that** jo**b**.*
+*Keep finding? The Guild closed that job.*
 
 Only then did I look back at my friends. Orrin was soaked to the waist, kneeling at the very edge of the landing, the rope still wrapped around his forearm. His palms were raw and bleeding.
 

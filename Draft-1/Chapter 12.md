@@ -40,7 +40,7 @@ I woke Nara for her watch and went to the river to get cleaned up.
 
 *Any sane person would feel sick. I know that you do not want to hear this, but by killing the monster, you were able to free that man's soul. He was able to be reincarnated, all thanks to your party.*
 
-*Yeah**.** **I just **d**o**n**'**t fe**el good** about k**i**l**l**i**n**g**.*
+*Yeah. I just don't feel good about killing.*
 
 *You would not be you if you did.*
 
@@ -60,7 +60,7 @@ We camped at the same site we used on the way down. When we got there, everyone 
 
 When Orrin came back with another rabbit, Vagid took it and started cooking a stew.
 
-*I guess rabbits are plentiful **n**o** **m**atter** **w**h**a**t** **world you're in.*
+*I guess rabbits are plentiful no matter what world you're in.*
 
 While the stew was cooking, Orrin said, "You told the miners there was no such thing as ghosts."
 

@@ -68,7 +68,7 @@ The rest of the day was uneventful. As evening came on, Orrin said, "This is nea
 
 Orrin slipped into the woods without a sound.
 
-*For someone so loud,** **t**hat guy is spooky good at that.*
+*For someone so loud, that guy is spooky good at that.*
 
 "Evan, can you get the fire started?" asked Vagid.
 
@@ -296,7 +296,7 @@ There was a long pause. Then: *Oh, no.*
 
 *Wait! What is it?*
 
-*B**e **c**a**r**e**f**u**l**,** **E**v**a**n. A**n**d**.**.**. **b**e** **k**i**nd to **i**t**,** **i**f** **y**o**u** **can.*
+*Be careful, Evan. And... be kind to it, if you can.*
 
 And then Tired Guy was gone.
 
@@ -312,11 +312,11 @@ After a short while, Vagid signaled for us to stop. We gathered by a large tree,
 
 We all nodded. Vagid pointed at Orrin, then up the creek, and Orrin slipped off in that direction without a sound.
 
-*Orrin**:** scout ahead.*
+*Orrin: scout ahead.*
 
 Vagid pointed at Nara and held up his hands like he was shielding himself. She nodded.
 
-*Na**r**a**:** **make a **shield.*
+*Nara: make a shield.*
 
 Last, he pointed at me, then at himself, walked two fingers through the air, and pointed ahead.
 
@@ -382,7 +382,7 @@ The thing screamed. It was an awful sound, like hundreds of animals all screamin
 
 Another spinning disk of sand streaked over my head. Blood sprayed everywhere, and I was soaked in it. I was staring down at my clothes when I heard a *BOOM*. I looked up to see the thing's head lying on the ground a few feet from its body.
 
-*Mental note**:** seriously**.** never upset Nara. Ever.*
+*Mental note: seriously, never upset Nara. Ever.*
 
 Orrin stepped out from behind a tree a few feet away. I'd had no idea he was anywhere near me. Nara was sitting on the ground, leaning against another tree. Vagid came around from the other side of the body.
 
@@ -406,7 +406,7 @@ After I finished emptying my stomach, I turned back to the others and saw that s
 
 It looked like the light was dripping off the thing, but instead of falling to the ground, it was rising.
 
-The drops of light slowly merged into the figure of a man. He looked completely normal. He was wearing a T-shirt, jeans, and boots, and a baseball cap. *I wish I knew more about baseball.** **M**a**y**b**e** **I** **c**oul**d tell **w**h**e**r**e** **he was **from.*
+The drops of light slowly merged into the figure of a man. He looked completely normal. He was wearing a T-shirt, jeans, and boots, and a baseball cap. *I wish I knew more about baseball. Maybe I could tell where he was from.*
 
 On his arm was a tattoo: "No Regrats."
 

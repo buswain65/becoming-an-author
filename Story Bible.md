@@ -70,7 +70,8 @@ Each god was born from a collective experience that touched the whole world.
 
 - **Loric Pryce:** the lead summoner who runs the ritual.
 - **"Mr. Pliers":** Evan's private name for the torturer, who otherwise stays nameless.
-- **Lumenhold:** the royal castle where King Bertram and Silas live.
+- **Lumenhold:** the royal castle where King Bertram and Silas live. Tired Guy cannot see into any of it ("Too much death has occurred there"). The side facing Lower Lumenhold has no gate and backs onto a hill with caves.
+- **Lower Lumenhold:** a village a short way outside Lumenhold, home to the lower-tier workers who serve the castle but aren't allowed to live in it (laundresses, kitchen porters, stable hands, carters). It sits on the gateless side of the castle, or between two gates, so the Chancellor never sees it when he rides out. Locals may call it "the Lower."
 - **The Adventurers' Guild, Millbrook Branch:** where the party takes jobs.
 - **Plan B:** the party's name (Nara, Orrin, Vagid, and later Evan).
 - **Amaranth's Chapel, Millbrook:** Halden's church.
@@ -87,7 +88,7 @@ Each god was born from a collective experience that touched the whole world.
   **Cuthbert Mossley ("Boss"):** Guild master of the Millbrook Branch; a mouse-like beastkin, the first non-human Evan meets. Everyone calls him "Boss" (always capitalized), except Prue, who calls him "Cutty" to his face and barges into his office without knocking. Very by-the-book, not overly bright, and not pushy: he cares that the report is complete and in the proper format, not whether it's true, and stops asking once the paperwork is done. Play him straight and dignified, never cutesy; the comedy comes from the world fitting around his size. In ch. 7 he takes Evan's "hit my head on the rocks" story at face value; the tension in the meeting comes from Plan B hearing Evan's story for the first time and noticing the gaps.
 * **Scythe of Destiny:** the rival party that calls Orrin "the tag along."
 * **Larkmere:** the city Johan destroyed after being ordered to "find the insurgents and remove them."
-* **Rachel Lin:** the fourth summon, the plague mage (suggested former job: nurse).
+* **Rachel Lin:** the fourth summon, the Plague Mage (a nurse on Earth). Summoned a hundred and seventy-five years ago (about six months before Evan in Earth time). Her notes are careful records of illnesses she was forced to cause; underlined: "I won't do it again." Built the slime trap at the blighted farmhouse; possibly stole the treasury writ from the Lumenhold archives. Fate unknown (ch. 20).
 * **Grace Whitfield:** the sixth summon, author of the stone notes (suggested former job: geologist).
 * **Brightwater House:** the Malgrave estate, home of the family archives, desecrated by sacrifice.
 * **Otherborn:** what locals call summoned people.
@@ -399,6 +400,52 @@ Each god was born from a collective experience that touched the whole world.
 - **Tired Guy (night, bench beside the Class III rapid, away from the chapel):** "Evan, how was your trip?" Evan mentions the new notes (not yet read) and asks about the Great Reset. "That is the plan of some of the gods." / "Plan for what?" / "To start over." A long pause. "Everyone." / "Everyone? As in—" / "Ask me again when you're ready for the answer." Evan thinks of Prue's wink and Orrin's grin and changes the subject on purpose. **Held back for later:** patch vs. fix, which gods back the reset, monsters surviving, the preemptive reset.
 - **The time rule revealed:** "Xavier said he left Earth the same year I did. How is that possible?" / "There is a time difference between your old world and this one." / "One year in this world equals one day on Earth." Evan has been here a little over a month, so about two or three hours on Earth: *Curt is still snoring. No one has even noticed I'm gone.* *If I stay here too long, I'll go home an old man and have to start my life over.* Ending: *Hours. Home is only hours away.*
 - **Moved to ch. 20:** reading the plague mage's notes (still in Nara's pack) at breakfast; the plague mage's name, gender and Earth year; hiding the notes at the river; whether Evan tells Plan B about the time difference.
+
+## Chapter 20 Continuity
+
+- **Breakfast at the cafe:** Evan arrives first; Orrin tries to steal a sausage ("Get your own"). Evan tells Plan B the time rule ("One year here is one day there"; about a month here = "a few hours at most"). Nara: "Evan... are you saying goodbye?" Vagid: "You're thinking about going home, aren't you?" / "Honestly, yes. I am." Orrin: "Well... are you going?" Vagid: "No. He's not." Evan: "I can't. Not until we find a way to fix the problem the summoning causes." / "If the summoning doesn't stop, both worlds will be destroyed." Nara: "Oh. I forgot about that." Orrin: "Way to kill the mood, Evan." Vagid: "Then why tell us at all?" / "Because you're my friends, and you deserve to know. And I can't just abandon either world. There are people I care about in both." Vagid: "I just wanted to make sure you knew why, too." Nara: "We're with you, Evan." Orrin: "Mfm, Evmfh" (mouthful of eggs).
+- **Reading the notes (privately):** Vagid: "Not here." They move to the landing under the bridge (the ch. 8 spot). Nara hands over the notes ("I can't read most of them").
+- **Rachel Lin:** her introduction page names her the Otherborn the kingdom called the Plague Mage; a nurse on Earth ("my world's version of a cleric. A healer"; Orrin: "Does she feed babies or something?"). Plan B: "That's barbaric" (Vagid); "She must have hated her life here" (Orrin); "I know I would" (Evan). She recorded her summoning date in English and Hallish: **a hundred and seventy-five years ago** (Vagid reads it), about six months ago by Earth's calendar. Her notes are a nurse's careful records (dates, towns, symptoms, how long each case lasted) of illnesses she was ordered to cause. Underlined twice near the end: *I won't do it again.*
+- **The treasury writ (Hallish; Evan can't untangle the legalese):** "Writ of Disbursement, Royal Treasury of Sunhallow. Account: Chamber Provisions. Authorized: the purchase of four hundred units, of sound condition, for delivery to Thornspire before the next preparation cycle. Rate: eleven rays per unit, delivered. Units arriving unfit for use shall not be paid for. Transport and holding costs to be charged to Consumables (Ritual). Approved: \[seal\], for the Chancellor. Countersigned: \[clerk's mark\]." Nara: "This is for the sacrifices." *Four hundred units… the same number as my summoning. Four hundred people, used up to curse Rachel with a horrible ability. They didn't even get to reincarnate. All for the sake of the kingdom.* Vagid: the Chancellor's seal, a clerk's mark, and a note filing it in the Chancellor's archive; "The Plague Mage must have stolen this from the archives in Lumenhold." Evan: "Just because she had it doesn't mean she stole it." Unresolved.
+- **The archives become the goal:** Orrin: "Maybe there's more there." (Vagid stares; "For a change, no.") Vagid: "Successes. Failures. Chimeras." Evan: "It might have more about my summoning." Nara: "If Rachel managed it without getting caught, we should be able to as well" (Rachel's fate is unknown).
+- **Hiding the notes:** Vagid refuses traps ("I don't like the idea of setting traps like Rachel did"). Evan suggests the river bottom; Orrin: the paper would fall apart. Nara: hide it "somewhere there's already lots of paper." Evan: "Cuthbert would file them, cross-reference them, and never read a word." Evan wants a clue so that "if we fail, the next Otherborn should know where to look."
+- **The message:** IF YOU'RE FROM EARTH, YOU'RE NOT ALONE. ASK THE GUILD FOR PLAN B'S FILE. Nara copies the English like a drawing ("That's pretty, but what does it say?").
+- **The Guild:** Prue: "I'm still waiting on that dinner, Evan." / "Uh... I've got a lot going on right now, but soon." Orrin: "Yeah, when are you going to take her out to dinner?" Prue flings the door open: "Cutty! Plan B wants to see you." Cuthbert glances at the first page, stamps it, and files **all the notes (Xavier's and Rachel's, including the writ) in Plan B's file.** Risk to track: stolen royal documents now sit in a Guild file under Plan B's name.
+- **Slime pay:** four large bags. Prue: "Don't forget." / "You bet." **Guild accounts** are free: a dull brown card with the Guild sigil and a long number, no name. Evan deposits his whole share (he still has Hollin's Cross money). *A Guild card. Finally. It wasn't shiny, but I'd take it.* / *My name isn't on it. Just a number. Some things in this world never change.* (Echoes "Thirteen.")
+- **Nara's boulder:** near the spot by the river where Evan talks with Tired Guy. Evan teaches Nara the word **"eddy"** ("Ed-dies?"), a plant for naming the god in ch. 28. Sand from a sandbar a few houses' lengths downriver (Evan and Vagid haul it in Evan's cloak) and upstream (Orrin, with buckets from who knows where; "That's great exercise"). Nara: "If I see one more grain of sand today, I'm carving your face again." Dinner at the cafe, Evan's treat. Ending: the boulder is half done: *IF YOU'RE FROM EARTH, YOU'RE NOT ALONE.*
+- **Still open:** the chimera truth for Plan B; Rachel's fate; the clerk's identity; Prue's dinner.
+
+## Planned Reveal: Rachel Lin's Fate (the archives)
+
+Tired Guy's memories of Rachel stop at the farm (ch. 21): on the way there, her only thoughts were of the harm she'd caused and how to make amends; "Why she built the trap, I can't tell you. Her memories stop at that farm. Whatever happened to her there, I never saw it." The answer comes in the archives (first archive trip), as a field report from the kingdom's assassins, the same service that killed Xavier.
+
+> *Field Report, Retrieval of Subject Four (Plague)*
+>
+> *Subject tracked to an abandoned farmstead south of Barley Ford. Detachment of twenty-four, eighteen with crossbows. Per Subject's records, effective range of her ability is thirty paces. Detachment held at one hundred.*
+>
+> *Subject was standing on the porch. She called out a warning that we were too close. The commander judged the distance sufficient.*
+>
+> *Subject was struck by several bolts and fell. Within moments, the men in the front rank began coughing. Within the hour, nineteen were dead. The rear rank withdrew to the ridge. Two more died before morning.*
+>
+> *At dawn, crops and livestock as far as the ridge had failed. Subject was not observed to move.*
+>
+> *Documents: not recovered. Site considered unsafe. Recommend quarantine. Recommend Subject's records be amended: effective range underestimated.*
+
+- **What it reveals without stating it:** Rachel warned them even at the end. The kingdom trusted its own records over her. Her dying surge reached far past her recorded range, and the blight's edge ("as far as the ridge") is where it stopped; this is the sickly brown land Plan B crossed in ch. 17. The mass death made the farm a blind spot for the gods, which is why Tired Guy's memories end there. The kingdom never found the box on the cellar ceiling, and those documents now sit in Plan B's Guild file.
+- **Left open:** the slime. Nobody went inside, so the report can't explain it. **Planned answer:** the original slime was a harmless **cellar slime** (a common, docile slime farmers keep to eat spoilage in root cellars). Rachel put it there as a deterrent, not a killer. Her final surge twisted it, the only living thing left in the cellar, into the acid slime, and 175 years of feeding on adventurers grew it to minivan size. Rachel never meant to kill anyone; Evan's ch. 18 conclusion ("had planned to kill whoever came looking") was wrong. **How the reader learns it:** (1) the early plant, now in ch. 18: Vagid, after "Most slimes dissolve when they die": "Though I've never seen one with acid like this. Cellar slimes don't even sting."; (2) a line in Rachel's English notes that Evan skimmed past, now in Cuthbert's file: *"Bought a cellar slime from the farmer in Barley Ford. Harmless. It'll keep the curious away."* After the archive report, Evan rereads it and understands.
+- **Optional:** "Subject appeared to lower her hands before the volley," if Rachel's death should read as chosen.
+- **Evan's reaction:** short, no jokes. It sits near his own entry, "Thirteen: defective, disposed of" (two Otherborn reduced to a line each). Possible line: *She told them they were too close.*
+
+## Planned: The Way into Lumenhold (the kobold tunnels)
+
+- **Tired Guy's knowledge (ch. 21):** he cannot see into Lumenhold. Xavier's memories cover only the area around the entrance and the banquet hall. Rachel's memories of Lumenhold are tinged with hatred and fear; she remembered hidden passages, but Tired Guy can't see clearly how to reach them.
+- **The job:** the residents of Lower Lumenhold pool their coins and post a Guild job: kobolds in the hill caves taking chickens, grain, and tools. The castle doesn't care, so the village asks the Guild. Plan B takes it because it's near Lumenhold (a scouting trip; Evan's idea).
+- **The requester:** a Lower Lumenhold villager who works in the castle (laundress, kitchen porter, or carter; name and gender TBD). The human face of the job; knows the castle's routines (shift changes, servants' stairs, when the kitchens are empty). Helps because the Guild actually showed up for them.
+- **The caves:** the kobolds have camped in a cave on the gateless side. Their digging broke into an old sealed passage that leads up into the dungeons of Lumenhold. This is why Tired Guy can't see how to reach Rachel's passages: the route didn't connect to anything until the kobolds dug through. Possibly Rachel's escape route from the cells.
+- **Optional comic hook:** small thefts from the castle kitchens (cheese, spoons, candles) blamed on the servants; really the kobolds.
+- **Open:** clear the kobolds or bargain with a kobold chief who knows the tunnels; whether the courier job is dropped or kept as a cover story; whether the archives sit on the lower level near the cells.
+- **The limit:** the cave is the last place Tired Guy can reach Evan. Once Plan B climbs into the dungeons, he is blind.
+- **Outline change:** the kobold job moves ahead of the archives (it was planned after K2).
 
 ## Hard Rules
 

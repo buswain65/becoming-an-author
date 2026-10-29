@@ -10,7 +10,7 @@ The next morning, I greeted Halden on my way out of the chapel. "Good morning!"
 
 "Have fun. Don't die. Don't forget your tab," said Halden, and it looked like he had a raised eyebrow.
 
-*I**s** th**at** a joke?*
+*Is that a joke?*
 
 They'd told me to meet them at the café they always went to. It had outdoor seating, and as long as I walked from the chapel to the town center, I'd pass right by it. Sure enough, Nara, Vagid, and Orrin were waiting for me out front.
 

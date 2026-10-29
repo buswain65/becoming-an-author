@@ -70,7 +70,7 @@ Ruta came up behind me and said proudly, "Spacious!"
 
 "Give me a minute," Vagid grunted as he climbed the ladder and squeezed himself through the opening.
 
-*Yep. Definitely no chance for Tall Guy or **m**e**.** **P**l**u**s**,** **I**'**m** **w**e**a**r**i**n**g** **a** **t**e**n**t**-**r**o**b**e** **w**it**h** **nothing **o**n** **u**n**d**e**r**n**e**a**t**h**.** **T**h**e** **l**ast thin**g **I** **n**e**e**d** **i**s** **f**o**r **V**a**g**i**d**'**s** **p**a**r**e**n**t**s** **t**o** **t**h**i**n**k** **I**'**m** **a** **p**e**r**v**e**r**t**.*
+*Yep. Definitely no chance for Tall Guy or me. Plus, I'm wearing a tent-robe with nothing on underneath. The last thing I need is for Vagid's parents to think I'm a pervert.*
 
 After some grunting and the sound of boxes being shoved around, a few pairs of pants and some shirts came tumbling down through the opening.
 
@@ -130,7 +130,7 @@ For a moment, I froze. Her name. It sounded so close.
 
 I realized my eyes were wide and my mouth was hanging open. I cleared my throat. "Yeah. She just surprised me."
 
-*S**o**m**e**d**a**y** **t**h**a**t** name** **w**o**n**'**t** **h**u**r**t**.*
+*Someday that name won't hurt.*
 
 "Is this the guy you found by the river?" asked Orrin's father.
 
