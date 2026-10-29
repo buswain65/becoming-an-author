@@ -46,7 +46,7 @@ Nara and Vagid were looking at me with suspicion and worry. I could practically 
 
 I decided to try something. Switching to English, I said, "I hoped you would believe me, but it's a long way from the Nantahala and pizza to here."
 
-Orrin stopped laughing. "What did you just say? Peet-sha?"
+Orrin stopped laughing. "What did you just say? That wasn't Hallish. And what's a peet-sha?"
 
 "Pizza. It's a food. From home." I paused. "Have you heard about it before?"
 

@@ -26,7 +26,7 @@ When I said "two hundred years," Halden's eyes narrowed, and he looked at me. Na
 
 I turned back to Xavier. "So, Xavier, can you give me the elevator version of what happened to you?"
 
-"Huh. It's been centuries since I heard that term. But, yeah," he said. "I came here to hide something. While I was here, the kingdom's assassins killed me. Now I'm stuck here. I used to speak their language too. When I died, it went with the rest of me."
+"Huh. It's been centuries since I heard that term. But, yeah," he said. "I came here to hide something. While I was here, the kingdom's assassins killed me. Now I'm stuck here. I used to speak Hallish too. When I died, it went with the rest of me."
 
 "You're from Earth too," Xavier whispered.
 

@@ -56,7 +56,7 @@ As Vagid tightened the last knot, the stranger stirred and mumbled something, ri
 
 "That's what I get for eating pizza."
 
-"Do either of you know what language that was?" asked Vagid. "I don't recognize it."
+"Do either of you know what language that was?" asked Vagid. "It wasn't Hallish, and it wasn't Dravian either. I don't recognize it."
 
 "Never heard it before," said Orrin. "What's a *peet-sha* anyway?"
 

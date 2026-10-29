@@ -114,7 +114,7 @@ I found Halden back in the main room. "Halden, can you take a look at this?" I s
 
 "Hm. I still can't read that funny language," said Halden.
 
-*Oh. Right. It's in English.* So I took a blank piece of paper and wrote out what it said in this world's language, starting with the parts I could still see in pink.
+*Oh. Right. It's in English.* So I took a blank piece of paper and wrote out what it said in Hallish, starting with the parts I could still see in pink.
 
 "These are the letters that are still pink, but there were more that faded away. That's what I needed the candle for," I said. As I talked, I filled in the missing letters. "This is the whole thing. Do you know what it means?"
 
